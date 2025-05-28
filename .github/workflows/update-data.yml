@@ -1,0 +1,25 @@
+name: Update Data
+on:
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    name: Update Data
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate Report
+        run: |
+          export UPDATE_DATE=$(date)
+          echo $UPDATE_DATE > report.txt
+          git config user.email "no_email"
+          git config user.name "Windy Civi Bot"
+          git add report.txt
+          git commit -m"Automated report update (report dated $UPDATE_DATE)"
+          git push
