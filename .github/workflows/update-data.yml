@@ -14,7 +14,14 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          path: main
+      - name: Scrape Setup
+        uses: actions/checkout@v4
+        with:
+          repository: windy-civi/windy-civi
+          path: windy-civi
       - name: Generate Report
+        working-directory: ./main
         run: |
           export UPDATE_DATE=$(date)
           echo $UPDATE_DATE > report.txt
