@@ -10,6 +10,11 @@ jobs:
       contents: write
 
     steps:
+      - name: Get Date
+        id: get-date
+        run: |
+          echo "date=$(/bin/date "+%Y%m%dT%H%M%S")" >> $GITHUB_OUTPUT
+        shell: bash
       - name: Checkout
         uses: actions/checkout@v4
         with:
@@ -20,20 +25,23 @@ jobs:
         with:
           repository: windy-civi/windy-civi
           path: windy-civi
+      - name: Cache Scrapes
+        uses: actions/cache@v4
+        with:
+          path: /var/tmp/_working/_cache
+          key: cache-scrapes-key-${{ steps.get-date.outputs.date }}
+          restore-keys: |
+            cache-scrapes-key-
       - name: Scrape Data
         working-directory: ./main
         run: |
           docker pull openstates/scrapers:28675b011eef5bb35a758d05d1b7313d515c28ea
-          docker run openstates/scrapers:28675b011eef5bb35a758d05d1b7313d515c28ea --help
-          mkdir _working
+          mkdir -p /var/tmp/_working
           docker run \
-              -v "$(pwd)/_working/_data":/opt/openstates/openstates/_data \
-              -v "$(pwd)/_working/_cache":/opt/openstates/openstates/_cache \
+              -v "/var/tmp/_working/_data":/opt/openstates/openstates/_data \
+              -v "/var/tmp/_working/_cache":/opt/openstates/openstates/_cache \
               openstates/scrapers:28675b011eef5bb35a758d05d1b7313d515c28ea \
               il bills --scrape --fastmode
-          ls -al _working
-          du -sh _working
-          tree _working
 
       # - name: Generate Report
       #   working-directory: ./main
