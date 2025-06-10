@@ -48,7 +48,7 @@ jobs:
               -v "/var/tmp/_working/_cache":/opt/openstates/openstates/_cache \
               openstates/scrapers:28675b011eef5bb35a758d05d1b7313d515c28ea \
               il bills --scrape --fastmode
-      - name: Generate Release
+      - name: Format Data
         working-directory: ./windy-civi/openstates_scraped_data_formatter
         env:
           FORMATTER_INPUT_FOLDER: /var/tmp/_working/_data/il
@@ -59,16 +59,17 @@ jobs:
           pipenv install
           pipenv run python main.py
           cd data/data_output/il/data_processed
-          tar zcvf snapshot-${{ steps.get-date.outputs.date }}.tgz country:us
-
-
-      # - name: Generate Report
-      #   working-directory: ./main
-      #   run: |
-      #     export UPDATE_DATE=$(date)
-      #     echo $UPDATE_DATE > report.txt
-      #     git config user.email "no_email"
-      #     git config user.name "Windy Civi Bot"
-      #     git add report.txt
-      #     git commit -m"Automated report update (report dated $UPDATE_DATE)"
-      #     git push
+          tar zcvf /var/tmp/snapshot-${{ steps.get-date.outputs.date }}.tgz country:us
+      - name: Create Release
+        working-directory: ./main
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.email "no_email"
+          git config user.name "Windy Civi Bot"
+          git tag snapshot-${{ steps.get-date.outputs.date }}
+          git push origin snapshot-${{ steps.get-date.outputs.date }}
+          gh release create snapshot-${{ steps.get-date.outputs.date }} \
+            /var/tmp/snapshot-${{ steps.get-date.outputs.date }}.tgz \
+            --title "Snapshot ${{ steps.get-date.outputs.date }}" \
+            --notes "Snapshot of data as of ${{ steps.get-date.outputs.date }}"
