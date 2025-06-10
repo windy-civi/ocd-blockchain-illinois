@@ -24,6 +24,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: windy-civi/windy-civi
+          ref: jml/additional-proj-setup # TODO prototyping branch
           path: windy-civi
       - name: Cache Scrapes
         uses: actions/cache@v4
@@ -42,6 +43,17 @@ jobs:
               -v "/var/tmp/_working/_cache":/opt/openstates/openstates/_cache \
               openstates/scrapers:28675b011eef5bb35a758d05d1b7313d515c28ea \
               il bills --scrape --fastmode
+      - name: Generate Release
+        working-directory: ./windy-civi/openstates_scraped_data_formatter
+        env:
+          FORMATTER_INPUT_FOLDER: /var/tmp/_working/_data/il
+        run: |
+          ls -al
+          echo $FORMATTER_INPUT_FOLDER
+          pipenv run python main.py
+          cd data/data_output/il/data_processed
+          tar zcvf snapshot-${{ steps.get-date.outputs.date }}.tgz country:us
+
 
       # - name: Generate Report
       #   working-directory: ./main
