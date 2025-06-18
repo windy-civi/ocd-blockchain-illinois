@@ -1,0 +1,53 @@
+name: OpenState Scrape
+on:
+  workflow_dispatch:
+
+jobs:
+  openstate-scrape:
+    name: OpenState Scrape
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Get Date
+        id: get-date
+        run: |
+          echo "date=$(/bin/date "+%Y%m%dT%H%M%S")" >> $GITHUB_OUTPUT
+        shell: bash
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: main
+      - name: Cache Scrapes
+        uses: actions/cache@v4
+        with:
+          path: _working/_cache
+          key: new-cache-scrapes-key-${{ steps.get-date.outputs.date }}
+          restore-keys: |
+            new-cache-scrapes-key-
+      - name: Scrape Data
+        working-directory: ./main
+        run: |
+          docker pull openstates/scrapers:28675b011eef5bb35a758d05d1b7313d515c28ea
+          mkdir -p /var/tmp/_working
+          docker run \
+              -v "$(pwd)/_working/_data":/opt/openstates/openstates/_data \
+              -v "$(pwd)/_working/_cache":/opt/openstates/openstates/_cache \
+              openstates/scrapers:28675b011eef5bb35a758d05d1b7313d515c28ea \
+              il bills --scrape --fastmode
+          tar zcvf scrape-snapshot-${{ steps.get-date.outputs.date }}.tgz _working
+      - name: Create Scrape Release
+        working-directory: ./main
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.email "no_email"
+          git config user.name "Windy Civi Bot"
+          git tag scrape-snapshot-${{ steps.get-date.outputs.date }}
+          git push origin scrape-snapshot-${{ steps.get-date.outputs.date }}
+          gh release create scrape-snapshot-${{ steps.get-date.outputs.date }} \
+            scrape-snapshot-${{ steps.get-date.outputs.date }}.tgz \
+            --title "Scrape Test Snapshot ${{ steps.get-date.outputs.date }}" \
+            --notes "Scrape test data as of ${{ steps.get-date.outputs.date }}"
