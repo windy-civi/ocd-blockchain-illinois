@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d88b2952-4dfe-11f0-af86-f253077c9305",
+  "bill": "88bd4b86-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1832",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1832_44280.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1832SCA1_44233.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1832_44280.pdf",
-  "_id": "d8936d9c-4dfe-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1832SCA1_44233.pdf",
+  "_id": "88c73c2c-4e07-11f0-941a-56c8c14823b7"
 }

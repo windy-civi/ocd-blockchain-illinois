@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "dc04d998-4dfe-11f0-af86-f253077c9305",
+  "bill": "8c22eb78-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1957",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1957_42108.pdf",
-  "_id": "dc091044-4dfe-11f0-af86-f253077c9305"
+  "_id": "8c271c52-4e07-11f0-941a-56c8c14823b7"
 }

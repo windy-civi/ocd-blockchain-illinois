@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "65482368-4dff-11f0-af86-f253077c9305",
+  "bill": "163f7ec0-4e08-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SJR12",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400SJ0012_05272025_011000.pdf",
-  "_id": "654d5112-4dff-11f0-af86-f253077c9305"
+  "_id": "1644e5a4-4e08-11f0-941a-56c8c14823b7"
 }

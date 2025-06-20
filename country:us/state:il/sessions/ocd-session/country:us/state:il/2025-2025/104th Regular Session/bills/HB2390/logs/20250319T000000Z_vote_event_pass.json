@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e75b94bc-4dfe-11f0-af86-f253077c9305",
+  "bill": "974d07cc-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2390",
   "votes": [
@@ -123,5 +123,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2390_42433.pdf",
-  "_id": "e77131c8-4dfe-11f0-af86-f253077c9305"
+  "_id": "97624a56-4e07-11f0-941a-56c8c14823b7"
 }

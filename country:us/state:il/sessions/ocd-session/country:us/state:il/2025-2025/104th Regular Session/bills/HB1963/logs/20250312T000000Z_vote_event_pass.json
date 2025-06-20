@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "dc297118-4dfe-11f0-af86-f253077c9305",
+  "bill": "8c46ce94-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1963",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1963_42108.pdf",
-  "_id": "dc2da6c0-4dfe-11f0-af86-f253077c9305"
+  "_id": "8c4aed08-4e07-11f0-941a-56c8c14823b7"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ebcb8778-4dfe-11f0-af86-f253077c9305",
+  "bill": "9bb7e11a-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2548",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB2548_05222025_054044.pdf",
-  "_id": "ebd0b6c6-4dfe-11f0-af86-f253077c9305"
+  "_id": "9bbd1216-4e07-11f0-941a-56c8c14823b7"
 }

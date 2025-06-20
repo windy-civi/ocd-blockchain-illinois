@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Concurrence",
+  "motion_text": "Concurrence, Amendment 3",
   "motion_classification": [],
   "start_date": "2025-05-31",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f2322e5a-4dfe-11f0-af86-f253077c9305",
+  "bill": "a217c89a-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2785",
   "votes": [
@@ -741,11 +741,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB2785sam001_05312025_032000C.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB2785sam003_05312025_032001C.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB2785sam001_05312025_032000C.pdf",
-  "_id": "f23a27cc-4dfe-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB2785sam003_05312025_032001C.pdf",
+  "_id": "a222558a-4e07-11f0-941a-56c8c14823b7"
 }

@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0e3eb690-4dff-11f0-af86-f253077c9305",
+  "bill": "be1365c2-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3790",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3790SCA1_44238.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3790_44240.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3790SCA1_44238.pdf",
-  "_id": "0e4d321a-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3790_44240.pdf",
+  "_id": "be207f14-4e07-11f0-941a-56c8c14823b7"
 }

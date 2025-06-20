@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Health and Human Services, Amendment 4",
+  "motion_text": "Health and Human Services, Amendment 3",
   "motion_classification": [],
   "start_date": "2025-05-06",
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "2b9bbd3c-4dff-11f0-af86-f253077c9305",
+  "bill": "dbc7991c-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB593",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0593SFA4_43979.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0593SFA3_43978.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0593SFA4_43979.pdf",
-  "_id": "2ba9e196-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0593SFA3_43978.pdf",
+  "_id": "dbd457ec-4e07-11f0-941a-56c8c14823b7"
 }

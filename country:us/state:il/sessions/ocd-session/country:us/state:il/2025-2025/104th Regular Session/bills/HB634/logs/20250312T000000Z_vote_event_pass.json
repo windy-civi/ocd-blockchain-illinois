@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "bbfba348-4dfe-11f0-af86-f253077c9305",
+  "bill": "6cc4a74e-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB634",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0634_42109.pdf",
-  "_id": "bbfff4b6-4dfe-11f0-af86-f253077c9305"
+  "_id": "6cc8e318-4e07-11f0-941a-56c8c14823b7"
 }

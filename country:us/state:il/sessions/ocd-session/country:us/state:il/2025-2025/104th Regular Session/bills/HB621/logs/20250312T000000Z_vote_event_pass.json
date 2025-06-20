@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "bbab38fe-4dfe-11f0-af86-f253077c9305",
+  "bill": "6c77ad36-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB621",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0621_42109.pdf",
-  "_id": "bbaf87b0-4dfe-11f0-af86-f253077c9305"
+  "_id": "6c7bde42-4e07-11f0-941a-56c8c14823b7"
 }

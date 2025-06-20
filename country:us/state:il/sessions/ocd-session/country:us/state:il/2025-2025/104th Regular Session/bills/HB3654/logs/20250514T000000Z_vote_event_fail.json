@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0a3bc06a-4dff-11f0-af86-f253077c9305",
+  "bill": "ba0fd708-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3654",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3654_44243.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3654SCA1_44235.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3654_44243.pdf",
-  "_id": "0a44e74e-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3654SCA1_44235.pdf",
+  "_id": "ba1abbaa-4e07-11f0-941a-56c8c14823b7"
 }

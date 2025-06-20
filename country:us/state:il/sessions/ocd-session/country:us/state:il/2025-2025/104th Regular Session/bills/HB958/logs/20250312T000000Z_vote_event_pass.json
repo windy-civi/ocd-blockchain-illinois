@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "c41c3538-4dfe-11f0-af86-f253077c9305",
+  "bill": "7496f13e-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB958",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0958_42109.pdf",
-  "_id": "c4207de6-4dfe-11f0-af86-f253077c9305"
+  "_id": "749b2362-4e07-11f0-941a-56c8c14823b7"
 }

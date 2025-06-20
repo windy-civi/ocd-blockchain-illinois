@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3ffea302-4dff-11f0-af86-f253077c9305",
+  "bill": "f073d3f8-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB1422",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB1422_43559.pdf",
-  "_id": "40088ca0-4dff-11f0-af86-f253077c9305"
+  "_id": "f07dd722-4e07-11f0-941a-56c8c14823b7"
 }

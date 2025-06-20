@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "be2d2506-4dfe-11f0-af86-f253077c9305",
+  "bill": "6ee43580-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB722",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0722_42109.pdf",
-  "_id": "be31654e-4dfe-11f0-af86-f253077c9305"
+  "_id": "6ee86c68-4e07-11f0-941a-56c8c14823b7"
 }

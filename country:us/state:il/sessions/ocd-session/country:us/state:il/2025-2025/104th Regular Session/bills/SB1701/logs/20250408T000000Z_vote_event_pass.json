@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Labor, Amendment 1",
+  "motion_text": "Labor, Amendment 2",
   "motion_classification": [],
   "start_date": "2025-04-08",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "473d9862-4dff-11f0-af86-f253077c9305",
+  "bill": "f7c0c922-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB1701",
   "votes": [
@@ -153,11 +153,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1701SFA1_43290.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1701SFA2_43291.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1701SFA1_43290.pdf",
-  "_id": "474b1ac8-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1701SFA2_43291.pdf",
+  "_id": "f7d1b9c6-4e07-11f0-941a-56c8c14823b7"
 }

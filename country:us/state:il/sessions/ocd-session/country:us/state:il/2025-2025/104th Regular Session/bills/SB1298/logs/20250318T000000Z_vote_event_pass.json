@@ -6,22 +6,10 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3ccc4608-4dff-11f0-af86-f253077c9305",
+  "bill": "ed3a3ae2-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB1298",
   "votes": [
-    {
-      "option": "yes",
-      "voter_name": "Arellano Jr., Li",
-      "voter_id": "~{\"name\": \"Arellano Jr., Li\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Anderson, Neil",
-      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
-      "note": ""
-    },
     {
       "option": "yes",
       "voter_name": "Fine, Laura",
@@ -36,26 +24,14 @@
     },
     {
       "option": "yes",
+      "voter_name": "Lightford, Kimberly A",
+      "voter_id": "~{\"name\": \"Lightford, Kimberly A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
       "voter_name": "Koehler, David",
       "voter_id": "~{\"name\": \"Koehler, David\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Plummer, Jason",
-      "voter_id": "~{\"name\": \"Plummer, Jason\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Morrison, Julie A",
-      "voter_id": "~{\"name\": \"Morrison, Julie A\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Syverson, Dave",
-      "voter_id": "~{\"name\": \"Syverson, Dave\"}",
       "note": ""
     },
     {
@@ -77,20 +53,44 @@
       "note": ""
     },
     {
+      "option": "no",
+      "voter_name": "Arellano Jr., Li",
+      "voter_id": "~{\"name\": \"Arellano Jr., Li\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Anderson, Neil",
+      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Syverson, Dave",
+      "voter_id": "~{\"name\": \"Syverson, Dave\"}",
+      "note": ""
+    },
+    {
       "option": "not voting",
-      "voter_name": "Lightford, Kimberly A",
-      "voter_id": "~{\"name\": \"Lightford, Kimberly A\"}",
+      "voter_name": "Plummer, Jason",
+      "voter_id": "~{\"name\": \"Plummer, Jason\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Morrison, Julie A",
+      "voter_id": "~{\"name\": \"Morrison, Julie A\"}",
       "note": ""
     }
   ],
   "counts": [
     {
       "option": "yes",
-      "value": 11
+      "value": 7
     },
     {
       "option": "no",
-      "value": 0
+      "value": 3
     },
     {
       "option": "other",
@@ -106,16 +106,16 @@
     },
     {
       "option": "not voting",
-      "value": 1
+      "value": 2
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1298SCA1_42315.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1298_42320.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1298SCA1_42315.pdf",
-  "_id": "3cda2566-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1298_42320.pdf",
+  "_id": "ed468be4-4e07-11f0-941a-56c8c14823b7"
 }

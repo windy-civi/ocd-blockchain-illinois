@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "6903c3e0-4dff-11f0-af86-f253077c9305",
+  "bill": "1a0e2cae-4e08-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "AM1030510",
   "votes": [
@@ -81,5 +81,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400AM1030510_43116.pdf",
-  "_id": "690a2b54-4dff-11f0-af86-f253077c9305"
+  "_id": "1a147014-4e08-11f0-941a-56c8c14823b7"
 }

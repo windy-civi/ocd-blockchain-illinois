@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0e8f0e74-4dff-11f0-af86-f253077c9305",
+  "bill": "be65cda8-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3800",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB3800_05222025_035000T.pdf",
-  "_id": "0e96ba98-4dff-11f0-af86-f253077c9305"
+  "_id": "be6dc724-4e07-11f0-941a-56c8c14823b7"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ba0ddf56-4dfe-11f0-af86-f253077c9305",
+  "bill": "6ae6d0c8-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB554",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0554_42109.pdf",
-  "_id": "ba1230f6-4dfe-11f0-af86-f253077c9305"
+  "_id": "6aeaf72a-4e07-11f0-941a-56c8c14823b7"
 }

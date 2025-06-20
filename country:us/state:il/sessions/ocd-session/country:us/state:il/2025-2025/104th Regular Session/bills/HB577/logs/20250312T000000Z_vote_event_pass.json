@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ba9b8c98-4dfe-11f0-af86-f253077c9305",
+  "bill": "6b70b13a-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB577",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0577_42109.pdf",
-  "_id": "ba9fe34c-4dfe-11f0-af86-f253077c9305"
+  "_id": "6b75213e-4e07-11f0-941a-56c8c14823b7"
 }

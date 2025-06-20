@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "bbb7a3dc-4dfe-11f0-af86-f253077c9305",
+  "bill": "6c837878-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB623",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0623_42109.pdf",
-  "_id": "bbbbeda2-4dfe-11f0-af86-f253077c9305"
+  "_id": "6c87b226-4e07-11f0-941a-56c8c14823b7"
 }

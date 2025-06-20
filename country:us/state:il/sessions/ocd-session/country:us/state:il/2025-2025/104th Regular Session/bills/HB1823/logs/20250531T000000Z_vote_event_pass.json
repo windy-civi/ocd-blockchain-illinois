@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d845c268-4dfe-11f0-af86-f253077c9305",
+  "bill": "8878d816-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1823",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB1823_05312025_080000T.pdf",
-  "_id": "d84b212c-4dfe-11f0-af86-f253077c9305"
+  "_id": "887e40bc-4e07-11f0-941a-56c8c14823b7"
 }

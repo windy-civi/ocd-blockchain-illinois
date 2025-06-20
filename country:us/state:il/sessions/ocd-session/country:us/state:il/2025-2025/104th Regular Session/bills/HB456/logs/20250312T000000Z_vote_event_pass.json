@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "b7a2913a-4dfe-11f0-af86-f253077c9305",
+  "bill": "688535b8-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB456",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0456_42109.pdf",
-  "_id": "b7a6dc72-4dfe-11f0-af86-f253077c9305"
+  "_id": "688976be-4e07-11f0-941a-56c8c14823b7"
 }

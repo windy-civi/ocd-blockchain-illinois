@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "b7bb879e-4dfe-11f0-af86-f253077c9305",
+  "bill": "689e06b0-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB460",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0460HFA1_43215.pdf",
-  "_id": "b7c76d2a-4dfe-11f0-af86-f253077c9305"
+  "_id": "68a9d986-4e07-11f0-941a-56c8c14823b7"
 }

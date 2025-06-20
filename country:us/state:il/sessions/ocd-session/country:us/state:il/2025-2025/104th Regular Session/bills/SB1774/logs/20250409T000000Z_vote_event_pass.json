@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "49267dce-4dff-11f0-af86-f253077c9305",
+  "bill": "f9af5d34-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB1774",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400SB1774_04092025_001035.pdf",
-  "_id": "492d9672-4dff-11f0-af86-f253077c9305"
+  "_id": "f9b6a134-4e07-11f0-941a-56c8c14823b7"
 }

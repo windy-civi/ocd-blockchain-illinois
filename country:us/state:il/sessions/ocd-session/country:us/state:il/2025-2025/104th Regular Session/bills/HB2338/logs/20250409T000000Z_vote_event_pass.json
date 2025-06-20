@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e5acafe8-4dfe-11f0-af86-f253077c9305",
+  "bill": "95a15b08-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2338",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB2338_04092025_049000T.pdf",
-  "_id": "e5b24034-4dfe-11f0-af86-f253077c9305"
+  "_id": "95a6e51e-4e07-11f0-941a-56c8c14823b7"
 }

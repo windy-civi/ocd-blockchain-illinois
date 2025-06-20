@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "03f64086-4dff-11f0-af86-f253077c9305",
+  "bill": "b3ce4708-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3433",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3433_42363.pdf",
-  "_id": "03fa9870-4dff-11f0-af86-f253077c9305"
+  "_id": "b3d2ca12-4e07-11f0-941a-56c8c14823b7"
 }

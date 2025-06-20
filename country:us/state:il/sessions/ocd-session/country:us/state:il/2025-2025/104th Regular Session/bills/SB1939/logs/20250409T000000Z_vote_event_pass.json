@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Judiciary, Amendment 1",
+  "motion_text": "Judiciary, Amendment 2",
   "motion_classification": [],
   "start_date": "2025-04-09",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4d697af8-4dff-11f0-af86-f253077c9305",
+  "bill": "fe030ad4-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB1939",
   "votes": [
@@ -93,11 +93,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1939SFA1_43476.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1939SFA2_43477.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1939SFA1_43476.pdf",
-  "_id": "4d75e702-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1939SFA2_43477.pdf",
+  "_id": "fe118406-4e07-11f0-941a-56c8c14823b7"
 }

@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "cd1aef4e-4dfe-11f0-af86-f253077c9305",
+  "bill": "7d738baa-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1352",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1352HFA2_43313.pdf",
-  "_id": "cd23de92-4dfe-11f0-af86-f253077c9305"
+  "_id": "7d7c5258-4e07-11f0-941a-56c8c14823b7"
 }

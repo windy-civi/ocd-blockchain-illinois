@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "03094b78-4dff-11f0-af86-f253077c9305",
+  "bill": "b2e1ae34-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3396",
   "votes": [
@@ -219,5 +219,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3396HFA2_43439.pdf",
-  "_id": "03133bc4-4dff-11f0-af86-f253077c9305"
+  "_id": "b2eb921e-4e07-11f0-941a-56c8c14823b7"
 }

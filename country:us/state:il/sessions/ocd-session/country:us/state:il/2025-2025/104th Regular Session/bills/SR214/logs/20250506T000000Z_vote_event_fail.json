@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "6305a1fc-4dff-11f0-af86-f253077c9305",
+  "bill": "13f5a734-4e08-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SR214",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SR0214_43976.pdf",
-  "_id": "6309e3de-4dff-11f0-af86-f253077c9305"
+  "_id": "13f9f988-4e08-11f0-941a-56c8c14823b7"
 }

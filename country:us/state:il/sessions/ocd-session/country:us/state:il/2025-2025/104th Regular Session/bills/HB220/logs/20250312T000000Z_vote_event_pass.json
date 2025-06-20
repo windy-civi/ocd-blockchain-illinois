@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "b1e53d1a-4dfe-11f0-af86-f253077c9305",
+  "bill": "62be3a62-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB220",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0220_42109.pdf",
-  "_id": "b1e99612-4dfe-11f0-af86-f253077c9305"
+  "_id": "62c2afc0-4e07-11f0-941a-56c8c14823b7"
 }

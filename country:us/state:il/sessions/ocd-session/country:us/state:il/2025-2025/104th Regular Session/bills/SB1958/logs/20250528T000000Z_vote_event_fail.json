@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Higher Education, Amendment 2",
+  "motion_text": "Higher Education",
   "motion_classification": [],
   "start_date": "2025-05-28",
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4e2da8c4-4dff-11f0-af86-f253077c9305",
+  "bill": "fec9f568-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB1958",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1958HFA2_44575.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1958HCA1_44574.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1958HFA2_44575.pdf",
-  "_id": "4e3eea76-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1958HCA1_44574.pdf",
+  "_id": "fed9cede-4e07-11f0-941a-56c8c14823b7"
 }

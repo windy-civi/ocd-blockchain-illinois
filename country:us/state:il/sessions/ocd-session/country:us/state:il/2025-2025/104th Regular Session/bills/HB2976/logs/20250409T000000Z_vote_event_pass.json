@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Education Policy, Amendment 2",
+  "motion_text": "Education Policy, Amendment 1",
   "motion_classification": [],
   "start_date": "2025-04-09",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f71cc16e-4dfe-11f0-af86-f253077c9305",
+  "bill": "a70701e0-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2976",
   "votes": [
@@ -117,11 +117,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2976HFA2_43378.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2976HFA1_43377.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2976HFA2_43378.pdf",
-  "_id": "f7269f2c-4dfe-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2976HFA1_43377.pdf",
+  "_id": "a70ed19a-4e07-11f0-941a-56c8c14823b7"
 }

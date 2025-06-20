@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1e821bfa-4dff-11f0-af86-f253077c9305",
+  "bill": "ce84d10c-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB69",
   "votes": [
@@ -83,7 +83,7 @@
       "note": ""
     },
     {
-      "option": "other",
+      "option": "yes",
       "voter_name": "Syverson, Dave",
       "voter_id": "~{\"name\": \"Syverson, Dave\"}",
       "note": ""
@@ -98,7 +98,7 @@
   "counts": [
     {
       "option": "yes",
-      "value": 12
+      "value": 13
     },
     {
       "option": "no",
@@ -106,7 +106,7 @@
     },
     {
       "option": "other",
-      "value": 1
+      "value": 0
     },
     {
       "option": "excused",
@@ -123,11 +123,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0069_41838.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0069SCA1_41837.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0069_41838.pdf",
-  "_id": "1e8f30ce-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0069SCA1_41837.pdf",
+  "_id": "ce94056e-4e07-11f0-941a-56c8c14823b7"
 }

@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "02d99bda-4dff-11f0-af86-f253077c9305",
+  "bill": "b2b1d1aa-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3388",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3388_43973.pdf",
-  "_id": "02e40bd8-4dff-11f0-af86-f253077c9305"
+  "_id": "b2bc2600-4e07-11f0-941a-56c8c14823b7"
 }

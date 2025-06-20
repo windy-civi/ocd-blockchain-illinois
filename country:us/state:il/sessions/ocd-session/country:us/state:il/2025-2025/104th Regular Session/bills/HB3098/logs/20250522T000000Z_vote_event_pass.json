@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "fae0d178-4dfe-11f0-af86-f253077c9305",
+  "bill": "aabeb4a4-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3098",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB3098_05222025_054065.pdf",
-  "_id": "faea78fe-4dfe-11f0-af86-f253077c9305"
+  "_id": "aac8541e-4e07-11f0-941a-56c8c14823b7"
 }

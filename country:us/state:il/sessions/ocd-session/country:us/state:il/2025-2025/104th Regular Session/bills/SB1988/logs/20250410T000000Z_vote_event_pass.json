@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4eee4278-4dff-11f0-af86-f253077c9305",
+  "bill": "ff8d20f6-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB1988",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400SB1988_04102025_024000T.pdf",
-  "_id": "4ef48d40-4dff-11f0-af86-f253077c9305"
+  "_id": "ff93f08e-4e07-11f0-941a-56c8c14823b7"
 }

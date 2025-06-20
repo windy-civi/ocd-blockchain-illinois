@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "dcff54f4-4dfe-11f0-af86-f253077c9305",
+  "bill": "8d18f3c4-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1998",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1998_42108.pdf",
-  "_id": "dd038344-4dfe-11f0-af86-f253077c9305"
+  "_id": "8d1d4e24-4e07-11f0-941a-56c8c14823b7"
 }

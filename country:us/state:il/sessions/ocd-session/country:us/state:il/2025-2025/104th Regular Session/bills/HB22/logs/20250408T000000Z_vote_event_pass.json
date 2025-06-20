@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ad0c3852-4dfe-11f0-af86-f253077c9305",
+  "bill": "5dce45e2-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB22",
   "votes": [
@@ -111,5 +111,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0022HFA1_43340.pdf",
-  "_id": "ad1e4c72-4dfe-11f0-af86-f253077c9305"
+  "_id": "5ddfb930-4e07-11f0-941a-56c8c14823b7"
 }

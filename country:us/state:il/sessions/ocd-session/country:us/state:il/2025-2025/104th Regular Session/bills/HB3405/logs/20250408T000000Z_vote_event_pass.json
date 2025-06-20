@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "034b3d62-4dff-11f0-af86-f253077c9305",
+  "bill": "b3237814-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3405",
   "votes": [
@@ -111,5 +111,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3405HFA1_43343.pdf",
-  "_id": "0352b33a-4dff-11f0-af86-f253077c9305"
+  "_id": "b32ace16-4e07-11f0-941a-56c8c14823b7"
 }

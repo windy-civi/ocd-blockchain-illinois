@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0e3eb690-4dff-11f0-af86-f253077c9305",
+  "bill": "be1365c2-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3790",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3790HFA1_43434.pdf",
-  "_id": "0e4efd8e-4dff-11f0-af86-f253077c9305"
+  "_id": "be241bf6-4e07-11f0-941a-56c8c14823b7"
 }

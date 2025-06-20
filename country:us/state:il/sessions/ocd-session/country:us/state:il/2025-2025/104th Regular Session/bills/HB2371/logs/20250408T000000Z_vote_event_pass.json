@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e6b197c8-4dfe-11f0-af86-f253077c9305",
+  "bill": "96a4e45c-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2371",
   "votes": [
@@ -147,5 +147,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2371HFA2_43297.pdf",
-  "_id": "e6c71198-4dfe-11f0-af86-f253077c9305"
+  "_id": "96ba07f6-4e07-11f0-941a-56c8c14823b7"
 }

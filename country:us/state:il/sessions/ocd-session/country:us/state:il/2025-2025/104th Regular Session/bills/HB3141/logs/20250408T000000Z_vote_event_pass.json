@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "fbe836ba-4dfe-11f0-af86-f253077c9305",
+  "bill": "abc615b8-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3141",
   "votes": [
@@ -219,5 +219,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3141HFA1_43332.pdf",
-  "_id": "fbf41368-4dfe-11f0-af86-f253077c9305"
+  "_id": "abd19ee2-4e07-11f0-941a-56c8c14823b7"
 }

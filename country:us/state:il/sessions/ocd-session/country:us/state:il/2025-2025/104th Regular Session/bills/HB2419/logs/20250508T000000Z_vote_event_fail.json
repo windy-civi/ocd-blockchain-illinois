@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e83d5528-4dfe-11f0-af86-f253077c9305",
+  "bill": "982c8a28-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2419",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2419SCA1_44174.pdf",
-  "_id": "e84f2104-4dfe-11f0-af86-f253077c9305"
+  "_id": "983dcc2a-4e07-11f0-941a-56c8c14823b7"
 }

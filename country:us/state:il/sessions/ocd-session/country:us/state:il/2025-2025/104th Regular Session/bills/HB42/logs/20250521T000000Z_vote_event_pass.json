@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "adb1adfa-4dfe-11f0-af86-f253077c9305",
+  "bill": "5e742a48-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB42",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB0042_05212025_005000T.pdf",
-  "_id": "adb732b6-4dfe-11f0-af86-f253077c9305"
+  "_id": "5e79ba30-4e07-11f0-941a-56c8c14823b7"
 }

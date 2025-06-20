@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ce641010-4dfe-11f0-af86-f253077c9305",
+  "bill": "7eb81648-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1391",
   "votes": [
@@ -165,5 +165,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1391_41753.pdf",
-  "_id": "ce68919e-4dfe-11f0-af86-f253077c9305"
+  "_id": "7ebc9b96-4e07-11f0-941a-56c8c14823b7"
 }

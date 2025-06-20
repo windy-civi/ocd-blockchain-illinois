@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1d886fec-4dff-11f0-af86-f253077c9305",
+  "bill": "cd88d9c4-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB32",
   "votes": [
@@ -14,6 +14,12 @@
       "option": "yes",
       "voter_name": "Arellano Jr., Li",
       "voter_id": "~{\"name\": \"Arellano Jr., Li\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anderson, Neil",
+      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
       "note": ""
     },
     {
@@ -30,20 +36,14 @@
     },
     {
       "option": "yes",
-      "voter_name": "Lightford, Kimberly A",
-      "voter_id": "~{\"name\": \"Lightford, Kimberly A\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Koehler, David",
       "voter_id": "~{\"name\": \"Koehler, David\"}",
       "note": ""
     },
     {
       "option": "yes",
-      "voter_name": "Morrison, Julie A",
-      "voter_id": "~{\"name\": \"Morrison, Julie A\"}",
+      "voter_name": "Plummer, Jason",
+      "voter_id": "~{\"name\": \"Plummer, Jason\"}",
       "note": ""
     },
     {
@@ -72,14 +72,14 @@
     },
     {
       "option": "not voting",
-      "voter_name": "Anderson, Neil",
-      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
+      "voter_name": "Lightford, Kimberly A",
+      "voter_id": "~{\"name\": \"Lightford, Kimberly A\"}",
       "note": ""
     },
     {
       "option": "not voting",
-      "voter_name": "Plummer, Jason",
-      "voter_id": "~{\"name\": \"Plummer, Jason\"}",
+      "voter_name": "Morrison, Julie A",
+      "voter_id": "~{\"name\": \"Morrison, Julie A\"}",
       "note": ""
     }
   ],
@@ -111,11 +111,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0032_41826.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0032SCA1_41817.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0032_41826.pdf",
-  "_id": "1d93e32c-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0032SCA1_41817.pdf",
+  "_id": "cd9666e8-4e07-11f0-941a-56c8c14823b7"
 }

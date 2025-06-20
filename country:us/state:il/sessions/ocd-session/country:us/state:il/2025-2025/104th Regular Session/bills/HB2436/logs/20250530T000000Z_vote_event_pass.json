@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e8c6cdda-4dfe-11f0-af86-f253077c9305",
+  "bill": "98b4d766-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2436",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB2436_05302025_013000T.pdf",
-  "_id": "e8cc408a-4dfe-11f0-af86-f253077c9305"
+  "_id": "98ba4430-4e07-11f0-941a-56c8c14823b7"
 }

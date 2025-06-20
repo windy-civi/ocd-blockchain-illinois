@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d9f40200-4dfe-11f0-af86-f253077c9305",
+  "bill": "8a1d8676-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1872",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1872_41807.pdf",
-  "_id": "d9fe0034-4dfe-11f0-af86-f253077c9305"
+  "_id": "8a28547a-4e07-11f0-941a-56c8c14823b7"
 }

@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Personnel & Pensions, Amendment 4",
+  "motion_text": "Personnel & Pensions, Amendment 3",
   "motion_classification": [],
   "start_date": "2025-05-30",
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "fd4a2fa4-4dfe-11f0-af86-f253077c9305",
+  "bill": "ad274e4a-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3193",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3193SFA4_44740.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3193SFA3_44739.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3193SFA4_44740.pdf",
-  "_id": "fd652e6c-4dfe-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3193SFA3_44739.pdf",
+  "_id": "ad404e22-4e07-11f0-941a-56c8c14823b7"
 }

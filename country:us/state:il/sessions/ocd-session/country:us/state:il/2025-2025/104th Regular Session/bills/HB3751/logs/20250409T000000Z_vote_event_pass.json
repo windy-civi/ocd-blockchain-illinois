@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Third Reading",
+  "motion_text": "Motion",
   "motion_classification": [],
   "start_date": "2025-04-09",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0d2e5332-4dff-11f0-af86-f253077c9305",
+  "bill": "bd048382-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3751",
   "votes": [
@@ -186,12 +186,6 @@
     },
     {
       "option": "yes",
-      "voter_name": "Crespo",
-      "voter_id": "~{\"name\": \"Crespo\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Slaughter",
       "voter_id": "~{\"name\": \"Slaughter\"}",
       "note": ""
@@ -276,12 +270,6 @@
     },
     {
       "option": "yes",
-      "voter_name": "DeLuca",
-      "voter_id": "~{\"name\": \"DeLuca\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Syed",
       "voter_id": "~{\"name\": \"Syed\"}",
       "note": ""
@@ -350,12 +338,6 @@
       "option": "yes",
       "voter_name": "Evans",
       "voter_id": "~{\"name\": \"Evans\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Walsh",
-      "voter_id": "~{\"name\": \"Walsh\"}",
       "note": ""
     },
     {
@@ -558,12 +540,6 @@
     },
     {
       "option": "no",
-      "voter_name": "Davidsmeyer",
-      "voter_id": "~{\"name\": \"Davidsmeyer\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
       "voter_name": "Sosnowski",
       "voter_id": "~{\"name\": \"Sosnowski\"}",
       "note": ""
@@ -584,6 +560,12 @@
       "option": "no",
       "voter_name": "Keicher",
       "voter_id": "~{\"name\": \"Keicher\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Stephens",
+      "voter_id": "~{\"name\": \"Stephens\"}",
       "note": ""
     },
     {
@@ -708,15 +690,33 @@
     },
     {
       "option": "not voting",
-      "voter_name": "Stephens",
-      "voter_id": "~{\"name\": \"Stephens\"}",
+      "voter_name": "Crespo",
+      "voter_id": "~{\"name\": \"Crespo\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Davidsmeyer",
+      "voter_id": "~{\"name\": \"Davidsmeyer\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "DeLuca",
+      "voter_id": "~{\"name\": \"DeLuca\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Walsh",
+      "voter_id": "~{\"name\": \"Walsh\"}",
       "note": ""
     }
   ],
   "counts": [
     {
       "option": "yes",
-      "value": 76
+      "value": 73
     },
     {
       "option": "no",
@@ -736,16 +736,16 @@
     },
     {
       "option": "not voting",
-      "value": 1
+      "value": 4
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3751_04092025_075000T.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3751_04092025_074000M.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3751_04092025_075000T.pdf",
-  "_id": "0d33cfa6-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3751_04092025_074000M.pdf",
+  "_id": "bd0cd2bc-4e07-11f0-941a-56c8c14823b7"
 }

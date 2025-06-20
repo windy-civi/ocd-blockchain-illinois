@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "c6e2a07c-4dfe-11f0-af86-f253077c9305",
+  "bill": "774ec672-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1076",
   "votes": [
@@ -30,6 +30,12 @@
     },
     {
       "option": "yes",
+      "voter_name": "Hauter, William E",
+      "voter_id": "~{\"name\": \"Hauter, William E\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
       "voter_name": "Gonz\u00e1lez Jr., Edgar",
       "voter_id": "~{\"name\": \"Gonz\\u00e1lez Jr., Edgar\"}",
       "note": ""
@@ -48,6 +54,12 @@
     },
     {
       "option": "yes",
+      "voter_name": "Keicher, Jeff",
+      "voter_id": "~{\"name\": \"Keicher, Jeff\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
       "voter_name": "Katz Muhl, Tracy",
       "voter_id": "~{\"name\": \"Katz Muhl, Tracy\"}",
       "note": ""
@@ -60,36 +72,24 @@
     },
     {
       "option": "yes",
-      "voter_name": "Morgan, Bob",
-      "voter_id": "~{\"name\": \"Morgan, Bob\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
-      "voter_name": "Hauter, William E",
-      "voter_id": "~{\"name\": \"Hauter, William E\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
-      "voter_name": "Keicher, Jeff",
-      "voter_id": "~{\"name\": \"Keicher, Jeff\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
       "voter_name": "Niemerg, Adam M",
       "voter_id": "~{\"name\": \"Niemerg, Adam M\"}",
       "note": ""
     },
     {
-      "option": "no",
+      "option": "yes",
+      "voter_name": "Morgan, Bob",
+      "voter_id": "~{\"name\": \"Morgan, Bob\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
       "voter_name": "Weaver, Travis",
       "voter_id": "~{\"name\": \"Weaver, Travis\"}",
       "note": ""
     },
     {
-      "option": "no",
+      "option": "yes",
       "voter_name": "Tipsword, Dennis",
       "voter_id": "~{\"name\": \"Tipsword, Dennis\"}",
       "note": ""
@@ -116,11 +116,11 @@
   "counts": [
     {
       "option": "yes",
-      "value": 9
+      "value": 14
     },
     {
       "option": "no",
-      "value": 5
+      "value": 0
     },
     {
       "option": "other",
@@ -141,11 +141,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1076_41805.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1076HCA2_41806.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1076_41805.pdf",
-  "_id": "c6e806ac-4dfe-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1076HCA2_41806.pdf",
+  "_id": "77560d42-4e07-11f0-941a-56c8c14823b7"
 }

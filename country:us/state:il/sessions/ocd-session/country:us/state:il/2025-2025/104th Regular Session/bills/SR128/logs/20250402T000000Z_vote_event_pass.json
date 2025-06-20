@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "61bf104e-4dff-11f0-af86-f253077c9305",
+  "bill": "12aa050a-4e08-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SR128",
   "votes": [
@@ -105,5 +105,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SR0128_43000.pdf",
-  "_id": "61c34790-4dff-11f0-af86-f253077c9305"
+  "_id": "12ae506a-4e08-11f0-941a-56c8c14823b7"
 }

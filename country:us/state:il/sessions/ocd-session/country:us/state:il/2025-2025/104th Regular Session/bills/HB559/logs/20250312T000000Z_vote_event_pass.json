@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ba2ca670-4dfe-11f0-af86-f253077c9305",
+  "bill": "6b045cba-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB559",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0559_42109.pdf",
-  "_id": "ba310350-4dfe-11f0-af86-f253077c9305"
+  "_id": "6b088a4c-4e07-11f0-941a-56c8c14823b7"
 }

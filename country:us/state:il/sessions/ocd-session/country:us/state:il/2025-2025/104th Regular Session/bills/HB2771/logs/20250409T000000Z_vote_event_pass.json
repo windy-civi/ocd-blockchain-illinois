@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f1a1ef48-4dfe-11f0-af86-f253077c9305",
+  "bill": "a1879d88-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2771",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB2771_04092025_036000T.pdf",
-  "_id": "f1b6ddae-4dfe-11f0-af86-f253077c9305"
+  "_id": "a19c51f6-4e07-11f0-941a-56c8c14823b7"
 }

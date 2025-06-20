@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "c8953a38-4dfe-11f0-af86-f253077c9305",
+  "bill": "78fbe9d2-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1149",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1149_41921.pdf",
-  "_id": "c8a1309a-4dfe-11f0-af86-f253077c9305"
+  "_id": "79081e6e-4e07-11f0-941a-56c8c14823b7"
 }

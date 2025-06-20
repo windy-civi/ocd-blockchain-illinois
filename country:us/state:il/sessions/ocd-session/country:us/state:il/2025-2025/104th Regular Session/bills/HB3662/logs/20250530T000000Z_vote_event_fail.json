@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0a870d4a-4dff-11f0-af86-f253077c9305",
+  "bill": "ba5a905e-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3662",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3662SFA2_44760.pdf",
-  "_id": "0a9a4518-4dff-11f0-af86-f253077c9305"
+  "_id": "ba6d9398-4e07-11f0-941a-56c8c14823b7"
 }

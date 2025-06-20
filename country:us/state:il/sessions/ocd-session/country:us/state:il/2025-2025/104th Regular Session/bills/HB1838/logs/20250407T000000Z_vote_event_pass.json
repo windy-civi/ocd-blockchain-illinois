@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d8c040f6-4dfe-11f0-af86-f253077c9305",
+  "bill": "88f120aa-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1838",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1838_04072025_018000T.pdf",
-  "_id": "d8c50906-4dfe-11f0-af86-f253077c9305"
+  "_id": "88f621d6-4e07-11f0-941a-56c8c14823b7"
 }

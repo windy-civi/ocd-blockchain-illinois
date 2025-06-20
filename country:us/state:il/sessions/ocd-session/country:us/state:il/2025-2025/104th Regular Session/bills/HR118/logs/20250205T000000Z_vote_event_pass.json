@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "158ea45a-4dff-11f0-af86-f253077c9305",
+  "bill": "c57408da-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HR118",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HR0118_02052025_002000.pdf",
-  "_id": "15943532-4dff-11f0-af86-f253077c9305"
+  "_id": "c57995fc-4e07-11f0-941a-56c8c14823b7"
 }

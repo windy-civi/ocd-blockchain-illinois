@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "c713a7b2-4dfe-11f0-af86-f253077c9305",
+  "bill": "777de286-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1082",
   "votes": [
@@ -111,5 +111,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1082HFA1_42007.pdf",
-  "_id": "c7203a5e-4dfe-11f0-af86-f253077c9305"
+  "_id": "778a31bc-4e07-11f0-941a-56c8c14823b7"
 }

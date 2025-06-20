@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "dc603860-4dfe-11f0-af86-f253077c9305",
+  "bill": "8c7c569a-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1972",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1972_42108.pdf",
-  "_id": "dc646c82-4dfe-11f0-af86-f253077c9305"
+  "_id": "8c813c14-4e07-11f0-941a-56c8c14823b7"
 }

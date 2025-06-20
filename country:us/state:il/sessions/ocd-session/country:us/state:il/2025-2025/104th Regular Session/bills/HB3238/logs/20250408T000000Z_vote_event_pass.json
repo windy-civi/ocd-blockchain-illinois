@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "fe5b2830-4dfe-11f0-af86-f253077c9305",
+  "bill": "ae34b340-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3238",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3238_04082025_057000T.pdf",
-  "_id": "fe62a128-4dfe-11f0-af86-f253077c9305"
+  "_id": "ae3c0fe6-4e07-11f0-941a-56c8c14823b7"
 }

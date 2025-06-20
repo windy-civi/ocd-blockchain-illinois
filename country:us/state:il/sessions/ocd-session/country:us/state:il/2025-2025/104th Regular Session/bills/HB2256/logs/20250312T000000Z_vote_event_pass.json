@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e387dd50-4dfe-11f0-af86-f253077c9305",
+  "bill": "93836758-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2256",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2256_42108.pdf",
-  "_id": "e38c1bae-4dfe-11f0-af86-f253077c9305"
+  "_id": "9387a214-4e07-11f0-941a-56c8c14823b7"
 }

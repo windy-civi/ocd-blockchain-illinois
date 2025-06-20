@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "13c30db4-4dff-11f0-af86-f253077c9305",
+  "bill": "c3a3a344-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HR15",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HR0015_01092025_002000.pdf",
-  "_id": "13c766a2-4dff-11f0-af86-f253077c9305"
+  "_id": "c3a7f354-4e07-11f0-941a-56c8c14823b7"
 }

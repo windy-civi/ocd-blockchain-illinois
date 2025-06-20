@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "c2319b50-4dfe-11f0-af86-f253077c9305",
+  "bill": "72bc3a90-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB879",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0879_42109.pdf",
-  "_id": "c235d09e-4dfe-11f0-af86-f253077c9305"
+  "_id": "72c07182-4e07-11f0-941a-56c8c14823b7"
 }

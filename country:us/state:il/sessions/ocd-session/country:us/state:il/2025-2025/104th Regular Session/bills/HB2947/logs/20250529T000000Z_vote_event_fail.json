@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f6149ef4-4dfe-11f0-af86-f253077c9305",
+  "bill": "a5ffef3c-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2947",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2947SCA1_44651.pdf",
-  "_id": "f621d2a4-4dfe-11f0-af86-f253077c9305"
+  "_id": "a60d51c2-4e07-11f0-941a-56c8c14823b7"
 }

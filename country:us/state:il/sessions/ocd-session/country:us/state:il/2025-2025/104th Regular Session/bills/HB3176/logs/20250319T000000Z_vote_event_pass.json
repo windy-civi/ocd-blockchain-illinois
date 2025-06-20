@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "fcca3772-4dfe-11f0-af86-f253077c9305",
+  "bill": "aca6b6cc-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3176",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3176_42501.pdf",
-  "_id": "fcd3f50a-4dfe-11f0-af86-f253077c9305"
+  "_id": "acb0687a-4e07-11f0-941a-56c8c14823b7"
 }

@@ -6,22 +6,10 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4ba3be86-4dff-11f0-af86-f253077c9305",
+  "bill": "fc33b65e-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB1872",
   "votes": [
-    {
-      "option": "yes",
-      "voter_name": "DeWitte, Donald P",
-      "voter_id": "~{\"name\": \"DeWitte, Donald P\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Chesney, Andrew S",
-      "voter_id": "~{\"name\": \"Chesney, Andrew S\"}",
-      "note": ""
-    },
     {
       "option": "yes",
       "voter_name": "Feigenholtz, Sara",
@@ -65,6 +53,18 @@
       "note": ""
     },
     {
+      "option": "no",
+      "voter_name": "DeWitte, Donald P",
+      "voter_id": "~{\"name\": \"DeWitte, Donald P\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Chesney, Andrew S",
+      "voter_id": "~{\"name\": \"Chesney, Andrew S\"}",
+      "note": ""
+    },
+    {
       "option": "not voting",
       "voter_name": "Plummer, Jason",
       "voter_id": "~{\"name\": \"Plummer, Jason\"}",
@@ -74,11 +74,11 @@
   "counts": [
     {
       "option": "yes",
-      "value": 9
+      "value": 7
     },
     {
       "option": "no",
-      "value": 0
+      "value": 2
     },
     {
       "option": "other",
@@ -99,11 +99,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1872SCA1_42839.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1872_42856.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1872SCA1_42839.pdf",
-  "_id": "4bab0d3a-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1872_42856.pdf",
+  "_id": "fc3934f8-4e07-11f0-941a-56c8c14823b7"
 }

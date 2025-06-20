@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "16c2ac40-4dff-11f0-af86-f253077c9305",
+  "bill": "c6ac07f2-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HR181",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HR0181_43750.pdf",
-  "_id": "16c78f8a-4dff-11f0-af86-f253077c9305"
+  "_id": "c6b10572-4e07-11f0-941a-56c8c14823b7"
 }

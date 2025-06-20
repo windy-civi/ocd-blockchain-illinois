@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "06fac6ee-4dff-11f0-af86-f253077c9305",
+  "bill": "b6cd59d0-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3528",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3528_43696.pdf",
-  "_id": "07065b4e-4dff-11f0-af86-f253077c9305"
+  "_id": "b6d8e12e-4e07-11f0-941a-56c8c14823b7"
 }

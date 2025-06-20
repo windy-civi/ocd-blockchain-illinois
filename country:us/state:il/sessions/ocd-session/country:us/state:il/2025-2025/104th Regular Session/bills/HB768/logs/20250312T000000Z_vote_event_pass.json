@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "bf5ca050-4dfe-11f0-af86-f253077c9305",
+  "bill": "7009e96e-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB768",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0768_42109.pdf",
-  "_id": "bf60e07a-4dfe-11f0-af86-f253077c9305"
+  "_id": "700e0396-4e07-11f0-941a-56c8c14823b7"
 }

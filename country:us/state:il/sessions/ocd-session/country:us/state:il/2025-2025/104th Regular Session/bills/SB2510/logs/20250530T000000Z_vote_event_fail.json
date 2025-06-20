@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Executive",
+  "motion_text": "Executive, Amendment 1",
   "motion_classification": [],
   "start_date": "2025-05-30",
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "5cfe7be4-4dff-11f0-af86-f253077c9305",
+  "bill": "0dce87f4-4e08-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB2510",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB2510_44716.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB2510HFA1_44779.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB2510_44716.pdf",
-  "_id": "5d0cadd6-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB2510HFA1_44779.pdf",
+  "_id": "0ddb098e-4e08-11f0-941a-56c8c14823b7"
 }

@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Consumer Protection, Amendment 1",
+  "motion_text": "Consumer Protection, Amendment 2",
   "motion_classification": [],
   "start_date": "2025-04-08",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d6c30a18-4dfe-11f0-af86-f253077c9305",
+  "bill": "86fd3c70-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1763",
   "votes": [
@@ -93,11 +93,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1763HFA1_43317.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1763HFA2_43319.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1763HFA1_43317.pdf",
-  "_id": "d6d06b4a-4dfe-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1763HFA2_43319.pdf",
+  "_id": "870bf0da-4e07-11f0-941a-56c8c14823b7"
 }

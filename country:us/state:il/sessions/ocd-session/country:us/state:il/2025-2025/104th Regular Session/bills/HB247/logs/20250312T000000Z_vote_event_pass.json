@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "b2903cec-4dfe-11f0-af86-f253077c9305",
+  "bill": "636a24a8-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB247",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0247_42109.pdf",
-  "_id": "b29473de-4dfe-11f0-af86-f253077c9305"
+  "_id": "636e69a0-4e07-11f0-941a-56c8c14823b7"
 }

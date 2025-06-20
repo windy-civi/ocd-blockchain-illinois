@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Executive, Amendment 4",
+  "motion_text": "Executive",
   "motion_classification": [],
   "start_date": "2025-05-30",
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d503f49e-4dfe-11f0-af86-f253077c9305",
+  "bill": "85461f00-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1697",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1697SFA4_44743.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1697SCA1_44741.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1697SFA4_44743.pdf",
-  "_id": "d5268036-4dfe-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1697SCA1_44741.pdf",
+  "_id": "856493fe-4e07-11f0-941a-56c8c14823b7"
 }

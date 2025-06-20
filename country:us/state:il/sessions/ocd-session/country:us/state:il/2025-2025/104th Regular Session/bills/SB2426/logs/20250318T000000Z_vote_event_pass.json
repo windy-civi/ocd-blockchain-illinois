@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "5a0bc400-4dff-11f0-af86-f253077c9305",
+  "bill": "0ad0d462-4e08-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB2426",
   "votes": [
@@ -105,5 +105,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2426SCA1_42212.pdf",
-  "_id": "5a22521a-4dff-11f0-af86-f253077c9305"
+  "_id": "0ae8b0b4-4e08-11f0-941a-56c8c14823b7"
 }

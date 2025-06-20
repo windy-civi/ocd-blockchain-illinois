@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "dee70870-4dfe-11f0-af86-f253077c9305",
+  "bill": "8ef6e55c-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2077",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2077_42108.pdf",
-  "_id": "deeb50f6-4dfe-11f0-af86-f253077c9305"
+  "_id": "8efb3756-4e07-11f0-941a-56c8c14823b7"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d22fa39e-4dfe-11f0-af86-f253077c9305",
+  "bill": "82795c60-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1577",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB1577_05222025_054019.pdf",
-  "_id": "d234697e-4dfe-11f0-af86-f253077c9305"
+  "_id": "827e4360-4e07-11f0-941a-56c8c14823b7"
 }

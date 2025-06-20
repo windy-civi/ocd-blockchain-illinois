@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ccafee9c-4dfe-11f0-af86-f253077c9305",
+  "bill": "7d0a7034-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1332",
   "votes": [
@@ -129,5 +129,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1332HFA3_43314.pdf",
-  "_id": "ccbc70f4-4dfe-11f0-af86-f253077c9305"
+  "_id": "7d16c5c8-4e07-11f0-941a-56c8c14823b7"
 }

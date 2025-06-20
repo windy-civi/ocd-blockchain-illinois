@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e15e368c-4dfe-11f0-af86-f253077c9305",
+  "bill": "916578e4-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2172",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2172_42108.pdf",
-  "_id": "e16279c2-4dfe-11f0-af86-f253077c9305"
+  "_id": "9169e1e0-4e07-11f0-941a-56c8c14823b7"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "b82f0fc0-4dfe-11f0-af86-f253077c9305",
+  "bill": "69139484-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB477",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0477_42109.pdf",
-  "_id": "b833673c-4dfe-11f0-af86-f253077c9305"
+  "_id": "6917e1ec-4e07-11f0-941a-56c8c14823b7"
 }

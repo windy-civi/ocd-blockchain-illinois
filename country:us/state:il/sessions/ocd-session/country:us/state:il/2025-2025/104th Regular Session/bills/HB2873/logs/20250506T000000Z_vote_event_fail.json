@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f465332a-4dfe-11f0-af86-f253077c9305",
+  "bill": "a44e8ff4-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2873",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2873_43947.pdf",
-  "_id": "f470552a-4dfe-11f0-af86-f253077c9305"
+  "_id": "a4597f40-4e07-11f0-941a-56c8c14823b7"
 }

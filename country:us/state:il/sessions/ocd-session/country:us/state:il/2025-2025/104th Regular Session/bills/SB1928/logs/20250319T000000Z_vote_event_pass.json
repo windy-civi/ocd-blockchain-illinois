@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4d106774-4dff-11f0-af86-f253077c9305",
+  "bill": "fda72124-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB1928",
   "votes": [
@@ -129,5 +129,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1928SCA1_42457.pdf",
-  "_id": "4d1ec5d0-4dff-11f0-af86-f253077c9305"
+  "_id": "fdb5d098-4e07-11f0-941a-56c8c14823b7"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ca2e807a-4dfe-11f0-af86-f253077c9305",
+  "bill": "7a910c32-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1226",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1226_41659.pdf",
-  "_id": "ca3d4b50-4dfe-11f0-af86-f253077c9305"
+  "_id": "7aa00cb4-4e07-11f0-941a-56c8c14823b7"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "484cdede-4dff-11f0-af86-f253077c9305",
+  "bill": "f8d4875e-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB1742",
   "votes": [
@@ -48,12 +48,6 @@
     },
     {
       "option": "yes",
-      "voter_name": "Murphy, Laura M",
-      "voter_id": "~{\"name\": \"Murphy, Laura M\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Johnson, Adriane",
       "voter_id": "~{\"name\": \"Johnson, Adriane\"}",
       "note": ""
@@ -75,12 +69,18 @@
       "voter_name": "Wilcox, Craig",
       "voter_id": "~{\"name\": \"Wilcox, Craig\"}",
       "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Murphy, Laura M",
+      "voter_id": "~{\"name\": \"Murphy, Laura M\"}",
+      "note": ""
     }
   ],
   "counts": [
     {
       "option": "yes",
-      "value": 11
+      "value": 10
     },
     {
       "option": "no",
@@ -100,16 +100,16 @@
     },
     {
       "option": "not voting",
-      "value": 0
+      "value": 1
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1742_42679.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1742SCA1_42669.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1742_42679.pdf",
-  "_id": "48587e9c-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1742SCA1_42669.pdf",
+  "_id": "f8e2280a-4e07-11f0-941a-56c8c14823b7"
 }

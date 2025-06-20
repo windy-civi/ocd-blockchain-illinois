@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d8e4421c-4dfe-11f0-af86-f253077c9305",
+  "bill": "8914ee4a-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1843",
   "votes": [
@@ -153,5 +153,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1843HFA1_43445.pdf",
-  "_id": "d8eccdd8-4dfe-11f0-af86-f253077c9305"
+  "_id": "891d2eb6-4e07-11f0-941a-56c8c14823b7"
 }

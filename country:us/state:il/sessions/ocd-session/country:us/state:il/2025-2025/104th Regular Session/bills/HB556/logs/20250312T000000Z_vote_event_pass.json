@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ba1a3f30-4dfe-11f0-af86-f253077c9305",
+  "bill": "6af298d6-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB556",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0556_42109.pdf",
-  "_id": "ba1e8c3e-4dfe-11f0-af86-f253077c9305"
+  "_id": "6af6c46a-4e07-11f0-941a-56c8c14823b7"
 }

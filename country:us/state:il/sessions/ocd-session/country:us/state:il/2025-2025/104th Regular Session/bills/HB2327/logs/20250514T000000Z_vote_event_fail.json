@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e53fa90c-4dfe-11f0-af86-f253077c9305",
+  "bill": "9535a520-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2327",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2327HFA2_44221.pdf",
-  "_id": "e54bc1d8-4dfe-11f0-af86-f253077c9305"
+  "_id": "9541a92e-4e07-11f0-941a-56c8c14823b7"
 }

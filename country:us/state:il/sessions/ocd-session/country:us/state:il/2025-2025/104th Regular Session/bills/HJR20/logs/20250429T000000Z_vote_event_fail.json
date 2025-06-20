@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1b2ec4e4-4dff-11f0-af86-f253077c9305",
+  "bill": "cb2723c0-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HJR20",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HJR0020_43620.pdf",
-  "_id": "1b358fc2-4dff-11f0-af86-f253077c9305"
+  "_id": "cb2dfb78-4e07-11f0-941a-56c8c14823b7"
 }

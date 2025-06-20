@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e8a8c0f6-4dfe-11f0-af86-f253077c9305",
+  "bill": "9897a1d2-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2433",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2433_42117.pdf",
-  "_id": "e8adb5ca-4dfe-11f0-af86-f253077c9305"
+  "_id": "989c7c0c-4e07-11f0-941a-56c8c14823b7"
 }

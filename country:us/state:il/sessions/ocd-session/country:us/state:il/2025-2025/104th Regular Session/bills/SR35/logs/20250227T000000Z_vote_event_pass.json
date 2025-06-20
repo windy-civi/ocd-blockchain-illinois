@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "60508db4-4dff-11f0-af86-f253077c9305",
+  "bill": "112d0b00-4e08-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SR35",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SR0035_41788.pdf",
-  "_id": "6054aa70-4dff-11f0-af86-f253077c9305"
+  "_id": "11316d62-4e08-11f0-941a-56c8c14823b7"
 }

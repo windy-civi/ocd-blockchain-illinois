@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f1fdabbc-4dfe-11f0-af86-f253077c9305",
+  "bill": "a1e2cb0e-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2777",
   "votes": [
@@ -147,5 +147,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2777_42003.pdf",
-  "_id": "f2053198-4dfe-11f0-af86-f253077c9305"
+  "_id": "a1ea4f96-4e07-11f0-941a-56c8c14823b7"
 }

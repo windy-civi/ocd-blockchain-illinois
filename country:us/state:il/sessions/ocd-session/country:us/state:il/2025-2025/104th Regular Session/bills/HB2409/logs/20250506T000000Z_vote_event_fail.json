@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e7f1ef3e-4dfe-11f0-af86-f253077c9305",
+  "bill": "97e230f4-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2409",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2409_44014.pdf",
-  "_id": "e7fdd466-4dfe-11f0-af86-f253077c9305"
+  "_id": "97edf128-4e07-11f0-941a-56c8c14823b7"
 }

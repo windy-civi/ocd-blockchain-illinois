@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ad6c3036-4dfe-11f0-af86-f253077c9305",
+  "bill": "5e2dd5ca-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB32",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB0032SCA1_44446.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB0032_44449.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB0032SCA1_44446.pdf",
-  "_id": "ad7bffe8-4dfe-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB0032_44449.pdf",
+  "_id": "5e3be12e-4e07-11f0-941a-56c8c14823b7"
 }

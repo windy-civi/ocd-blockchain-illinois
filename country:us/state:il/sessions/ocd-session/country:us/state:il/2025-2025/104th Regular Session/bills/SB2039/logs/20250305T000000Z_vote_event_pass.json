@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "5062360a-4dff-11f0-af86-f253077c9305",
+  "bill": "010773dc-4e08-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB2039",
   "votes": [
@@ -129,5 +129,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2039_41860.pdf",
-  "_id": "50746ea6-4dff-11f0-af86-f253077c9305"
+  "_id": "0119bf92-4e08-11f0-941a-56c8c14823b7"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e9e72322-4dfe-11f0-af86-f253077c9305",
+  "bill": "99d5a67a-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2478",
   "votes": [
@@ -111,5 +111,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2478_42047.pdf",
-  "_id": "e9ebafc8-4dfe-11f0-af86-f253077c9305"
+  "_id": "99da374e-4e07-11f0-941a-56c8c14823b7"
 }

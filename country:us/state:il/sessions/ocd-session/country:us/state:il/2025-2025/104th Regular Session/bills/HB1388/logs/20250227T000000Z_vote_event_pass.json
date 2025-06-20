@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ce4912ce-4dfe-11f0-af86-f253077c9305",
+  "bill": "7e9e0ac8-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1388",
   "votes": [
@@ -135,5 +135,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1388_41785.pdf",
-  "_id": "ce509936-4dfe-11f0-af86-f253077c9305"
+  "_id": "7ea544f0-4e07-11f0-941a-56c8c14823b7"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d87b2610-4dfe-11f0-af86-f253077c9305",
+  "bill": "88ad503c-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1830",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1830_41995.pdf",
-  "_id": "d8821a60-4dfe-11f0-af86-f253077c9305"
+  "_id": "88b45b02-4e07-11f0-941a-56c8c14823b7"
 }

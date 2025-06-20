@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d8062efa-4dfe-11f0-af86-f253077c9305",
+  "bill": "883afbfe-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1814",
   "votes": [
@@ -153,5 +153,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1814_42965.pdf",
-  "_id": "d80b7856-4dfe-11f0-af86-f253077c9305"
+  "_id": "88403b32-4e07-11f0-941a-56c8c14823b7"
 }

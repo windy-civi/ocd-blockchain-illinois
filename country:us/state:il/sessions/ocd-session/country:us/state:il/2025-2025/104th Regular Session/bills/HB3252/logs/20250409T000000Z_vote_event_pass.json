@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "fece2010-4dfe-11f0-af86-f253077c9305",
+  "bill": "aea68934-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3252",
   "votes": [
@@ -123,5 +123,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3252HFA1_43356.pdf",
-  "_id": "fed60514-4dfe-11f0-af86-f253077c9305"
+  "_id": "aeae3742-4e07-11f0-941a-56c8c14823b7"
 }

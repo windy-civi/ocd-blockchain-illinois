@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "adf0308e-4dfe-11f0-af86-f253077c9305",
+  "bill": "5eb2da04-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB54",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0054_41733.pdf",
-  "_id": "adf81d76-4dfe-11f0-af86-f253077c9305"
+  "_id": "5ebab0f8-4e07-11f0-941a-56c8c14823b7"
 }

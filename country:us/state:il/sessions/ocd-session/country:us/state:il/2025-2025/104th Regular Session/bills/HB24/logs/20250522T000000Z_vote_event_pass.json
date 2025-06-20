@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ad27bd52-4dfe-11f0-af86-f253077c9305",
+  "bill": "5de912aa-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB24",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB0024_05222025_054000.pdf",
-  "_id": "ad2ced36-4dfe-11f0-af86-f253077c9305"
+  "_id": "5dee20c4-4e07-11f0-941a-56c8c14823b7"
 }

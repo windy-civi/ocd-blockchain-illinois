@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0bc409c4-4dff-11f0-af86-f253077c9305",
+  "bill": "bb97b7f8-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3702",
   "votes": [
@@ -135,5 +135,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3702_42925.pdf",
-  "_id": "0bc83b5c-4dff-11f0-af86-f253077c9305"
+  "_id": "bb9bfd0e-4e07-11f0-941a-56c8c14823b7"
 }

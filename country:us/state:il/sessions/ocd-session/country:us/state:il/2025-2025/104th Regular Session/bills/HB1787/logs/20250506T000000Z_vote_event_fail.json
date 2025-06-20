@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d74f7098-4dfe-11f0-af86-f253077c9305",
+  "bill": "878781be-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1787",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1787_43911.pdf",
-  "_id": "d759b97c-4dfe-11f0-af86-f253077c9305"
+  "_id": "8791cf98-4e07-11f0-941a-56c8c14823b7"
 }

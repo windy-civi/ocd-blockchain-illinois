@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "af45bfd0-4dfe-11f0-af86-f253077c9305",
+  "bill": "60177404-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB111",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB0111_05292025_002000T.pdf",
-  "_id": "af4a749e-4dfe-11f0-af86-f253077c9305"
+  "_id": "601c32d2-4e07-11f0-941a-56c8c14823b7"
 }

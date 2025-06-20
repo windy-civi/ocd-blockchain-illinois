@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Personnel & Pensions, Amendment 2",
+  "motion_text": "Personnel & Pensions",
   "motion_classification": [],
   "start_date": "2025-05-31",
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0a5653c6-4dff-11f0-af86-f253077c9305",
+  "bill": "ba2a6f32-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3657",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3657SFA2_44791.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3657SCA1_44790.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3657SFA2_44791.pdf",
-  "_id": "0a69e940-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3657SCA1_44790.pdf",
+  "_id": "ba3c0e72-4e07-11f0-941a-56c8c14823b7"
 }

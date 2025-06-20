@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "b4e0c57a-4dfe-11f0-af86-f253077c9305",
+  "bill": "65bf68b2-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB342",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0342_42109.pdf",
-  "_id": "b4e5104e-4dfe-11f0-af86-f253077c9305"
+  "_id": "65c39e5a-4e07-11f0-941a-56c8c14823b7"
 }

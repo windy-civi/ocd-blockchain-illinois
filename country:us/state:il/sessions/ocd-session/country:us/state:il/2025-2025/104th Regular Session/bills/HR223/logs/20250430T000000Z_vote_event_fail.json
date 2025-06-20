@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1775b3da-4dff-11f0-af86-f253077c9305",
+  "bill": "c7618e24-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HR223",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HR0223_43681.pdf",
-  "_id": "1779de92-4dff-11f0-af86-f253077c9305"
+  "_id": "c765ba44-4e07-11f0-941a-56c8c14823b7"
 }

@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1947f9a2-4dff-11f0-af86-f253077c9305",
+  "bill": "c938507a-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HR330",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HR0330_44554.pdf",
-  "_id": "194c3bac-4dff-11f0-af86-f253077c9305"
+  "_id": "c93ca81e-4e07-11f0-941a-56c8c14823b7"
 }

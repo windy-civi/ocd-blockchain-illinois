@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "bea2cd42-4dfe-11f0-af86-f253077c9305",
+  "bill": "6f56070a-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB741",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0741_42109.pdf",
-  "_id": "bea72ef0-4dfe-11f0-af86-f253077c9305"
+  "_id": "6f5a4de2-4e07-11f0-941a-56c8c14823b7"
 }

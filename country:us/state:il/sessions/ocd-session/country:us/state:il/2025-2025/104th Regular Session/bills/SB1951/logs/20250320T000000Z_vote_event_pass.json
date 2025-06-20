@@ -6,10 +6,22 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4deccce6-4dff-11f0-af86-f253077c9305",
+  "bill": "fe875a0a-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB1951",
   "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Balkema, Chris",
+      "voter_id": "~{\"name\": \"Balkema, Chris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anderson, Neil",
+      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
+      "note": ""
+    },
     {
       "option": "yes",
       "voter_name": "Castro, Cristina",
@@ -18,8 +30,20 @@
     },
     {
       "option": "yes",
+      "voter_name": "Bryant, Terri",
+      "voter_id": "~{\"name\": \"Bryant, Terri\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
       "voter_name": "Faraci, Paul",
       "voter_id": "~{\"name\": \"Faraci, Paul\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chesney, Andrew S",
+      "voter_id": "~{\"name\": \"Chesney, Andrew S\"}",
       "note": ""
     },
     {
@@ -59,31 +83,7 @@
       "note": ""
     },
     {
-      "option": "no",
-      "voter_name": "Balkema, Chris",
-      "voter_id": "~{\"name\": \"Balkema, Chris\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
-      "voter_name": "Anderson, Neil",
-      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
-      "voter_name": "Bryant, Terri",
-      "voter_id": "~{\"name\": \"Bryant, Terri\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
-      "voter_name": "Chesney, Andrew S",
-      "voter_id": "~{\"name\": \"Chesney, Andrew S\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
+      "option": "yes",
       "voter_name": "Turner, Sally J",
       "voter_id": "~{\"name\": \"Turner, Sally J\"}",
       "note": ""
@@ -92,11 +92,11 @@
   "counts": [
     {
       "option": "yes",
-      "value": 8
+      "value": 13
     },
     {
       "option": "no",
-      "value": 5
+      "value": 0
     },
     {
       "option": "other",
@@ -117,11 +117,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1951_42804.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1951SCA1_42795.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1951_42804.pdf",
-  "_id": "4df1ad9c-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1951SCA1_42795.pdf",
+  "_id": "fe8e39ec-4e07-11f0-941a-56c8c14823b7"
 }

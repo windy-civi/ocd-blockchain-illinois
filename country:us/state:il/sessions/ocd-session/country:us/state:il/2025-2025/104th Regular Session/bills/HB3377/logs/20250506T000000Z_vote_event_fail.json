@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0288a388-4dff-11f0-af86-f253077c9305",
+  "bill": "b2617214-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3377",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3377_43917.pdf",
-  "_id": "0292b59e-4dff-11f0-af86-f253077c9305"
+  "_id": "b26b7462-4e07-11f0-941a-56c8c14823b7"
 }

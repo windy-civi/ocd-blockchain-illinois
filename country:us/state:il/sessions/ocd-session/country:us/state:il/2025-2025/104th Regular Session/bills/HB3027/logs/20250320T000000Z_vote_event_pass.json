@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f8ded51e-4dfe-11f0-af86-f253077c9305",
+  "bill": "a8c3c608-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3027",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3027_42760.pdf",
-  "_id": "f8e459da-4dfe-11f0-af86-f253077c9305"
+  "_id": "a8c93138-4e07-11f0-941a-56c8c14823b7"
 }

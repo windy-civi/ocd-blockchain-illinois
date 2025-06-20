@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d20c5aba-4dfe-11f0-af86-f253077c9305",
+  "bill": "825714de-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1575",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1575_43787.pdf",
-  "_id": "d216dae4-4dfe-11f0-af86-f253077c9305"
+  "_id": "82616ef2-4e07-11f0-941a-56c8c14823b7"
 }

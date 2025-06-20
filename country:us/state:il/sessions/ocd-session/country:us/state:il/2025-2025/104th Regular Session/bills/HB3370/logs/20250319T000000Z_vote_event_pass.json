@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "02413944-4dff-11f0-af86-f253077c9305",
+  "bill": "b219ea5c-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3370",
   "votes": [
@@ -165,5 +165,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3370_42445.pdf",
-  "_id": "02461428-4dff-11f0-af86-f253077c9305"
+  "_id": "b21efe5c-4e07-11f0-941a-56c8c14823b7"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "20b9aee2-4dff-11f0-af86-f253077c9305",
+  "bill": "d0c3b898-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB144",
   "votes": [
@@ -14,18 +14,6 @@
       "option": "yes",
       "voter_name": "Castro, Cristina",
       "voter_id": "~{\"name\": \"Castro, Cristina\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Anderson, Neil",
-      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Curran, John F",
-      "voter_id": "~{\"name\": \"Curran, John F\"}",
       "note": ""
     },
     {
@@ -77,13 +65,25 @@
       "note": ""
     },
     {
-      "option": "yes",
+      "option": "no",
+      "voter_name": "Anderson, Neil",
+      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Curran, John F",
+      "voter_id": "~{\"name\": \"Curran, John F\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
       "voter_name": "Rezin, Sue",
       "voter_id": "~{\"name\": \"Rezin, Sue\"}",
       "note": ""
     },
     {
-      "option": "yes",
+      "option": "no",
       "voter_name": "Tracy, Jil",
       "voter_id": "~{\"name\": \"Tracy, Jil\"}",
       "note": ""
@@ -92,11 +92,11 @@
   "counts": [
     {
       "option": "yes",
-      "value": 13
+      "value": 9
     },
     {
       "option": "no",
-      "value": 0
+      "value": 4
     },
     {
       "option": "other",
@@ -117,11 +117,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0144SCA1_43423.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0144_43422.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0144SCA1_43423.pdf",
-  "_id": "20c32472-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0144_43422.pdf",
+  "_id": "d0cb7e3e-4e07-11f0-941a-56c8c14823b7"
 }

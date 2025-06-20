@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "05be1722-4dff-11f0-af86-f253077c9305",
+  "bill": "b593ec14-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3493",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB3493_05302025_004000T.pdf",
-  "_id": "05c65df6-4dff-11f0-af86-f253077c9305"
+  "_id": "b59c2438-4e07-11f0-941a-56c8c14823b7"
 }

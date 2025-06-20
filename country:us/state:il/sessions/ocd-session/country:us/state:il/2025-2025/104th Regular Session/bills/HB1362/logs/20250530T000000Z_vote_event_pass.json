@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "cd5a0562-4dfe-11f0-af86-f253077c9305",
+  "bill": "7db15b9c-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1362",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1362sam001_05302025_017000C.pdf",
-  "_id": "cd60b588-4dfe-11f0-af86-f253077c9305"
+  "_id": "7db81e46-4e07-11f0-941a-56c8c14823b7"
 }

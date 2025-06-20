@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "bec82f42-4dfe-11f0-af86-f253077c9305",
+  "bill": "6f79550c-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB744",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0744_42109.pdf",
-  "_id": "becc9078-4dfe-11f0-af86-f253077c9305"
+  "_id": "6f7dafc6-4e07-11f0-941a-56c8c14823b7"
 }

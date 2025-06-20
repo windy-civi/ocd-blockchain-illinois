@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "c4a3e726-4dfe-11f0-af86-f253077c9305",
+  "bill": "751ae034-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB980",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0980_42109.pdf",
-  "_id": "c4a83d1c-4dfe-11f0-af86-f253077c9305"
+  "_id": "751f0614-4e07-11f0-941a-56c8c14823b7"
 }

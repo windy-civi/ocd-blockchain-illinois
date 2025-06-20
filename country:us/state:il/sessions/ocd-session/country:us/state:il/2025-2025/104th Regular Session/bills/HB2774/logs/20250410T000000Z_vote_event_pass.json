@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f1e4acb6-4dfe-11f0-af86-f253077c9305",
+  "bill": "a1c97154-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2774",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB2774_04102025_056000T.pdf",
-  "_id": "f1ed25a8-4dfe-11f0-af86-f253077c9305"
+  "_id": "a1d26598-4e07-11f0-941a-56c8c14823b7"
 }

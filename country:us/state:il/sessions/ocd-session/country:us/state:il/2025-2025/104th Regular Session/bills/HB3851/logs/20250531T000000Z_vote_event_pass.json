@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0faa7ce4-4dff-11f0-af86-f253077c9305",
+  "bill": "bf8887e8-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3851",
   "votes": [
@@ -741,11 +741,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3851sam001_05312025_045000C.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3851sam002_05312025_045001C.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3851sam001_05312025_045000C.pdf",
-  "_id": "0fb1d64c-4dff-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3851sam002_05312025_045001C.pdf",
+  "_id": "bf930768-4e07-11f0-941a-56c8c14823b7"
 }

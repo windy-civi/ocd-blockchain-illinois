@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "c1bf42f8-4dfe-11f0-af86-f253077c9305",
+  "bill": "724e1f7e-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB865",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0865_42109.pdf",
-  "_id": "c1c388b8-4dfe-11f0-af86-f253077c9305"
+  "_id": "725275a6-4e07-11f0-941a-56c8c14823b7"
 }

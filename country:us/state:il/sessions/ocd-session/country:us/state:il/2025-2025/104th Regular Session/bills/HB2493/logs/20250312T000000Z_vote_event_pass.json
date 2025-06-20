@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ea4fa618-4dfe-11f0-af86-f253077c9305",
+  "bill": "9a3d9e38-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2493",
   "votes": [
@@ -165,5 +165,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2493_42067.pdf",
-  "_id": "ea578388-4dfe-11f0-af86-f253077c9305"
+  "_id": "9a4567ee-4e07-11f0-941a-56c8c14823b7"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "db903fa2-4dfe-11f0-af86-f253077c9305",
+  "bill": "8bb0a4c8-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB1938",
   "votes": [
@@ -111,5 +111,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1938_41971.pdf",
-  "_id": "db979450-4dfe-11f0-af86-f253077c9305"
+  "_id": "8bb80128-4e07-11f0-941a-56c8c14823b7"
 }

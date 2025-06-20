@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f9a5a2d4-4dfe-11f0-af86-f253077c9305",
+  "bill": "a9878ebc-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3054",
   "votes": [
@@ -219,5 +219,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3054_42031.pdf",
-  "_id": "f9aca9c6-4dfe-11f0-af86-f253077c9305"
+  "_id": "a98e797a-4e07-11f0-941a-56c8c14823b7"
 }

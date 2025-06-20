@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e786256a-4dfe-11f0-af86-f253077c9305",
+  "bill": "97771404-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2393",
   "votes": [
@@ -75,5 +75,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2393_42771.pdf",
-  "_id": "e78b9c02-4dfe-11f0-af86-f253077c9305"
+  "_id": "977c8164-4e07-11f0-941a-56c8c14823b7"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "be967664-4dfe-11f0-af86-f253077c9305",
+  "bill": "6f4a140e-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB739",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0739_42109.pdf",
-  "_id": "be9abdfa-4dfe-11f0-af86-f253077c9305"
+  "_id": "6f4e4fce-4e07-11f0-941a-56c8c14823b7"
 }

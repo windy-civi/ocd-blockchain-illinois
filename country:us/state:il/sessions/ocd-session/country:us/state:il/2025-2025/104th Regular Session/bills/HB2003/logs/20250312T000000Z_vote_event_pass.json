@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "dd1da17a-4dfe-11f0-af86-f253077c9305",
+  "bill": "8d37691c-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2003",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2003_42108.pdf",
-  "_id": "dd21e230-4dfe-11f0-af86-f253077c9305"
+  "_id": "8d3b9d16-4e07-11f0-941a-56c8c14823b7"
 }

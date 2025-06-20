@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3e18f42a-4dff-11f0-af86-f253077c9305",
+  "bill": "ee8a5fda-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "SB1344",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1344HFA2_44799.pdf",
-  "_id": "3e26bd08-4dff-11f0-af86-f253077c9305"
+  "_id": "ee98a5d6-4e07-11f0-941a-56c8c14823b7"
 }

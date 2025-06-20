@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ee12269a-4dfe-11f0-af86-f253077c9305",
+  "bill": "9df9a148-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB2631",
   "votes": [
@@ -165,5 +165,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2631_42437.pdf",
-  "_id": "ee1a096e-4dfe-11f0-af86-f253077c9305"
+  "_id": "9e016edc-4e07-11f0-941a-56c8c14823b7"
 }

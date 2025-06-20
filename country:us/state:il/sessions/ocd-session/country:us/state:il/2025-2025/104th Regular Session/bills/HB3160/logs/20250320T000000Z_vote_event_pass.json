@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "fc5c4730-4dfe-11f0-af86-f253077c9305",
+  "bill": "ac3942b8-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3160",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3160_42939.pdf",
-  "_id": "fc6a1e5a-4dfe-11f0-af86-f253077c9305"
+  "_id": "ac46baec-4e07-11f0-941a-56c8c14823b7"
 }

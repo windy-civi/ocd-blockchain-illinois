@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0bffa10a-4dff-11f0-af86-f253077c9305",
+  "bill": "bbd2dd06-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3710",
   "votes": [
@@ -135,5 +135,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3710HFA1_43338.pdf",
-  "_id": "0c0bdbb4-4dff-11f0-af86-f253077c9305"
+  "_id": "bbdef37a-4e07-11f0-941a-56c8c14823b7"
 }

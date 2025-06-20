@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0cadd2e8-4dff-11f0-af86-f253077c9305",
+  "bill": "bc832896-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3732",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3732_42274.pdf",
-  "_id": "0cb28806-4dff-11f0-af86-f253077c9305"
+  "_id": "bc87d63e-4e07-11f0-941a-56c8c14823b7"
 }

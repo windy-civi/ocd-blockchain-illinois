@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Executive, Amendment 2",
+  "motion_text": "Executive",
   "motion_classification": [],
   "start_date": "2025-05-30",
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f8876824-4dfe-11f0-af86-f253077c9305",
+  "bill": "a86e4700-4e07-11f0-941a-56c8c14823b7",
   "bill_action": null,
   "bill_identifier": "HB3019",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3019SFA2_44747.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3019SCA1_44746.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3019SFA2_44747.pdf",
-  "_id": "f899d04a-4dfe-11f0-af86-f253077c9305"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3019SCA1_44746.pdf",
+  "_id": "a87e4b64-4e07-11f0-941a-56c8c14823b7"
 }
