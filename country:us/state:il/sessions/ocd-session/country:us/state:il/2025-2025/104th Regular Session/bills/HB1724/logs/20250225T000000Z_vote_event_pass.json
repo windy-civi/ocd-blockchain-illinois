@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0f16cc1c-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "d5e42104-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1724",
   "votes": [
@@ -165,5 +165,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1724_41730.pdf",
-  "_id": "0f1e2818-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "d5eb8f5c-4dfe-11f0-af86-f253077c9305"
 }

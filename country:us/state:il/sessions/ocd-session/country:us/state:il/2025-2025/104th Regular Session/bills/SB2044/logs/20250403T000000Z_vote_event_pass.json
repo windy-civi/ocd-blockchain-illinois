@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "88f99eba-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "5095b3ae-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB2044",
   "votes": [
@@ -66,6 +66,12 @@
     },
     {
       "option": "yes",
+      "voter_name": "Lightford, Kimberly A",
+      "voter_id": "~{\"name\": \"Lightford, Kimberly A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
       "voter_name": "Sims Jr., Elgie R",
       "voter_id": "~{\"name\": \"Sims Jr., Elgie R\"}",
       "note": ""
@@ -81,18 +87,12 @@
       "voter_name": "Tracy, Jil",
       "voter_id": "~{\"name\": \"Tracy, Jil\"}",
       "note": ""
-    },
-    {
-      "option": "not voting",
-      "voter_name": "Lightford, Kimberly A",
-      "voter_id": "~{\"name\": \"Lightford, Kimberly A\"}",
-      "note": ""
     }
   ],
   "counts": [
     {
       "option": "yes",
-      "value": 12
+      "value": 13
     },
     {
       "option": "no",
@@ -112,16 +112,16 @@
     },
     {
       "option": "not voting",
-      "value": 1
+      "value": 0
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2044SCA1_43078.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2044_43079.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2044SCA1_43078.pdf",
-  "_id": "8914b22c-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2044_43079.pdf",
+  "_id": "50ae9342-4dff-11f0-af86-f253077c9305"
 }

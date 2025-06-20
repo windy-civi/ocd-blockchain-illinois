@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0e6933a4-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "d5363dd2-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1699",
   "votes": [
@@ -219,5 +219,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1699_42032.pdf",
-  "_id": "0e77830a-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "d544a4da-4dfe-11f0-af86-f253077c9305"
 }

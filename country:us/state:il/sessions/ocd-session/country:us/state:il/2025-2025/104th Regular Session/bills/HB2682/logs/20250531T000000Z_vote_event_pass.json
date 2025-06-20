@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "27978150-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "ef36e010-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2682",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB2682_05312025_008000T.pdf",
-  "_id": "279e06ce-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "ef3d59c2-4dfe-11f0-af86-f253077c9305"
 }

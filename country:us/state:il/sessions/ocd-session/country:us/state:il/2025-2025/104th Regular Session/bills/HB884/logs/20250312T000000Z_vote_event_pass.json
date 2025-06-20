@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "fb8a0056-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "c2506ae4-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB884",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0884_42109.pdf",
-  "_id": "fb8e5318-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "c254b4c8-4dfe-11f0-af86-f253077c9305"
 }

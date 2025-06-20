@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Motion",
+  "motion_text": "Third Reading",
   "motion_classification": [],
   "start_date": "2025-04-11",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3dd64000-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "05be1722-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3493",
   "votes": [
@@ -50,6 +50,12 @@
       "option": "yes",
       "voter_name": "Olickal",
       "voter_id": "~{\"name\": \"Olickal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Benton",
+      "voter_id": "~{\"name\": \"Benton\"}",
       "note": ""
     },
     {
@@ -104,6 +110,12 @@
       "option": "yes",
       "voter_name": "Hernandez, Barbara",
       "voter_id": "~{\"name\": \"Hernandez, Barbara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cabello",
+      "voter_id": "~{\"name\": \"Cabello\"}",
       "note": ""
     },
     {
@@ -176,6 +188,12 @@
       "option": "yes",
       "voter_name": "Jim\u00e9nez",
       "voter_id": "~{\"name\": \"Jim\\u00e9nez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crespo",
+      "voter_id": "~{\"name\": \"Crespo\"}",
       "note": ""
     },
     {
@@ -693,30 +711,12 @@
       "voter_name": "Scherer",
       "voter_id": "~{\"name\": \"Scherer\"}",
       "note": ""
-    },
-    {
-      "option": "not voting",
-      "voter_name": "Benton",
-      "voter_id": "~{\"name\": \"Benton\"}",
-      "note": ""
-    },
-    {
-      "option": "not voting",
-      "voter_name": "Cabello",
-      "voter_id": "~{\"name\": \"Cabello\"}",
-      "note": ""
-    },
-    {
-      "option": "not voting",
-      "voter_name": "Crespo",
-      "voter_id": "~{\"name\": \"Crespo\"}",
-      "note": ""
     }
   ],
   "counts": [
     {
       "option": "yes",
-      "value": 74
+      "value": 77
     },
     {
       "option": "no",
@@ -736,16 +736,16 @@
     },
     {
       "option": "not voting",
-      "value": 3
+      "value": 0
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3493_04112025_013000M.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3493_04112025_014000T.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3493_04112025_013000M.pdf",
-  "_id": "3de3494e-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3493_04112025_014000T.pdf",
+  "_id": "05c8c780-4dff-11f0-af86-f253077c9305"
 }

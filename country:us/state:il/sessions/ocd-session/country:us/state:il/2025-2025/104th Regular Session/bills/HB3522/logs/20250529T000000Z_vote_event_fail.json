@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Higher Education, Amendment 4",
+  "motion_text": "Higher Education",
   "motion_classification": [],
   "start_date": "2025-05-29",
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3ebf3d82-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "06aa6122-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3522",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3522SFA4_44644.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3522SCA3_44643.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3522SFA4_44644.pdf",
-  "_id": "3ed535f6-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3522SCA3_44643.pdf",
+  "_id": "06bee390-4dff-11f0-af86-f253077c9305"
 }

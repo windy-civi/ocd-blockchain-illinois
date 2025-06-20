@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Third Reading",
+  "motion_text": "Motion",
   "motion_classification": [],
   "start_date": "2025-04-08",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3f01993e-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "06edfa90-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3527",
   "votes": [
@@ -56,6 +56,12 @@
       "option": "yes",
       "voter_name": "Olickal",
       "voter_id": "~{\"name\": \"Olickal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Benton",
+      "voter_id": "~{\"name\": \"Benton\"}",
       "note": ""
     },
     {
@@ -180,12 +186,6 @@
     },
     {
       "option": "yes",
-      "voter_name": "Crespo",
-      "voter_id": "~{\"name\": \"Crespo\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Slaughter",
       "voter_id": "~{\"name\": \"Slaughter\"}",
       "note": ""
@@ -242,12 +242,6 @@
       "option": "yes",
       "voter_name": "Davis, Will",
       "voter_id": "~{\"name\": \"Davis, Will\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "La Ha",
-      "voter_id": "~{\"name\": \"La Ha\"}",
       "note": ""
     },
     {
@@ -426,6 +420,12 @@
     },
     {
       "option": "yes",
+      "voter_name": "Moylan",
+      "voter_id": "~{\"name\": \"Moylan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
       "voter_name": "Grasse",
       "voter_id": "~{\"name\": \"Grasse\"}",
       "note": ""
@@ -494,12 +494,6 @@
       "option": "no",
       "voter_name": "Schmidt",
       "voter_id": "~{\"name\": \"Schmidt\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
-      "voter_name": "Hoffman",
-      "voter_id": "~{\"name\": \"Hoffman\"}",
       "note": ""
     },
     {
@@ -576,6 +570,12 @@
     },
     {
       "option": "no",
+      "voter_name": "La Ha",
+      "voter_id": "~{\"name\": \"La Ha\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
       "voter_name": "Swanson",
       "voter_id": "~{\"name\": \"Swanson\"}",
       "note": ""
@@ -594,8 +594,20 @@
     },
     {
       "option": "no",
+      "voter_name": "Elik",
+      "voter_id": "~{\"name\": \"Elik\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
       "voter_name": "McCombie",
       "voter_id": "~{\"name\": \"McCombie\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Weaver",
+      "voter_id": "~{\"name\": \"Weaver\"}",
       "note": ""
     },
     {
@@ -672,8 +684,14 @@
     },
     {
       "option": "not voting",
-      "voter_name": "Benton",
-      "voter_id": "~{\"name\": \"Benton\"}",
+      "voter_name": "Hoffman",
+      "voter_id": "~{\"name\": \"Hoffman\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Crespo",
+      "voter_id": "~{\"name\": \"Crespo\"}",
       "note": ""
     },
     {
@@ -690,26 +708,8 @@
     },
     {
       "option": "not voting",
-      "voter_name": "Elik",
-      "voter_id": "~{\"name\": \"Elik\"}",
-      "note": ""
-    },
-    {
-      "option": "not voting",
       "voter_name": "Walsh",
       "voter_id": "~{\"name\": \"Walsh\"}",
-      "note": ""
-    },
-    {
-      "option": "not voting",
-      "voter_name": "Weaver",
-      "voter_id": "~{\"name\": \"Weaver\"}",
-      "note": ""
-    },
-    {
-      "option": "not voting",
-      "voter_name": "Moylan",
-      "voter_id": "~{\"name\": \"Moylan\"}",
       "note": ""
     }
   ],
@@ -720,7 +720,7 @@
     },
     {
       "option": "no",
-      "value": 38
+      "value": 40
     },
     {
       "option": "other",
@@ -736,16 +736,16 @@
     },
     {
       "option": "not voting",
-      "value": 7
+      "value": 5
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3527_04082025_008000T.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3527_04082025_007000M.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3527_04082025_008000T.pdf",
-  "_id": "3f06d138-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3527_04082025_007000M.pdf",
+  "_id": "06f5f696-4dff-11f0-af86-f253077c9305"
 }

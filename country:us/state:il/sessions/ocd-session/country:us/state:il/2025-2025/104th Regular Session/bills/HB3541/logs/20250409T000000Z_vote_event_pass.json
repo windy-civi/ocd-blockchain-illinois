@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3f5236be-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "073f5598-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3541",
   "votes": [
@@ -219,5 +219,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3541HFA2_43438.pdf",
-  "_id": "3f5ac6bc-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "0747f108-4dff-11f0-af86-f253077c9305"
 }

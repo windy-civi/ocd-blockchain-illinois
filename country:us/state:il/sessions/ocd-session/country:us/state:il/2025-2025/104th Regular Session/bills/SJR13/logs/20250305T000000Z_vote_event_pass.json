@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "9da17c5c-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "6553e7de-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SJR13",
   "votes": [
@@ -129,5 +129,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SJR0013_41858.pdf",
-  "_id": "9db38d70-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "6566430c-4dff-11f0-af86-f253077c9305"
 }

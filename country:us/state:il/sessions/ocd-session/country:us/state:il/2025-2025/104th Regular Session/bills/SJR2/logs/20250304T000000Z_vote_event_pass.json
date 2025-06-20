@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "9d6b2c10-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "651cef86-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SJR2",
   "votes": [
@@ -135,5 +135,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SJR0002_41799.pdf",
-  "_id": "9d73b290-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "6525e456-4dff-11f0-af86-f253077c9305"
 }

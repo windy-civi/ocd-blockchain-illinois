@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Energy & Environment, Amendment 2",
+  "motion_text": "Energy & Environment, Amendment 1",
   "motion_classification": [],
   "start_date": "2025-04-08",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "33101c72-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "fae0d178-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3098",
   "votes": [
@@ -213,11 +213,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3098HFA2_43329.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3098HFA1_43328.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3098HFA2_43329.pdf",
-  "_id": "3322782c-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3098HFA1_43328.pdf",
+  "_id": "faf15016-4dfe-11f0-af86-f253077c9305"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "71c22280-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "3980edb4-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB1160",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400SB1160_05212025_012000T.pdf",
-  "_id": "71c758cc-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "3986204a-4dff-11f0-af86-f253077c9305"
 }

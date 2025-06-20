@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "53ab2a8a-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "1b982fa6-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HJR35",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HJ0035_05302025_010000.pdf",
-  "_id": "53af7932-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "1b9c66de-4dff-11f0-af86-f253077c9305"
 }

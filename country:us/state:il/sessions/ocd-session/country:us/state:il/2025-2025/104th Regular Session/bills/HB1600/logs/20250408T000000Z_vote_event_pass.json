@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0c11393a-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "d2de1c62-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1600",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1600HFA2_43238.pdf",
-  "_id": "0c19b89e-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "d2e69b12-4dfe-11f0-af86-f253077c9305"
 }

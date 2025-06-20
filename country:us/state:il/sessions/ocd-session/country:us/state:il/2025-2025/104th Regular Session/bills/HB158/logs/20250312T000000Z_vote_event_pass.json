@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e98a6e18-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "b067960e-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB158",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0158_42109.pdf",
-  "_id": "e98ea050-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "b06bd354-4dfe-11f0-af86-f253077c9305"
 }

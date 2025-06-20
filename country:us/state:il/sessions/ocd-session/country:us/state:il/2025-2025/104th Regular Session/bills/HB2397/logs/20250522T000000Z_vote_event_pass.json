@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "2039c71a-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "e7b28d30-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2397",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB2397_05222025_046000T.pdf",
-  "_id": "203fb616-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "e7b89900-4dfe-11f0-af86-f253077c9305"
 }

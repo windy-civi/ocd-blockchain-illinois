@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "852b7a6a-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "4ccac836-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB1920",
   "votes": [
@@ -129,11 +129,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1920SCA2_42221.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1920_42222.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1920SCA2_42221.pdf",
-  "_id": "8540b6fa-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1920_42222.pdf",
+  "_id": "4cddd9ee-4dff-11f0-af86-f253077c9305"
 }

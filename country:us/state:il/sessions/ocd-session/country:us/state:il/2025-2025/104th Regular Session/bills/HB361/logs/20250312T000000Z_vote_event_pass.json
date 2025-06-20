@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ee7ed7f6-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "b555ba2e-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB361",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0361_42109.pdf",
-  "_id": "ee833c92-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "b559fed6-4dfe-11f0-af86-f253077c9305"
 }

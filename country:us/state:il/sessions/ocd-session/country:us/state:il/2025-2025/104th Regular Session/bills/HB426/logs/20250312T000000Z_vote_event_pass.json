@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f0125584-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "b6e7b8e2-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB426",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0426_42109.pdf",
-  "_id": "f01697a2-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "b6ebfb5a-4dfe-11f0-af86-f253077c9305"
 }

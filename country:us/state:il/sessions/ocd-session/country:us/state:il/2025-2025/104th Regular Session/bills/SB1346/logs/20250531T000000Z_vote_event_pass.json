@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "767c97a6-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "3e30d82e-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB1346",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400SB1346ham001_05312025_057000C.pdf",
-  "_id": "7682e57a-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "3e371e28-4dff-11f0-af86-f253077c9305"
 }

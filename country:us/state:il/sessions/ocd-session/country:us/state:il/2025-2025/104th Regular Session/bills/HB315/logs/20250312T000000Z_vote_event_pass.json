@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ed60e74c-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "b439d90e-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB315",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0315_42109.pdf",
-  "_id": "ed65b4ca-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "b43e1f64-4dfe-11f0-af86-f253077c9305"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "32271504-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "f9f5d876-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3067",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3067_04102025_050000T.pdf",
-  "_id": "322d2a20-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "f9fbd4d8-4dfe-11f0-af86-f253077c9305"
 }

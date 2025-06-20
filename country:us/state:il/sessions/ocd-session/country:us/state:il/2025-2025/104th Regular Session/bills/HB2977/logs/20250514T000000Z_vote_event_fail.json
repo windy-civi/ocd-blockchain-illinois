@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "2f672db8-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "f72b2f92-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2977",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2977SCA1_44259.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2977SCA2_44267.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2977SCA1_44259.pdf",
-  "_id": "2f7c5d96-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2977SCA2_44267.pdf",
+  "_id": "f742f3ca-4dfe-11f0-af86-f253077c9305"
 }

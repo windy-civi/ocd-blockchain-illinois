@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f0d44964-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "b7a8c4e2-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB457",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0457_42109.pdf",
-  "_id": "f0d899c4-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "b7ad0e12-4dfe-11f0-af86-f253077c9305"
 }

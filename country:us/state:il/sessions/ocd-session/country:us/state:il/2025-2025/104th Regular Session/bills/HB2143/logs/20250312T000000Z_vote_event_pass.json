@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "196f4be4-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "e0a0ab62-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2143",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2143_42108.pdf",
-  "_id": "197381be-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "e0a4fc58-4dfe-11f0-af86-f253077c9305"
 }

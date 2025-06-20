@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "77adbb14-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "3f61d14e-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB1395",
   "votes": [
@@ -30,12 +30,6 @@
     },
     {
       "option": "yes",
-      "voter_name": "McClure, Steve",
-      "voter_id": "~{\"name\": \"McClure, Steve\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Martwick, Robert F",
       "voter_id": "~{\"name\": \"Martwick, Robert F\"}",
       "note": ""
@@ -48,6 +42,18 @@
     },
     {
       "option": "yes",
+      "voter_name": "Villanueva, Celina",
+      "voter_id": "~{\"name\": \"Villanueva, Celina\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "McClure, Steve",
+      "voter_id": "~{\"name\": \"McClure, Steve\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
       "voter_name": "Tracy, Jil",
       "voter_id": "~{\"name\": \"Tracy, Jil\"}",
       "note": ""
@@ -63,22 +69,16 @@
       "voter_name": "Sims Jr., Elgie R",
       "voter_id": "~{\"name\": \"Sims Jr., Elgie R\"}",
       "note": ""
-    },
-    {
-      "option": "not voting",
-      "voter_name": "Villanueva, Celina",
-      "voter_id": "~{\"name\": \"Villanueva, Celina\"}",
-      "note": ""
     }
   ],
   "counts": [
     {
       "option": "yes",
-      "value": 7
+      "value": 6
     },
     {
       "option": "no",
-      "value": 0
+      "value": 2
     },
     {
       "option": "other",
@@ -94,16 +94,16 @@
     },
     {
       "option": "not voting",
-      "value": 3
+      "value": 2
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1395SCA1_42248.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1395_42257.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1395SCA1_42248.pdf",
-  "_id": "77b49902-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1395_42257.pdf",
+  "_id": "3f66bde4-4dff-11f0-af86-f253077c9305"
 }

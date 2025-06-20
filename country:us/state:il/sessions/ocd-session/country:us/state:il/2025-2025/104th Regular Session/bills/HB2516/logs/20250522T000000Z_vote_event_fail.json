@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "234e1172-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "ead65758-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2516",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2516SCA1_44482.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2516_44486.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2516SCA1_44482.pdf",
-  "_id": "235f7520-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2516_44486.pdf",
+  "_id": "eae69118-4dfe-11f0-af86-f253077c9305"
 }

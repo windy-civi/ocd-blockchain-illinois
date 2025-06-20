@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3504b18c-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "fcd63ffe-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3177",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3177_44451.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3177SCA1_44448.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3177_44451.pdf",
-  "_id": "3511b6de-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3177SCA1_44448.pdf",
+  "_id": "fce51db2-4dfe-11f0-af86-f253077c9305"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "29e16ec6-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "f18a9410-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2767",
   "votes": [
@@ -165,5 +165,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2767_42806.pdf",
-  "_id": "29eab3d2-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "f1940d74-4dfe-11f0-af86-f253077c9305"
 }

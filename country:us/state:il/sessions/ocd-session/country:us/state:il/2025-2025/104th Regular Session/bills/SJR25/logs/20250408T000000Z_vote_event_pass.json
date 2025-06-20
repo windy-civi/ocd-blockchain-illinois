@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "9de51264-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "6597f9d8-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SJR25",
   "votes": [
@@ -105,5 +105,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SJR0025_43266.pdf",
-  "_id": "9deb8270-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "659e7524-4dff-11f0-af86-f253077c9305"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "04ad26e0-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "cb754694-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1283",
   "votes": [
@@ -75,5 +75,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1283_42026.pdf",
-  "_id": "04b1cfec-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "cb79e71c-4dfe-11f0-af86-f253077c9305"
 }

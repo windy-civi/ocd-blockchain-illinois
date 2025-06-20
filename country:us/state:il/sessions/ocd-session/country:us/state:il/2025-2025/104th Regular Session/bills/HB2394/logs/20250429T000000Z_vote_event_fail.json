@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "2018022e-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "e78fbe22-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2394",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2394_43646.pdf",
-  "_id": "20214244-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "e7991238-4dfe-11f0-af86-f253077c9305"
 }

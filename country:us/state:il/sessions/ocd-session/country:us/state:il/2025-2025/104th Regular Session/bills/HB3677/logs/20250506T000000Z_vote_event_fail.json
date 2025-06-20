@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "430255aa-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "0af64e6c-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3677",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3677SCA1_44005.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3677_44008.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3677SCA1_44005.pdf",
-  "_id": "4315a628-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3677_44008.pdf",
+  "_id": "0b080332-4dff-11f0-af86-f253077c9305"
 }

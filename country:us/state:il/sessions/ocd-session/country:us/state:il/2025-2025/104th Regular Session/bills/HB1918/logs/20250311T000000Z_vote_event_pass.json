@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "141e7d2c-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "db09ba72-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1918",
   "votes": [
@@ -147,5 +147,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1918_42001.pdf",
-  "_id": "14265cf4-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "db11adae-4dfe-11f0-af86-f253077c9305"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "efed79a8-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "b6c26fec-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB420",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0420_42109.pdf",
-  "_id": "eff1b824-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "b6c6b2a0-4dfe-11f0-af86-f253077c9305"
 }

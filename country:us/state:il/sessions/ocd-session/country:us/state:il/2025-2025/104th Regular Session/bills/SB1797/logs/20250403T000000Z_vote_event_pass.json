@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "823097d2-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "49d428fc-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB1797",
   "votes": [
@@ -14,18 +14,6 @@
       "option": "yes",
       "voter_name": "Castro, Cristina",
       "voter_id": "~{\"name\": \"Castro, Cristina\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Anderson, Neil",
-      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Curran, John F",
-      "voter_id": "~{\"name\": \"Curran, John F\"}",
       "note": ""
     },
     {
@@ -66,37 +54,49 @@
     },
     {
       "option": "yes",
-      "voter_name": "Lightford, Kimberly A",
-      "voter_id": "~{\"name\": \"Lightford, Kimberly A\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Sims Jr., Elgie R",
       "voter_id": "~{\"name\": \"Sims Jr., Elgie R\"}",
       "note": ""
     },
     {
-      "option": "yes",
+      "option": "no",
+      "voter_name": "Anderson, Neil",
+      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Curran, John F",
+      "voter_id": "~{\"name\": \"Curran, John F\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
       "voter_name": "Rezin, Sue",
       "voter_id": "~{\"name\": \"Rezin, Sue\"}",
       "note": ""
     },
     {
-      "option": "yes",
+      "option": "no",
       "voter_name": "Tracy, Jil",
       "voter_id": "~{\"name\": \"Tracy, Jil\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Lightford, Kimberly A",
+      "voter_id": "~{\"name\": \"Lightford, Kimberly A\"}",
       "note": ""
     }
   ],
   "counts": [
     {
       "option": "yes",
-      "value": 13
+      "value": 8
     },
     {
       "option": "no",
-      "value": 0
+      "value": 4
     },
     {
       "option": "other",
@@ -112,16 +112,16 @@
     },
     {
       "option": "not voting",
-      "value": 0
+      "value": 1
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1797SCA1_43102.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1797_43106.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1797SCA1_43102.pdf",
-  "_id": "8244baaa-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1797_43106.pdf",
+  "_id": "49e60964-4dff-11f0-af86-f253077c9305"
 }

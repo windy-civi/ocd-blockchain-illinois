@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "2ef02b00-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "f6b16234-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2966",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB2966_04092025_077000T.pdf",
-  "_id": "2ef80f82-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "f6b94ce2-4dfe-11f0-af86-f253077c9305"
 }

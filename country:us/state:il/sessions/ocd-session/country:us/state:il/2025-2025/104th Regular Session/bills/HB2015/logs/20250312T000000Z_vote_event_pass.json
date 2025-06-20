@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "16640afc-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "dd6882bc-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2015",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2015_42108.pdf",
-  "_id": "16684cd4-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "dd6cb242-4dfe-11f0-af86-f253077c9305"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "14f73eb4-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "dbec5c42-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1953",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1953_42108.pdf",
-  "_id": "14fb5f30-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "dbf09f32-4dfe-11f0-af86-f253077c9305"
 }

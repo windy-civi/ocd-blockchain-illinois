@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3e73d6bc-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "065df152-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3510",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3510_44180.pdf",
-  "_id": "3e7df78c-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "06683b26-4dff-11f0-af86-f253077c9305"
 }

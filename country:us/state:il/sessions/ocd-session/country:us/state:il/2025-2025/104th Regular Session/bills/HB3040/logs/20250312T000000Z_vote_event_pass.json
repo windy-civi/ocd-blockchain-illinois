@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "31661138-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "f933671e-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3040",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3040_42167.pdf",
-  "_id": "316ad72c-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "f9382880-4dfe-11f0-af86-f253077c9305"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "17b61382-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "dece16a8-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2073",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2073_42108.pdf",
-  "_id": "17ba3f2a-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "ded25cd6-4dfe-11f0-af86-f253077c9305"
 }

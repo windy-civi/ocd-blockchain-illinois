@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "72a6a5f4-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "3a62dad0-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB1195",
   "votes": [
@@ -26,12 +26,6 @@
       "option": "yes",
       "voter_name": "Martwick, Robert F",
       "voter_id": "~{\"name\": \"Martwick, Robert F\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Collins, Lakesia",
-      "voter_id": "~{\"name\": \"Collins, Lakesia\"}",
       "note": ""
     },
     {
@@ -66,6 +60,12 @@
     },
     {
       "option": "not voting",
+      "voter_name": "Collins, Lakesia",
+      "voter_id": "~{\"name\": \"Collins, Lakesia\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
       "voter_name": "Sims Jr., Elgie R",
       "voter_id": "~{\"name\": \"Sims Jr., Elgie R\"}",
       "note": ""
@@ -74,7 +74,7 @@
   "counts": [
     {
       "option": "yes",
-      "value": 9
+      "value": 8
     },
     {
       "option": "no",
@@ -94,16 +94,16 @@
     },
     {
       "option": "not voting",
-      "value": 1
+      "value": 2
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1195SCA2_43028.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1195_43031.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1195SCA2_43028.pdf",
-  "_id": "72b5bc74-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1195_43031.pdf",
+  "_id": "3a6ffa94-4dff-11f0-af86-f253077c9305"
 }

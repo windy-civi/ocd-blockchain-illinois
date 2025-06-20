@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "166a0326-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "dd6e9490-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2016",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2016_42108.pdf",
-  "_id": "166e36da-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "dd72c20e-4dfe-11f0-af86-f253077c9305"
 }

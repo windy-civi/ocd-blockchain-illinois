@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "eed10c2e-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "b5a5d4a0-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB374",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0374_42109.pdf",
-  "_id": "eed559fa-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "b5aa2154-4dfe-11f0-af86-f253077c9305"
 }

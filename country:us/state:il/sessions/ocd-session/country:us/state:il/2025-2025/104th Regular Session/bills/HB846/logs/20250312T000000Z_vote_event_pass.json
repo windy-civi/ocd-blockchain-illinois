@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "fa7651d8-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "c13db508-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB846",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0846_42109.pdf",
-  "_id": "fa7aa274-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "c141fb90-4dfe-11f0-af86-f253077c9305"
 }

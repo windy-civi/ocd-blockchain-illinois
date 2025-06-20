@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "36bf13fa-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "fe904722-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3247",
   "votes": [
@@ -123,5 +123,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3247HFA2_43391.pdf",
-  "_id": "36ce246c-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "fe9f8962-4dfe-11f0-af86-f253077c9305"
 }

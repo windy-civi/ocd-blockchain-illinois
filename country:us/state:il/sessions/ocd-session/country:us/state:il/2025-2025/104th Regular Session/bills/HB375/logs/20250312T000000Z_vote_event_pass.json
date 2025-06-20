@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "eed73a54-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "b5ac026c-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB375",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0375_42109.pdf",
-  "_id": "eedb82e4-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "b5b044ee-4dfe-11f0-af86-f253077c9305"
 }

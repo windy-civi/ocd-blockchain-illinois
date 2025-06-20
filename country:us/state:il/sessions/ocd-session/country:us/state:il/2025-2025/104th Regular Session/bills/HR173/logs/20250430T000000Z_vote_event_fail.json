@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4e9e3c30-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "1695b3d4-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HR173",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HR0173_43683.pdf",
-  "_id": "4ea292ee-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "1699f278-4dff-11f0-af86-f253077c9305"
 }

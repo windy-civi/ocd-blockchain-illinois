@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1fb2e7d6-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "e728208c-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2386",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2386_43648.pdf",
-  "_id": "1fbcd728-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "e7326fb0-4dfe-11f0-af86-f253077c9305"
 }

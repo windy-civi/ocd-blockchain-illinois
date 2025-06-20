@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "14ce3532-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "dbc1b014-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1946",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1946_42108.pdf",
-  "_id": "14d26490-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "dbc5dfcc-4dfe-11f0-af86-f253077c9305"
 }

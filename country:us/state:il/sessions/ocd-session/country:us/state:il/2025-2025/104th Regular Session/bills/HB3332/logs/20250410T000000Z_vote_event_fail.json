@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "392b5e82-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "010614e6-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3332",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3332_04102025_112000T.pdf",
-  "_id": "39313dd4-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "010bf6b8-4dff-11f0-af86-f253077c9305"
 }

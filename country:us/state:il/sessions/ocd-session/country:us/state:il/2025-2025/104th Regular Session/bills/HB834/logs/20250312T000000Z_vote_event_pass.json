@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "fa2bf3ae-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "c0f397a2-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB834",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0834_42109.pdf",
-  "_id": "fa303d4c-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "c0f7dd62-4dfe-11f0-af86-f253077c9305"
 }

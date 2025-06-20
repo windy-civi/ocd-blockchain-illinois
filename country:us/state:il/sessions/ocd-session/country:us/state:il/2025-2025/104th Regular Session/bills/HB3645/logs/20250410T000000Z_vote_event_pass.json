@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Motion",
+  "motion_text": "Third Reading",
   "motion_classification": [],
   "start_date": "2025-04-10",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "41ffb2d8-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "09f07646-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3645",
   "votes": [
@@ -20,12 +20,6 @@
       "option": "yes",
       "voter_name": "Guerrero-Cuellar",
       "voter_id": "~{\"name\": \"Guerrero-Cuellar\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Ammons",
-      "voter_id": "~{\"name\": \"Ammons\"}",
       "note": ""
     },
     {
@@ -696,6 +690,12 @@
     },
     {
       "option": "excused",
+      "voter_name": "Ammons",
+      "voter_id": "~{\"name\": \"Ammons\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
       "voter_name": "Hauter",
       "voter_id": "~{\"name\": \"Hauter\"}",
       "note": ""
@@ -716,7 +716,7 @@
   "counts": [
     {
       "option": "yes",
-      "value": 115
+      "value": 114
     },
     {
       "option": "no",
@@ -728,7 +728,7 @@
     },
     {
       "option": "excused",
-      "value": 3
+      "value": 4
     },
     {
       "option": "absent",
@@ -741,11 +741,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3645_04102025_002000M.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3645_04102025_053000T.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3645_04102025_002000M.pdf",
-  "_id": "420a306e-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3645_04102025_053000T.pdf",
+  "_id": "09f887aa-4dff-11f0-af86-f253077c9305"
 }

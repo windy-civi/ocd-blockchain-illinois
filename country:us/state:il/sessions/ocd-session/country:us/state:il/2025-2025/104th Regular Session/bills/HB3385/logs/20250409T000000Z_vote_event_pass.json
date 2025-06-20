@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3ad8fa0a-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "02b89610-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3385",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3385HFA1_43450.pdf",
-  "_id": "3aed9f32-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "02cd797c-4dff-11f0-af86-f253077c9305"
 }

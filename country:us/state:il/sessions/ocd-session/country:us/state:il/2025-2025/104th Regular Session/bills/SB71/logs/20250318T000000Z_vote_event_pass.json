@@ -6,26 +6,14 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "5693854e-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "1e9733d2-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB71",
   "votes": [
     {
       "option": "yes",
-      "voter_name": "Balkema, Chris",
-      "voter_id": "~{\"name\": \"Balkema, Chris\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Anderson, Neil",
       "voter_id": "~{\"name\": \"Anderson, Neil\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "DeWitte, Donald P",
-      "voter_id": "~{\"name\": \"DeWitte, Donald P\"}",
       "note": ""
     },
     {
@@ -78,12 +66,30 @@
     },
     {
       "option": "yes",
+      "voter_name": "Villivalam, Ram",
+      "voter_id": "~{\"name\": \"Villivalam, Ram\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
       "voter_name": "Villa, Karina",
       "voter_id": "~{\"name\": \"Villa, Karina\"}",
       "note": ""
     },
     {
-      "option": "yes",
+      "option": "no",
+      "voter_name": "Balkema, Chris",
+      "voter_id": "~{\"name\": \"Balkema, Chris\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DeWitte, Donald P",
+      "voter_id": "~{\"name\": \"DeWitte, Donald P\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
       "voter_name": "Wilcox, Craig",
       "voter_id": "~{\"name\": \"Wilcox, Craig\"}",
       "note": ""
@@ -93,22 +99,16 @@
       "voter_name": "Johnson, Adriane",
       "voter_id": "~{\"name\": \"Johnson, Adriane\"}",
       "note": ""
-    },
-    {
-      "option": "not voting",
-      "voter_name": "Villivalam, Ram",
-      "voter_id": "~{\"name\": \"Villivalam, Ram\"}",
-      "note": ""
     }
   ],
   "counts": [
     {
       "option": "yes",
-      "value": 13
+      "value": 11
     },
     {
       "option": "no",
-      "value": 0
+      "value": 3
     },
     {
       "option": "other",
@@ -124,16 +124,16 @@
     },
     {
       "option": "not voting",
-      "value": 2
+      "value": 1
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0071SCA2_42225.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0071_42230.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0071SCA2_42225.pdf",
-  "_id": "56a8d12e-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0071_42230.pdf",
+  "_id": "1eaa541c-4dff-11f0-af86-f253077c9305"
 }

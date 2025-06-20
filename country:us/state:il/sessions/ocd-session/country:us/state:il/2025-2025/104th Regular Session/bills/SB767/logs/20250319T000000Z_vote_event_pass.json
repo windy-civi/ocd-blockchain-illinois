@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "682f7a38-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "3005d074-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB767",
   "votes": [
@@ -123,5 +123,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0767_42687.pdf",
-  "_id": "6833bb52-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "300a01a8-4dff-11f0-af86-f253077c9305"
 }

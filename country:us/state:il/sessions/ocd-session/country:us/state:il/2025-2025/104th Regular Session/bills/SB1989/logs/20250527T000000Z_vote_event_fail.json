@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "8761c3d4-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "4efe2eb8-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB1989",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB1989HFA1_44505.pdf",
-  "_id": "876f79c0-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "4f0bb0d8-4dff-11f0-af86-f253077c9305"
 }

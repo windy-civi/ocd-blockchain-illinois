@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Third Reading, Amendment 4",
+  "motion_text": "Third Reading, Amendment 3",
   "motion_classification": [],
   "start_date": "2025-04-08",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "2567e8ca-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "ecfd9ca8-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2586",
   "votes": [
@@ -129,11 +129,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2586HFA4_43322.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2586HFA3_43321.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2586HFA4_43322.pdf",
-  "_id": "25771c5a-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2586HFA3_43321.pdf",
+  "_id": "ed0b8890-4dfe-11f0-af86-f253077c9305"
 }

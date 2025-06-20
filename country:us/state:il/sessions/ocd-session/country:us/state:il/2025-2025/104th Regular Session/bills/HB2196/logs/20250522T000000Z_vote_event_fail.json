@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1abb9214-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "e1fd31ba-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2196",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2196SFA2_44478.pdf",
-  "_id": "1aca985e-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "e20c9466-4dfe-11f0-af86-f253077c9305"
 }

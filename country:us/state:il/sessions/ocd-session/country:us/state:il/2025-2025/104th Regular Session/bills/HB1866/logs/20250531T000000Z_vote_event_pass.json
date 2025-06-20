@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Concurrence",
+  "motion_text": "Concurrence, Amendment 2",
   "motion_classification": [],
   "start_date": "2025-05-31",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "12c61c0a-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "d9a65f78-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1866",
   "votes": [
@@ -741,11 +741,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1866sam001_05312025_067000C.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1866sam002_05312025_067001C.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1866sam001_05312025_067000C.pdf",
-  "_id": "12d63fae-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1866sam002_05312025_067001C.pdf",
+  "_id": "d9ba02d0-4dfe-11f0-af86-f253077c9305"
 }

@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Motion",
+  "motion_text": "Third Reading",
   "motion_classification": [],
   "start_date": "2025-04-08",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "2a72e162-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "f21f52e4-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2783",
   "votes": [
@@ -138,12 +138,6 @@
     },
     {
       "option": "yes",
-      "voter_name": "Cassidy",
-      "voter_id": "~{\"name\": \"Cassidy\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Hirschauer",
       "voter_id": "~{\"name\": \"Hirschauer\"}",
       "note": ""
@@ -182,6 +176,12 @@
       "option": "yes",
       "voter_name": "Jim\u00e9nez",
       "voter_id": "~{\"name\": \"Jim\\u00e9nez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crespo",
+      "voter_id": "~{\"name\": \"Crespo\"}",
       "note": ""
     },
     {
@@ -582,6 +582,12 @@
     },
     {
       "option": "no",
+      "voter_name": "Ugaste",
+      "voter_id": "~{\"name\": \"Ugaste\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
       "voter_name": "Elik",
       "voter_id": "~{\"name\": \"Elik\"}",
       "note": ""
@@ -690,20 +696,14 @@
     },
     {
       "option": "not voting",
-      "voter_name": "Crespo",
-      "voter_id": "~{\"name\": \"Crespo\"}",
+      "voter_name": "Cassidy",
+      "voter_id": "~{\"name\": \"Cassidy\"}",
       "note": ""
     },
     {
       "option": "not voting",
       "voter_name": "DeLuca",
       "voter_id": "~{\"name\": \"DeLuca\"}",
-      "note": ""
-    },
-    {
-      "option": "not voting",
-      "voter_name": "Ugaste",
-      "voter_id": "~{\"name\": \"Ugaste\"}",
       "note": ""
     },
     {
@@ -720,7 +720,7 @@
     },
     {
       "option": "no",
-      "value": 37
+      "value": 38
     },
     {
       "option": "other",
@@ -736,16 +736,16 @@
     },
     {
       "option": "not voting",
-      "value": 4
+      "value": 3
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB2783_04082025_045000M.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB2783_04082025_046000T.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB2783_04082025_045000M.pdf",
-  "_id": "2a7a5f5a-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB2783_04082025_046000T.pdf",
+  "_id": "f224474a-4dfe-11f0-af86-f253077c9305"
 }

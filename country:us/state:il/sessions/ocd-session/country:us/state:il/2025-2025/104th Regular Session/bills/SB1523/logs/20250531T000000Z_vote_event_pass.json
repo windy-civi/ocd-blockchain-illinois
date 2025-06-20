@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "7ae78d64-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "4298606c-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB1523",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400SB1523ham001_05312025_021000C.pdf",
-  "_id": "7aedbe00-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "429e8d48-4dff-11f0-af86-f253077c9305"
 }

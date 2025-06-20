@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3d17f47e-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "04fe04be-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3467",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3467_04082025_077000T.pdf",
-  "_id": "3d1ed73a-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "0504f42c-4dff-11f0-af86-f253077c9305"
 }

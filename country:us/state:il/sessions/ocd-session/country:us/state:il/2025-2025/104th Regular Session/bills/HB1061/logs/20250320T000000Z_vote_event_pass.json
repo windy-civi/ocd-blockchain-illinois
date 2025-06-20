@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ffa92b76-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "c66d448a-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1061",
   "votes": [
@@ -75,5 +75,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1061_42757.pdf",
-  "_id": "ffae2108-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "c67213b6-4dfe-11f0-af86-f253077c9305"
 }

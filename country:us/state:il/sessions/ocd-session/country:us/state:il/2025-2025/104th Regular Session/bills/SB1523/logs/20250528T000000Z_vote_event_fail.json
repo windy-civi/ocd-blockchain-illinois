@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "7ae78d64-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "4298606c-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB1523",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1523HFA1_44614.pdf",
-  "_id": "7af4b5fc-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "42a57072-4dff-11f0-af86-f253077c9305"
 }

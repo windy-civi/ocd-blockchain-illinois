@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "85471e8c-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "4ce61a8c-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB1922",
   "votes": [
@@ -153,11 +153,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1922SCA1_41820.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1922_41823.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1922SCA1_41820.pdf",
-  "_id": "855b8b92-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1922_41823.pdf",
+  "_id": "4cf80a08-4dff-11f0-af86-f253077c9305"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3c9096b4-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "04752cfc-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3446",
   "votes": [
@@ -135,5 +135,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3446_42861.pdf",
-  "_id": "3ca58d08-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "048a7044-4dff-11f0-af86-f253077c9305"
 }

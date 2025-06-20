@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "238813e0-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "eb115ede-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2521",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2521SCA1_44195.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2521_44196.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2521SCA1_44195.pdf",
-  "_id": "2394098e-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2521_44196.pdf",
+  "_id": "eb1b7770-4dfe-11f0-af86-f253077c9305"
 }

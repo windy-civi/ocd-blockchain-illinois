@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "156cb4dc-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "dc66439a-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1973",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1973_42108.pdf",
-  "_id": "1570dd14-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "dc6a747e-4dfe-11f0-af86-f253077c9305"
 }

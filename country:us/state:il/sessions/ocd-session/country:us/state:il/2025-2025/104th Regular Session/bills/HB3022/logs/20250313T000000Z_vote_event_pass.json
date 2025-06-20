@@ -1,15 +1,51 @@
 {
   "identifier": "",
-  "motion_text": "Tax Policy: Sales Tax Subcommittee",
+  "motion_text": "Revenue & Finance",
   "motion_classification": [],
   "start_date": "2025-03-13",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "30e73598-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "f8b2b2ae-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3022",
   "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Avelar, Dagmara",
+      "voter_id": "~{\"name\": \"Avelar, Dagmara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Croke, Margaret",
+      "voter_id": "~{\"name\": \"Croke, Margaret\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Buckner, Kam",
+      "voter_id": "~{\"name\": \"Buckner, Kam\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Didech, Daniel",
+      "voter_id": "~{\"name\": \"Didech, Daniel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Delgado, Eva-Dina",
+      "voter_id": "~{\"name\": \"Delgado, Eva-Dina\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gonz\u00e1lez Jr., Edgar",
+      "voter_id": "~{\"name\": \"Gonz\\u00e1lez Jr., Edgar\"}",
+      "note": ""
+    },
     {
       "option": "yes",
       "voter_name": "Elik, Amy",
@@ -18,14 +54,8 @@
     },
     {
       "option": "yes",
-      "voter_name": "Andrade Jr., Jaime M",
-      "voter_id": "~{\"name\": \"Andrade Jr., Jaime M\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Sosnowski, Joe C",
-      "voter_id": "~{\"name\": \"Sosnowski, Joe C\"}",
+      "voter_name": "Guzzardi, Will",
+      "voter_id": "~{\"name\": \"Guzzardi, Will\"}",
       "note": ""
     },
     {
@@ -36,15 +66,75 @@
     },
     {
       "option": "yes",
+      "voter_name": "Hernandez, Elizabeth \"Lisa\"",
+      "voter_id": "~{\"name\": \"Hernandez, Elizabeth \\\"Lisa\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moore, Kyle",
+      "voter_id": "~{\"name\": \"Moore, Kyle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McLaughlin, Martin",
+      "voter_id": "~{\"name\": \"McLaughlin, Martin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reick, Steven",
+      "voter_id": "~{\"name\": \"Reick, Steven\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sosnowski, Joe C",
+      "voter_id": "~{\"name\": \"Sosnowski, Joe C\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Slaughter, Justin",
+      "voter_id": "~{\"name\": \"Slaughter, Justin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Weaver, Travis",
+      "voter_id": "~{\"name\": \"Weaver, Travis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
       "voter_name": "Tarver II, Curtis J",
       "voter_id": "~{\"name\": \"Tarver II, Curtis J\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Andrade Jr., Jaime M",
+      "voter_id": "~{\"name\": \"Andrade Jr., Jaime M\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Harper, Sonya M",
+      "voter_id": "~{\"name\": \"Harper, Sonya M\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Sanalitro, Jennifer",
+      "voter_id": "~{\"name\": \"Sanalitro, Jennifer\"}",
       "note": ""
     }
   ],
   "counts": [
     {
       "option": "yes",
-      "value": 5
+      "value": 17
     },
     {
       "option": "no",
@@ -64,16 +154,16 @@
     },
     {
       "option": "not voting",
-      "value": 0
+      "value": 3
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3022_42187.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3022_42188.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3022_42187.pdf",
-  "_id": "30ec026c-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3022_42188.pdf",
+  "_id": "f8b982f0-4dfe-11f0-af86-f253077c9305"
 }

@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4c334efe-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "1433e30e-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HR41",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HR0041_44110.pdf",
-  "_id": "4c378230-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "14381604-4dff-11f0-af86-f253077c9305"
 }

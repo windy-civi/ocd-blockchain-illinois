@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "138d7368-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "da7505bc-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1895",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1895_41847.pdf",
-  "_id": "13945a02-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "da7c0ba0-4dfe-11f0-af86-f253077c9305"
 }

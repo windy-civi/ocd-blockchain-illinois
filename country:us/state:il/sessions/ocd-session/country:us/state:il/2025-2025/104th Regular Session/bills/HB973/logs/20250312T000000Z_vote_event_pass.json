@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "fdb53eb8-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "c478d4f0-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB973",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0973_42109.pdf",
-  "_id": "fdb98c7a-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "c47d1b50-4dfe-11f0-af86-f253077c9305"
 }

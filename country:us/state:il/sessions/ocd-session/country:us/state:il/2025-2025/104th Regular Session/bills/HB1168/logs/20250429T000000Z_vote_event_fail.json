@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "02360800-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "c8fb8b44-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1168",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1168_43639.pdf",
-  "_id": "0240bf84-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "c9066596-4dfe-11f0-af86-f253077c9305"
 }

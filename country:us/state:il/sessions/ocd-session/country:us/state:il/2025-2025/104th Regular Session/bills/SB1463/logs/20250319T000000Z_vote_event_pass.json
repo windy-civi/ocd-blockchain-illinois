@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "7947921a-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "40faab48-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB1463",
   "votes": [
@@ -93,11 +93,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1463_42592.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1463SCA1_42585.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1463_42592.pdf",
-  "_id": "7955f904-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1463SCA1_42585.pdf",
+  "_id": "410aaf3e-4dff-11f0-af86-f253077c9305"
 }

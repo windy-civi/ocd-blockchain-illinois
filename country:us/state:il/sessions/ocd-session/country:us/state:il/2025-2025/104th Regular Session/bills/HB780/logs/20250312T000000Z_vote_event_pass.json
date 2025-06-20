@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f8df947e-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "bfa70082-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB780",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0780_42109.pdf",
-  "_id": "f8e3e010-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "bfab4566-4dfe-11f0-af86-f253077c9305"
 }

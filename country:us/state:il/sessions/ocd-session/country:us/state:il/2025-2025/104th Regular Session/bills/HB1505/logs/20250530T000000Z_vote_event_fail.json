@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0a07417a-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "d0d1e494-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1505",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1505SCA1_44772.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1505_44773.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1505SCA1_44772.pdf",
-  "_id": "0a1aba8e-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1505_44773.pdf",
+  "_id": "d0e36e12-4dfe-11f0-af86-f253077c9305"
 }

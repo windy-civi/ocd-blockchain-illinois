@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "fad39d70-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "c19a5466-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB859",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0859_42109.pdf",
-  "_id": "fad7ef38-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "c19e8e78-4dfe-11f0-af86-f253077c9305"
 }

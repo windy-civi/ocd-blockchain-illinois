@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "a5a23216-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "6d656808-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "AM1040088",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400AM1040088_43834.pdf",
-  "_id": "a5a84ec6-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "6d6b8da0-4dff-11f0-af86-f253077c9305"
 }

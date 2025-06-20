@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "12c61c0a-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "d9a65f78-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1866",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1866SCA1_44182.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1866_44185.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1866SCA1_44182.pdf",
-  "_id": "12e15038-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1866_44185.pdf",
+  "_id": "d9c0f64e-4dfe-11f0-af86-f253077c9305"
 }

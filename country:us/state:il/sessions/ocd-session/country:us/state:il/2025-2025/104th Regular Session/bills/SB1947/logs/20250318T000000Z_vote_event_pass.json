@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "86138152-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "4db09adc-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB1947",
   "votes": [
@@ -32,6 +32,12 @@
       "option": "yes",
       "voter_name": "Edly-Allen, Mary",
       "voter_id": "~{\"name\": \"Edly-Allen, Mary\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnson, Adriane",
+      "voter_id": "~{\"name\": \"Johnson, Adriane\"}",
       "note": ""
     },
     {
@@ -90,12 +96,6 @@
     },
     {
       "option": "not voting",
-      "voter_name": "Johnson, Adriane",
-      "voter_id": "~{\"name\": \"Johnson, Adriane\"}",
-      "note": ""
-    },
-    {
-      "option": "not voting",
       "voter_name": "Wilcox, Craig",
       "voter_id": "~{\"name\": \"Wilcox, Craig\"}",
       "note": ""
@@ -104,7 +104,7 @@
   "counts": [
     {
       "option": "yes",
-      "value": 11
+      "value": 12
     },
     {
       "option": "no",
@@ -124,16 +124,16 @@
     },
     {
       "option": "not voting",
-      "value": 4
+      "value": 3
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1947SCA1_42285.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1947_42266.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1947SCA1_42285.pdf",
-  "_id": "862b58a4-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1947_42266.pdf",
+  "_id": "4dc67dfc-4dff-11f0-af86-f253077c9305"
 }

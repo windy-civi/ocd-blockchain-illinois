@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f5767fd2-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "bc408eb8-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB645",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0645_42109.pdf",
-  "_id": "f57acd44-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "bc44d270-4dfe-11f0-af86-f253077c9305"
 }

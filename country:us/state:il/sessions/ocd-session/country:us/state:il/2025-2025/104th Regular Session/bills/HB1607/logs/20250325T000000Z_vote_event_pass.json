@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Agriculture & Conservation, Amendment 3",
+  "motion_text": "Agriculture & Conservation, Amendment 2",
   "motion_classification": [],
   "start_date": "2025-03-25",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0c45402c-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "d3124ef6-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1607",
   "votes": [
@@ -36,12 +36,6 @@
     },
     {
       "option": "yes",
-      "voter_name": "Hernandez, Barbara",
-      "voter_id": "~{\"name\": \"Hernandez, Barbara\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Harper, Sonya M",
       "voter_id": "~{\"name\": \"Harper, Sonya M\"}",
       "note": ""
@@ -63,12 +57,18 @@
       "voter_name": "Swanson, Dan",
       "voter_id": "~{\"name\": \"Swanson, Dan\"}",
       "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Hernandez, Barbara",
+      "voter_id": "~{\"name\": \"Hernandez, Barbara\"}",
+      "note": ""
     }
   ],
   "counts": [
     {
       "option": "yes",
-      "value": 9
+      "value": 8
     },
     {
       "option": "no",
@@ -88,16 +88,16 @@
     },
     {
       "option": "not voting",
-      "value": 0
+      "value": 1
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1607HFA3_42977.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1607HFA2_42976.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1607HFA3_42977.pdf",
-  "_id": "0c55d61c-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1607HFA2_42976.pdf",
+  "_id": "d320f8ac-4dfe-11f0-af86-f253077c9305"
 }

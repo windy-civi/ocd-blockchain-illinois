@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1d50cb3e-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "e4b11034-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2304",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2304_42108.pdf",
-  "_id": "1d54fefc-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "e4b54bae-4dfe-11f0-af86-f253077c9305"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f863655c-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "bf2afcf8-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB760",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0760_42109.pdf",
-  "_id": "f867a6ee-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "bf2f51e0-4dfe-11f0-af86-f253077c9305"
 }

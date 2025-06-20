@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ebc86aea-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "b2a30cdc-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB250",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB0250_05222025_062000T.pdf",
-  "_id": "ebcd5ece-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "b2a7e6da-4dfe-11f0-af86-f253077c9305"
 }

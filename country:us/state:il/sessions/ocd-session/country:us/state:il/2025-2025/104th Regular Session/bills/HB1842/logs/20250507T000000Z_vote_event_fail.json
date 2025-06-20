@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "11fa4c7e-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "d8d5db0a-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1842",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1842_44136.pdf",
-  "_id": "12043aa4-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "d8e01b2e-4dfe-11f0-af86-f253077c9305"
 }

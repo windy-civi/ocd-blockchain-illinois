@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f63ac8a6-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "bd03cb8a-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB675",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0675_42109.pdf",
-  "_id": "f63f1744-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "bd08075e-4dfe-11f0-af86-f253077c9305"
 }

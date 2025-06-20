@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Executive",
+  "motion_text": "Executive, Amendment 2",
   "motion_classification": [],
   "start_date": "2025-05-30",
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1f402098-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "e6b197c8-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2371",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2371SCA1_44748.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2371SFA2_44749.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2371SCA1_44748.pdf",
-  "_id": "1f4c1a38-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2371SFA2_44749.pdf",
+  "_id": "e6bfbf24-4dfe-11f0-af86-f253077c9305"
 }

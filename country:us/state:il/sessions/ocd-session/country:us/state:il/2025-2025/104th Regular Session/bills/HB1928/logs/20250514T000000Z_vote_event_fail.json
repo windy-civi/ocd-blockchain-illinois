@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "14655062-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "db569112-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1928",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1928_44292.pdf",
-  "_id": "146caa56-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "db5e1040-4dfe-11f0-af86-f253077c9305"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f74cb056-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "be1a91a2-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB719",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0719_42109.pdf",
-  "_id": "f750f738-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "be1edeb0-4dfe-11f0-af86-f253077c9305"
 }

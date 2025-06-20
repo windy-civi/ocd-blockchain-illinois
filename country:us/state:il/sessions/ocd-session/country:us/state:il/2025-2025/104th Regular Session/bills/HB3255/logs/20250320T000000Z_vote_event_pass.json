@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "371c1f82-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "feef19f0-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3255",
   "votes": [
@@ -135,5 +135,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3255_42751.pdf",
-  "_id": "3723fa90-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "fef72938-4dfe-11f0-af86-f253077c9305"
 }

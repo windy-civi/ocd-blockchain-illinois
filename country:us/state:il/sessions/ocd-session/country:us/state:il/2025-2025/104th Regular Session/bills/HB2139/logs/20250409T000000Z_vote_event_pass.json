@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "193de6d0-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "e06d326e-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2139",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2139HFA1_43375.pdf",
-  "_id": "194fbdba-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "e07f89a0-4dfe-11f0-af86-f253077c9305"
 }

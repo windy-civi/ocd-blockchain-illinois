@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e6885586-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "ad6c3036-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB32",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB0032sam001_05312025_011000C.pdf",
-  "_id": "e68ee07c-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "ad72b802-4dfe-11f0-af86-f253077c9305"
 }

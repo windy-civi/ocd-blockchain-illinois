@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "52479304-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "1a381f2c-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HR391",
   "votes": [
@@ -747,5 +747,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HR0391_05292025_004000.pdf",
-  "_id": "524d5492-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "1a3dbf72-4dff-11f0-af86-f253077c9305"
 }

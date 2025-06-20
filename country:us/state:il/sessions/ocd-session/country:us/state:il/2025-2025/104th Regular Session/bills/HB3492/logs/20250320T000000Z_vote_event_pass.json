@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3dcc92c6-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "05b43e96-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3492",
   "votes": [
@@ -135,5 +135,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3492_42923.pdf",
-  "_id": "3dd40e48-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "05bbd912-4dff-11f0-af86-f253077c9305"
 }

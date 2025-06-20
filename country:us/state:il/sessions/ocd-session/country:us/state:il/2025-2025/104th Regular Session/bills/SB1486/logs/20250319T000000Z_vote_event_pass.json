@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "79e78130-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "41991cce-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB1486",
   "votes": [
@@ -14,12 +14,6 @@
       "option": "yes",
       "voter_name": "Fine, Laura",
       "voter_id": "~{\"name\": \"Fine, Laura\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Curran, John F",
-      "voter_id": "~{\"name\": \"Curran, John F\"}",
       "note": ""
     },
     {
@@ -32,12 +26,6 @@
       "option": "yes",
       "voter_name": "Halpin, Michael W",
       "voter_id": "~{\"name\": \"Halpin, Michael W\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Hills, Darby A",
-      "voter_id": "~{\"name\": \"Hills, Darby A\"}",
       "note": ""
     },
     {
@@ -59,7 +47,19 @@
       "note": ""
     },
     {
-      "option": "yes",
+      "option": "no",
+      "voter_name": "Curran, John F",
+      "voter_id": "~{\"name\": \"Curran, John F\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hills, Darby A",
+      "voter_id": "~{\"name\": \"Hills, Darby A\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
       "voter_name": "Tracy, Jil",
       "voter_id": "~{\"name\": \"Tracy, Jil\"}",
       "note": ""
@@ -68,11 +68,11 @@
   "counts": [
     {
       "option": "yes",
-      "value": 9
+      "value": 6
     },
     {
       "option": "no",
-      "value": 0
+      "value": 3
     },
     {
       "option": "other",
@@ -93,11 +93,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1486SCA1_42717.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1486_42676.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1486SCA1_42717.pdf",
-  "_id": "79f6f688-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1486_42676.pdf",
+  "_id": "41a68238-4dff-11f0-af86-f253077c9305"
 }

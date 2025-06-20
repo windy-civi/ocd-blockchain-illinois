@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "051574ac-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "cbdda7e8-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1302",
   "votes": [
@@ -741,11 +741,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1302sam002_05312025_028001C.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1302sam001_05312025_028000C.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1302sam002_05312025_028001C.pdf",
-  "_id": "0522418c-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1302sam001_05312025_028000C.pdf",
+  "_id": "cbe7d0f6-4dfe-11f0-af86-f253077c9305"
 }

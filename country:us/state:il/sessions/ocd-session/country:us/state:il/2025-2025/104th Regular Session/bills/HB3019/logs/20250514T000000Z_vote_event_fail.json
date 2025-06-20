@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "30bd2cd0-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "f8876824-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3019",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3019_44266.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3019SCA1_44255.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3019_44266.pdf",
-  "_id": "30d0d97e-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3019SCA1_44255.pdf",
+  "_id": "f89d7ee8-4dfe-11f0-af86-f253077c9305"
 }

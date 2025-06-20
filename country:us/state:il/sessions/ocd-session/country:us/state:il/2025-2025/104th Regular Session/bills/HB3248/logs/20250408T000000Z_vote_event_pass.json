@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "36d25cf8-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "fea3dd50-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3248",
   "votes": [
@@ -147,5 +147,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3248HFA1_43310.pdf",
-  "_id": "36e667b6-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "feb85460-4dfe-11f0-af86-f253077c9305"
 }

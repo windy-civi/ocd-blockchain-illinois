@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e8a77158-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "af85f370-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB121",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0121_42109.pdf",
-  "_id": "e8abb2ea-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "af8a3296-4dfe-11f0-af86-f253077c9305"
 }

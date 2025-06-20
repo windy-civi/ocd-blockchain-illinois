@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f3ce635c-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "baa1c720-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB578",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0578_42109.pdf",
-  "_id": "f3d2c0e6-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "baa60d30-4dfe-11f0-af86-f253077c9305"
 }

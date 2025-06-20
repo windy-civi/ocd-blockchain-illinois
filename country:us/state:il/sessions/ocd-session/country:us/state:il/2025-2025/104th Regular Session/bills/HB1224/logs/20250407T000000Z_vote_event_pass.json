@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "03411f46-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "ca079c1c-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1224",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1224HFA3_43219.pdf",
-  "_id": "0357a1b2-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "ca1e77f2-4dfe-11f0-af86-f253077c9305"
 }

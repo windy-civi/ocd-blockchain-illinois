@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4d06b6cc-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "1505df58-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HR90",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HR0090_43774.pdf",
-  "_id": "4d0b09b6-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "150a1a28-4dff-11f0-af86-f253077c9305"
 }

@@ -6,22 +6,10 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "8e025ba4-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "55a2a1f4-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB2258",
   "votes": [
-    {
-      "option": "yes",
-      "voter_name": "Bryant, Terri",
-      "voter_id": "~{\"name\": \"Bryant, Terri\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Anderson, Neil",
-      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
-      "note": ""
-    },
     {
       "option": "yes",
       "voter_name": "Cervantes, Javier L",
@@ -48,20 +36,8 @@
     },
     {
       "option": "yes",
-      "voter_name": "Fowler, Dale",
-      "voter_id": "~{\"name\": \"Fowler, Dale\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Holmes, Linda",
       "voter_id": "~{\"name\": \"Holmes, Linda\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Harriss, Erica",
-      "voter_id": "~{\"name\": \"Harriss, Erica\"}",
       "note": ""
     },
     {
@@ -78,12 +54,6 @@
     },
     {
       "option": "yes",
-      "voter_name": "Rezin, Sue",
-      "voter_id": "~{\"name\": \"Rezin, Sue\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Peters, Robert",
       "voter_id": "~{\"name\": \"Peters, Robert\"}",
       "note": ""
@@ -92,6 +62,36 @@
       "option": "yes",
       "voter_name": "Stadelman, Steve",
       "voter_id": "~{\"name\": \"Stadelman, Steve\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bryant, Terri",
+      "voter_id": "~{\"name\": \"Bryant, Terri\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Anderson, Neil",
+      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Fowler, Dale",
+      "voter_id": "~{\"name\": \"Fowler, Dale\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Harriss, Erica",
+      "voter_id": "~{\"name\": \"Harriss, Erica\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Rezin, Sue",
+      "voter_id": "~{\"name\": \"Rezin, Sue\"}",
       "note": ""
     },
     {
@@ -104,11 +104,11 @@
   "counts": [
     {
       "option": "yes",
-      "value": 14
+      "value": 9
     },
     {
       "option": "no",
-      "value": 0
+      "value": 5
     },
     {
       "option": "other",
@@ -129,11 +129,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2258SCA1_43202.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2258_43203.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2258SCA1_43202.pdf",
-  "_id": "8e0c1fcc-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2258_43203.pdf",
+  "_id": "55aa65ec-4dff-11f0-af86-f253077c9305"
 }

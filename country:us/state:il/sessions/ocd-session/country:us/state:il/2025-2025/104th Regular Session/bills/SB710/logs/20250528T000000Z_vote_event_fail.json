@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "66b7ed8e-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "2e93e136-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB710",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB0710_44576.pdf",
-  "_id": "66c43378-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "2ea0e4bc-4dff-11f0-af86-f253077c9305"
 }

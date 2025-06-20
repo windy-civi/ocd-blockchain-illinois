@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "7695fb92-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "3e4a11a4-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB1348",
   "votes": [
@@ -42,14 +42,14 @@
     },
     {
       "option": "yes",
-      "voter_name": "Tracy, Jil",
-      "voter_id": "~{\"name\": \"Tracy, Jil\"}",
+      "voter_name": "Rose, Chapin",
+      "voter_id": "~{\"name\": \"Rose, Chapin\"}",
       "note": ""
     },
     {
-      "option": "no",
-      "voter_name": "Rose, Chapin",
-      "voter_id": "~{\"name\": \"Rose, Chapin\"}",
+      "option": "yes",
+      "voter_name": "Tracy, Jil",
+      "voter_id": "~{\"name\": \"Tracy, Jil\"}",
       "note": ""
     },
     {
@@ -68,11 +68,11 @@
   "counts": [
     {
       "option": "yes",
-      "value": 6
+      "value": 7
     },
     {
       "option": "no",
-      "value": 1
+      "value": 0
     },
     {
       "option": "other",
@@ -93,11 +93,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1348_41777.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1348SCA1_41776.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1348_41777.pdf",
-  "_id": "76a1f712-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1348SCA1_41776.pdf",
+  "_id": "3e57b5f2-4dff-11f0-af86-f253077c9305"
 }

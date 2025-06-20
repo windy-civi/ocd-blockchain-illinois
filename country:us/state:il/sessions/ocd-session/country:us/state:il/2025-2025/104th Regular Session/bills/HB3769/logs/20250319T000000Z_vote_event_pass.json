@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "45c09798-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "0dbb4ec2-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3769",
   "votes": [
@@ -135,5 +135,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3769_42548.pdf",
-  "_id": "45c4f2de-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "0dbfad64-4dff-11f0-af86-f253077c9305"
 }

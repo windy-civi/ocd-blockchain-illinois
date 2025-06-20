@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "380507c4-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "ffdc1868-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3290",
   "votes": [
@@ -219,5 +219,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3290_42942.pdf",
-  "_id": "3811b2b2-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "ffe911a8-4dfe-11f0-af86-f253077c9305"
 }

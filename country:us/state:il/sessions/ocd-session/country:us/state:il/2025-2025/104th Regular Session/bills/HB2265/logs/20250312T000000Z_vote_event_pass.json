@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1c692284-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "e3bfa820-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2265",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2265_42108.pdf",
-  "_id": "1c6d6ae2-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "e3c4064a-4dfe-11f0-af86-f253077c9305"
 }

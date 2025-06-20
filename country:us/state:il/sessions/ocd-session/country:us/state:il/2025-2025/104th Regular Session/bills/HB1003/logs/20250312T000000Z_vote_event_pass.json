@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "fe72aa3e-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "c53497b2-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB1003",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1003_42109.pdf",
-  "_id": "fe76f8a0-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "c538da2a-4dfe-11f0-af86-f253077c9305"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f6d5ad1c-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "bda437d2-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB700",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0700_42109.pdf",
-  "_id": "f6da160e-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "bda885b2-4dfe-11f0-af86-f253077c9305"
 }

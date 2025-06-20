@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f05887e8-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "b72daba4-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB437",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0437_42109.pdf",
-  "_id": "f05d2456-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "b731f402-4dfe-11f0-af86-f253077c9305"
 }

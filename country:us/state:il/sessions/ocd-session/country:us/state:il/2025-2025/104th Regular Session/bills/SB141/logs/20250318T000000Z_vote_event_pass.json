@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "58a8533c-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "20a78122-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "SB141",
   "votes": [
@@ -14,6 +14,12 @@
       "option": "yes",
       "voter_name": "Belt, Christopher",
       "voter_id": "~{\"name\": \"Belt, Christopher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chesney, Andrew S",
+      "voter_id": "~{\"name\": \"Chesney, Andrew S\"}",
       "note": ""
     },
     {
@@ -26,6 +32,12 @@
       "option": "yes",
       "voter_name": "Faraci, Paul",
       "voter_id": "~{\"name\": \"Faraci, Paul\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DeWitte, Donald P",
+      "voter_id": "~{\"name\": \"DeWitte, Donald P\"}",
       "note": ""
     },
     {
@@ -72,6 +84,12 @@
     },
     {
       "option": "yes",
+      "voter_name": "Tracy, Jil",
+      "voter_id": "~{\"name\": \"Tracy, Jil\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
       "voter_name": "Simmons, Mike",
       "voter_id": "~{\"name\": \"Simmons, Mike\"}",
       "note": ""
@@ -89,25 +107,7 @@
       "note": ""
     },
     {
-      "option": "no",
-      "voter_name": "Chesney, Andrew S",
-      "voter_id": "~{\"name\": \"Chesney, Andrew S\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
-      "voter_name": "DeWitte, Donald P",
-      "voter_id": "~{\"name\": \"DeWitte, Donald P\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
-      "voter_name": "Tracy, Jil",
-      "voter_id": "~{\"name\": \"Tracy, Jil\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
+      "option": "yes",
       "voter_name": "Wilcox, Craig",
       "voter_id": "~{\"name\": \"Wilcox, Craig\"}",
       "note": ""
@@ -128,11 +128,11 @@
   "counts": [
     {
       "option": "yes",
-      "value": 13
+      "value": 17
     },
     {
       "option": "no",
-      "value": 4
+      "value": 0
     },
     {
       "option": "other",
@@ -153,11 +153,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0141_42372.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0141SCA1_42364.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0141_42372.pdf",
-  "_id": "58ad1372-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0141SCA1_42364.pdf",
+  "_id": "20ae278e-4dff-11f0-af86-f253077c9305"
 }

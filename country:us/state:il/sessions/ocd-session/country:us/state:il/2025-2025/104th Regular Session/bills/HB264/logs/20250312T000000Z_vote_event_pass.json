@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ec2442f2-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "b2fe66e0-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB264",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0264_42109.pdf",
-  "_id": "ec28848e-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "b302b5e2-4dfe-11f0-af86-f253077c9305"
 }

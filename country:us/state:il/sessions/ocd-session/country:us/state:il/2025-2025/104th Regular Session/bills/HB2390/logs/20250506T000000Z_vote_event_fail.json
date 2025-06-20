@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1fe4f50a-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "e75b94bc-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2390",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2390SCA1_43938.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2390_43953.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2390SCA1_43938.pdf",
-  "_id": "1ff6c960-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2390_43953.pdf",
+  "_id": "e76b99b6-4dfe-11f0-af86-f253077c9305"
 }

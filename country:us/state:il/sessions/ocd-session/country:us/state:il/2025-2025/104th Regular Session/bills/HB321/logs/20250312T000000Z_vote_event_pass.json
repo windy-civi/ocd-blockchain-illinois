@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ed86a248-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "b45ed02e-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB321",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0321_42109.pdf",
-  "_id": "ed8afe1a-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "b4630d7e-4dfe-11f0-af86-f253077c9305"
 }

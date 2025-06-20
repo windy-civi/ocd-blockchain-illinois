@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "fb1eb6f2-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "c1e4e2ec-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB871",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB0871SCA1_44209.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB0871_44208.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB0871SCA1_44209.pdf",
-  "_id": "fb3722fa-4dfc-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB0871_44208.pdf",
+  "_id": "c1fbe762-4dfe-11f0-af86-f253077c9305"
 }

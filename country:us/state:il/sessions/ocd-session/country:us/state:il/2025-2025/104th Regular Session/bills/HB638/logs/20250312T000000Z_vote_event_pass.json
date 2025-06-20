@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f549c186-4dfc-11f0-8990-0a5235f7ee10",
+  "bill": "bc144d62-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB638",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0638_42109.pdf",
-  "_id": "f54e12f4-4dfc-11f0-8990-0a5235f7ee10"
+  "_id": "bc188b16-4dfe-11f0-af86-f253077c9305"
 }

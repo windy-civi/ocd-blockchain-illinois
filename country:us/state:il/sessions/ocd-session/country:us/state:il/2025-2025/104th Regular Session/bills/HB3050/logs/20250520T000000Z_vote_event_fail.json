@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Public Health, Amendment 2",
+  "motion_text": "Public Health, Amendment 1",
   "motion_classification": [],
   "start_date": "2025-05-20",
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "31ac83b6-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "f97a274e-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB3050",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3050SFA2_44382.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3050SFA1_44381.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3050SFA2_44382.pdf",
-  "_id": "31c16b82-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3050SFA1_44381.pdf",
+  "_id": "f98e18e4-4dfe-11f0-af86-f253077c9305"
 }

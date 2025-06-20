@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Education Policy, Amendment 3",
+  "motion_text": "Education Policy",
   "motion_classification": [],
   "start_date": "2025-05-29",
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "2fd111b0-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "f797d53e-4dfe-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HB2986",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2986SFA3_44661.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2986SCA2_44660.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2986SFA3_44661.pdf",
-  "_id": "2fe86f5e-4dfd-11f0-8990-0a5235f7ee10"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2986SCA2_44660.pdf",
+  "_id": "f7ae174a-4dfe-11f0-af86-f253077c9305"
 }

@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "5138cc6c-4dfd-11f0-8990-0a5235f7ee10",
+  "bill": "192b0586-4dff-11f0-af86-f253077c9305",
   "bill_action": null,
   "bill_identifier": "HR324",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HR0324_44557.pdf",
-  "_id": "513d456c-4dfd-11f0-8990-0a5235f7ee10"
+  "_id": "192f9862-4dff-11f0-af86-f253077c9305"
 }
