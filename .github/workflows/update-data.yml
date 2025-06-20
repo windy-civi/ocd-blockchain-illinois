@@ -66,19 +66,18 @@ jobs:
           echo $FORMATTER_INPUT_FOLDER
           pip install pipenv
           pipenv install
-          pipenv run python main.py --jur il --input-folder $FORMATTER_INPUT_FOLDER --output-folder _out
-          cd _out/data_processed
+          pipenv run python main.py --jur il --input-folder $FORMATTER_INPUT_FOLDER --output-folder ${{ runner.temp }}/_out
+          cd ${{ runner.temp }}/_out/data_processed
           tar zcvf ${{ runner.temp }}/snapshot-${{ steps.get-date.outputs.date }}.tgz country:us
-      # - name: Create Release
-      #   working-directory: ./main
-      #   env:
-      #     GH_TOKEN: ${{ github.token }}
-      #   run: |
-      #     git config user.email "no_email"
-      #     git config user.name "Windy Civi Bot"
-      #     git tag snapshot-${{ steps.get-date.outputs.date }}
-      #     git push origin snapshot-${{ steps.get-date.outputs.date }}
-      #     gh release create snapshot-${{ steps.get-date.outputs.date }} \
-      #       /var/tmp/snapshot-${{ steps.get-date.outputs.date }}.tgz \
-      #       --title "Snapshot ${{ steps.get-date.outputs.date }}" \
-      #       --notes "Snapshot of data as of ${{ steps.get-date.outputs.date }}"
+      - name: Update Repo
+        working-directory: ./main
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          rsync -avz ${{ runner.temp }}/_out/data_processed/ .
+          find . -maxdepth 1
+          git config user.email "no_email"
+          git config user.name "Windy Civi Bot"
+          git add .
+          git commit -m"Automated report update (report dated ${{ steps.get-date.outputs.date }})"
+          git push
