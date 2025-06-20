@@ -1,0 +1,180 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB3370",
+  "title": "DOM VIOLENCE EMERG PETITION",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Illinois Domestic Violence Act of 1986. Provides that, when a petition for an emergency order of protection is filed, the petition may not be made public until the petition is served (i) on the respondent or (ii) the respondent or the respondent's counsel has filed an appearance and waiver of service."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Joyce Mason",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Assigned to Judiciary - Civil Committee",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Do Pass / Short Debate Judiciary - Civil Committee;  019-000-000",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar 2nd Reading - Short Debate",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Second Reading - Short Debate",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar Order of 3rd Reading - Short Debate",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Camille Y. Lilly",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Rule 19(a) / Re-referred to Rules Committee",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Joyce Mason",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joyce Mason\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Camille Y. Lilly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Camille Y. Lilly\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB3370.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=201693&DocName=10400HB3370&DocNum=3370&DocTypeID=HB&LegID=161905&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB3370eng.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=201693&DocName=10400HB3370eng&DocNum=3370&DocTypeID=HB&LegID=161905&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=3370&DocTypeID=HB&LegId=161905&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=3370&GAID=18&DocTypeID=HB&LegId=161905&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:37:25+00:00",
+  "_id": "3a62e662-4dfd-11f0-8990-0a5235f7ee10"
+}

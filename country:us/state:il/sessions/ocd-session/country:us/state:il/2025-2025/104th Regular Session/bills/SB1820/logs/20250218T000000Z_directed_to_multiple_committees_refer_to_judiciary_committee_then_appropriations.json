@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Directed to Multiple Committees Refer to Judiciary Committee then Appropriations",
+    "date": "2025-02-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB1820"
+}

@@ -1,0 +1,387 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB3062",
+  "title": "ST UNI CIVIL SERVICE-EXAMS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the State Universities Civil Service Act. Removes language requiring applicants for examinations under the University System to be citizens of or residents in the State. Provides that an applicant offered employment on or after the effective date of the amendatory Act must reside within a reasonable distance from the applicant's designated university facility to perform onsite duties as required by the employer. Removes language providing that in examinations for technical positions for which no qualified residents of the State are available and for law enforcement personnel, the residence requirement may be waived."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Katie Stuart",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Assigned to Higher Education Committee",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Do Pass / Short Debate Higher Education Committee;  008-004-000",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar 2nd Reading - Short Debate",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Second Reading - Short Debate",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Held on Calendar Order of Second Reading - Short Debate",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "House Floor Amendment No. 1 Filed with Clerk by Rep. Katie Stuart",
+      "date": "2025-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "House Floor Amendment No. 1 Referred to Rules Committee",
+      "date": "2025-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "House Floor Amendment No. 1 Rules Refers to Higher Education Committee",
+      "date": "2025-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Chief Co-Sponsor Rep. Jeff Keicher",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "House Floor Amendment No. 1 Recommends Be Adopted Higher Education Committee;  007-002-000",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "House Floor Amendment No. 1 Adopted",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar Order of 3rd Reading - Short Debate",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Third Reading - Short Debate - Passed 081-032-000",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Amy Briel",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Arrive in Senate",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar Order of First Reading",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Chief Senate Sponsor Sen. Mary Edly-Allen",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Assigned to Higher Education",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Filed with Secretary by Sen. Mary Edly-Allen",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Referred to Assignments",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Assignments Refers to Higher Education",
+      "date": "2025-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Postponed - Higher Education",
+      "date": "2025-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Postponed - Higher Education",
+      "date": "2025-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Rule 3-9(a) / Re-referred to Assignments",
+      "date": "2025-05-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Rule 3-9(a) / Re-referred to Assignments",
+      "date": "2025-05-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Katie Stuart",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Katie Stuart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Keicher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jeff Keicher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amy Briel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Amy Briel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mary Edly-Allen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Mary Edly-Allen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB3062.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=201134&DocName=10400HB3062&DocNum=3062&DocTypeID=HB&LegID=161346&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB3062eng.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=201134&DocName=10400HB3062eng&DocNum=3062&DocTypeID=HB&LegID=161346&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Amendment 001",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB3062ham001.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=204141&DocName=10400HB3062ham001&DocNum=3062&DocTypeID=HB&LegID=161346&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Amendment 001",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB3062sam001.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=204501&DocName=10400HB3062sam001&DocNum=3062&DocTypeID=HB&LegID=161346&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=3062&DocTypeID=HB&LegId=161346&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=3062&GAID=18&DocTypeID=HB&LegId=161346&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:37:10+00:00",
+  "_id": "31ff45d8-4dfd-11f0-8990-0a5235f7ee10"
+}

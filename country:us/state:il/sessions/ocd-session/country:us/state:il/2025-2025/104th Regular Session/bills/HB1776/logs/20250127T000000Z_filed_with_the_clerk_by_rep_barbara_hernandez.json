@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Filed with the Clerk by Rep. Barbara Hernandez",
+    "date": "2025-01-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1776"
+}

@@ -1,0 +1,863 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB3438",
+  "title": "TRANSPORTATION-VARIOUS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Department of Transportation Law of the Civil Administrative Code of Illinois. Provides that the Department of Transportation shall develop and implement a life-cycle costs analysis for each new construction, reconstruction, or replacement road project, except for State rehabilitation and preservation projects, under its jurisdiction for which the total pavement costs exceed $500,000. Amends the Illinois Municipal Code. Provides that the employee of the Aeronautics Division of the Department of Transportation who is a member of the advisory committee that determines which homes contain windows or doors that cause offensive odors and thus are eligible for replacement shall only cast a vote when breaking a tie. Amends the Illinois Vehicle Code. Provides that every crash report required to be made in writing must be electronically submitted to the Administrator using an electronic format approved by the Administrator (rather than made on an approved form or in an approved electronic format provided by the Administrator). Makes conforming changes. Effective immediately, except that the changes made to the Illinois Vehicle Code are effective January 1, 2027."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Jaime M. Andrade, Jr.",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Diane Blair-Sherlock",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Dave Vella",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Kevin John Olickal",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Natalie A. Manley",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Chief Co-Sponsor Rep. Marcus C. Evans, Jr.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Martin J. Moylan",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Katie Stuart",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Assigned to Transportation: Vehicles & Safety",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Do Pass / Short Debate Transportation: Vehicles & Safety;  012-000-000",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar 2nd Reading - Short Debate",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Second Reading - Short Debate",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar Order of 3rd Reading - Short Debate",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Third Reading - Short Debate - Passed 107-000-000",
+      "date": "2025-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Arrive in Senate",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar Order of First Reading",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Chief Senate Sponsor Sen. Mike Porfirio",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Assigned to Executive",
+      "date": "2025-05-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Alternate Chief Sponsor Changed to Sen. Don Harmon",
+      "date": "2025-05-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Rule 2-10 Committee Deadline Established As May 23, 2025",
+      "date": "2025-05-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Filed with Secretary by Sen. Don Harmon",
+      "date": "2025-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Referred to Assignments",
+      "date": "2025-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Assignments Refers to Executive",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Adopted",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Do Pass as Amended Executive;  009-004-000",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar Order of 2nd Reading",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Second Reading",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar Order of 3rd Reading May 20, 2025",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Rule 2-10 Third Reading/Passage Deadline Established As June 1, 2025",
+      "date": "2025-05-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Floor Amendment No. 2 Filed with Secretary by Sen. Ram Villivalam",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Floor Amendment No. 2 Referred to Assignments",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Alternate Chief Sponsor Changed to Sen. Ram Villivalam",
+      "date": "2025-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Floor Amendment No. 3 Filed with Secretary by Sen. Ram Villivalam",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Floor Amendment No. 3 Referred to Assignments",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added as Alternate Chief Co-Sponsor Sen. David Koehler",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added as Alternate Chief Co-Sponsor Sen. Mike Porfirio",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added as Alternate Chief Co-Sponsor Sen. Celina Villanueva",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added as Alternate Chief Co-Sponsor Sen. Robert Peters",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added as Alternate Co-Sponsor Sen. Omar Aquino",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added as Alternate Co-Sponsor Sen. Adriane Johnson",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added as Alternate Co-Sponsor Sen. Mike Simmons",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added as Alternate Co-Sponsor Sen. Mark L. Walker",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added as Alternate Co-Sponsor Sen. Graciela Guzm\u00e1n",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added as Alternate Co-Sponsor Sen. Mary Edly-Allen",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added as Alternate Co-Sponsor Sen. Robert F. Martwick",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Floor Amendment No. 4 Filed with Secretary by Sen. Ram Villivalam",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Floor Amendment No. 4 Referred to Assignments",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Floor Amendment No. 5 Filed with Secretary by Sen. Ram Villivalam",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Floor Amendment No. 5 Referred to Assignments",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Floor Amendment No. 3 Be Approved for Consideration Assignments",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Floor Amendment No. 4 Be Approved for Consideration Assignments",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Floor Amendment No. 5 Be Approved for Consideration Assignments",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Recalled to Second Reading",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Floor Amendment No. 3 Adopted; Villivalam",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Floor Amendment No. 4 Adopted; Villivalam",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Floor Amendment No. 5 Adopted; Villivalam",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar Order of 3rd Reading",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Third Reading - Passed; 032-022-000",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Verified",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Floor Amendment No. 2 Tabled Pursuant to Rule 5-4-(a)",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Arrived in House",
+      "date": "2025-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar Order of Concurrence Senate Amendment(s) 1, 3, 4, 5",
+      "date": "2025-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added as Alternate Co-Sponsor Sen. Mattie Hunter",
+      "date": "2025-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added as Alternate Co-Sponsor Sen. Sara Feigenholtz",
+      "date": "2025-06-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jaime M. Andrade, Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jaime M. Andrade, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marcus C. Evans, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Marcus C. Evans, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Diane Blair-Sherlock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Diane Blair-Sherlock\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave Vella",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dave Vella\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin John Olickal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kevin John Olickal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Natalie A. Manley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Natalie A. Manley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Martin J. Moylan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Martin J. Moylan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Katie Stuart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Katie Stuart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ram Villivalam",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ram Villivalam\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Koehler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David Koehler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Porfirio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Mike Porfirio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Celina Villanueva",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Celina Villanueva\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Peters",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Robert Peters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Omar Aquino",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Omar Aquino\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adriane Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Adriane Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Simmons",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Mike Simmons\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark L. Walker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Mark L. Walker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Graciela Guzm\u00e1n",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Graciela Guzm\\u00e1n\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mary Edly-Allen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Mary Edly-Allen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert F. Martwick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Robert F. Martwick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mattie Hunter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Mattie Hunter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sara Feigenholtz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sara Feigenholtz\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB3438.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=201855&DocName=10400HB3438&DocNum=3438&DocTypeID=HB&LegID=162067&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB3438eng.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=201855&DocName=10400HB3438eng&DocNum=3438&DocTypeID=HB&LegID=162067&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Amendment 001",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB3438sam001.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=204794&DocName=10400HB3438sam001&DocNum=3438&DocTypeID=HB&LegID=162067&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Amendment 002",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB3438sam002.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=205119&DocName=10400HB3438sam002&DocNum=3438&DocTypeID=HB&LegID=162067&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Amendment 003",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB3438sam003.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=205207&DocName=10400HB3438sam003&DocNum=3438&DocTypeID=HB&LegID=162067&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Amendment 004",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB3438sam004.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=205218&DocName=10400HB3438sam004&DocNum=3438&DocTypeID=HB&LegID=162067&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Amendment 005",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB3438sam005.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=205221&DocName=10400HB3438sam005&DocNum=3438&DocTypeID=HB&LegID=162067&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=3438&DocTypeID=HB&LegId=162067&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=3438&GAID=18&DocTypeID=HB&LegId=162067&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:37:28+00:00",
+  "_id": "3c3e62ae-4dfd-11f0-8990-0a5235f7ee10"
+}

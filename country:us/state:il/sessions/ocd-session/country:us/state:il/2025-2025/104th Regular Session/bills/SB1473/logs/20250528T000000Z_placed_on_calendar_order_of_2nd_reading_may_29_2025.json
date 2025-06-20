@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Placed on Calendar Order of 2nd Reading May 29, 2025",
+    "date": "2025-05-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1473"
+}

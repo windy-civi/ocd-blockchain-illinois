@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Prefiled with Clerk by Rep. Bob Morgan",
+    "date": "2024-12-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB34"
+}

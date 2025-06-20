@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Be Adopted Child Welfare;  006-000-000",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR66"
+}

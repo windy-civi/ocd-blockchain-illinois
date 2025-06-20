@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate Committee Amendment No. 1 Adopted",
+    "date": "2025-05-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2994"
+}

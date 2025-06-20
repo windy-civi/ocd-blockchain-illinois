@@ -1,0 +1,452 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB1505",
+  "title": "IL RACING BOARD-VARIOUS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Illinois Horse Racing Act of 1975. Provides that the Illinois Racing Board may appoint the Director of Mutuels to serve as the State director for inter-track wagering and simulcast wagering by inter-track wagering licensees and inter-track wagering location licensees. Provides that the pari-mutuel tax imposed at all pari-mutuel wagering facilities and on advance deposit wagering shall be remitted to the Board (rather than the Department of Revenue). Provides that the Board shall distribute contributed funds to a charitable organization on a schedule determined by the Board, based on the charitable organization's estimated expenditures related to the grant (rather than by December 31 of each year). Provides that any funds not expended by the grantee in a grant year shall be distributed to the charitable organization or charitable organizations selected in the next grant year after the funds are recovered. Repeals provisions authorizing the Board to make daily temporary deposits of certain fees and provisions requiring the Board and the Department of Agriculture to establish a program to conduct drug testing on horses at county fairs. Makes other changes. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Robert \"Bob\" Rita",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Assigned to Gaming Committee",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Do Pass / Short Debate Gaming Committee;  015-000-000",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar 2nd Reading - Short Debate",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Second Reading - Short Debate",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar Order of 3rd Reading - Short Debate",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Third Reading - Short Debate - Passed 115-000-000",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Motion Filed to Reconsider Vote Rep. Daniel Didech",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Motion to Reconsider Vote - Withdrawn Rep. Daniel Didech",
+      "date": "2025-05-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Arrive in Senate",
+      "date": "2025-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar Order of First Reading",
+      "date": "2025-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Chief Senate Sponsor Sen. Bill Cunningham",
+      "date": "2025-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Rule 2-10 Committee Deadline Established As June 1, 2025",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Assigned to Executive",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Filed with Secretary by Sen. Bill Cunningham",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Referred to Assignments",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Assignments Refers to Executive",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Waive Posting Notice",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Rule 2-10 Third Reading/Passage Deadline Established As June 1, 2025",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Adopted",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Do Pass as Amended Executive;  012-000-000",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar Order of 2nd Reading",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Second Reading",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar Order of 3rd Reading May 31, 2025",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Third Reading - Passed; 053-000-000",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Arrived in House",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Calendar Order of Concurrence Senate Amendment(s) 1",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added as Alternate Co-Sponsor Sen. Mattie Hunter",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Motion Filed Concur Rep. Robert \"Bob\" Rita",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Motion to Concur Referred to Rules Committee",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Motion to Concur Recommends Be Adopted Rules Committee;  005-000-000",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Motion Filed to Suspend House Rule(s) for Immediate Consideration Rep. Bob Morgan",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Motion Prevailed to Suspend Rule 073-039-000",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 House Concurs 111-000-000",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "House Concurs",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Passed Both Houses",
+      "date": "2025-05-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Robert \"Bob\" Rita",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Robert \\\"Bob\\\" Rita\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Cunningham",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bill Cunningham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mattie Hunter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Mattie Hunter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB1505.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=197383&DocName=10400HB1505&DocNum=1505&DocTypeID=HB&LegID=157593&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB1505eng.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=197383&DocName=10400HB1505eng&DocNum=1505&DocTypeID=HB&LegID=157593&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB1505enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=197383&DocName=10400HB1505enr&DocNum=1505&DocTypeID=HB&LegID=157593&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Amendment 001",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB1505sam001.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=205173&DocName=10400HB1505sam001&DocNum=1505&DocTypeID=HB&LegID=157593&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=1505&DocTypeID=HB&LegId=157593&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=1505&GAID=18&DocTypeID=HB&LegId=157593&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:36:03+00:00",
+  "_id": "0a07417a-4dfd-11f0-8990-0a5235f7ee10"
+}

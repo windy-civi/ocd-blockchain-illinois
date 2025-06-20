@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Filed with the Clerk by Rep. Robert \"Bob\" Rita",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR293"
+}

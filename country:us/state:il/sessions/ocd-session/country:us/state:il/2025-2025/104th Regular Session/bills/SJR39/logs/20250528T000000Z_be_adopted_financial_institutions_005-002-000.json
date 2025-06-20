@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Be Adopted Financial Institutions;  005-002-000",
+    "date": "2025-05-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR39"
+}

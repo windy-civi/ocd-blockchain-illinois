@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "State Mandates Fiscal Note Requested by Rep. Amy Elik",
+    "date": "2025-03-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2997"
+}

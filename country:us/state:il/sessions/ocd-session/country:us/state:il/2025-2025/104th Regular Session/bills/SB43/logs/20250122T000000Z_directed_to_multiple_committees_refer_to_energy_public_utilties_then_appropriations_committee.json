@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Directed to Multiple Committees Refer to Energy & Public Utilties, then Appropriations Committee.",
+    "date": "2025-01-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB43"
+}

@@ -1,0 +1,102 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4031",
+  "title": "CRIM CD-UNLAWFUL WEAPON-EXEMPT",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Criminal Code of 2012. Provides that the offense of unlawful possession of weapons in relation to knowingly possessing any device or attachment of any kind designed, used, or intended for use in silencing the report of any firearm does not apply to or affect persons licensed under federal law to distribute at wholesale any device or attachment of any kind designed, used, or intended for use in silencing the report of any firearm, firearms, or ammunition for those firearms equipped with those devices, and actually engaged in the business of distributing at wholesale those devices, firearms, or ammunition, but only with respect to activities that are within the lawful scope of that business, such as the distribution, transportation, or demonstration of those devices, firearms, or ammunition to qualified end users. Defines \"distributing at wholesale\". Provides that the exemption does not authorize the general private possession of any device or attachment of any kind designed, used, or intended for use in silencing the report of any firearm, but only such possession and activities as are within the lawful scope of a licensed wholesale distribution business. Provides that during transportation, these devices shall be detached from any weapon or not immediately accessible. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. David Friess",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "David Friess",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"David Friess\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB4031.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=203781&DocName=10400HB4031&DocNum=4031&DocTypeID=HB&LegID=163317&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4031&DocTypeID=HB&LegId=163317&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=4031&GAID=18&DocTypeID=HB&LegId=163317&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:37:52+00:00",
+  "_id": "4aab11a2-4dfd-11f0-8990-0a5235f7ee10"
+}

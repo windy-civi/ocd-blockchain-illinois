@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 1 Filed with Clerk by Rep. Laura Faver Dias",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1857"
+}

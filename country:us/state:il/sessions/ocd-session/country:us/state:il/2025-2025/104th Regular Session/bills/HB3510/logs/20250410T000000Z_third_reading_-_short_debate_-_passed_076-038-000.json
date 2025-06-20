@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third Reading - Short Debate - Passed 076-038-000",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB3510"
+}

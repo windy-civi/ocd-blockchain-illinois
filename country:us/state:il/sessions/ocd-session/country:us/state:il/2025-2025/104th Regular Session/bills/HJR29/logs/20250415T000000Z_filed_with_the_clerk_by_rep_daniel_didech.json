@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Filed with the Clerk by Rep. Daniel Didech",
+    "date": "2025-04-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR29"
+}

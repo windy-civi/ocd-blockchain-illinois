@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Recommends Be Adopted State Government Administration Committee;  008-000-000",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR246"
+}

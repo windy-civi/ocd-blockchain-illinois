@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Prefiled with Clerk by Rep. Diane Blair-Sherlock",
+    "date": "2024-12-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB67"
+}

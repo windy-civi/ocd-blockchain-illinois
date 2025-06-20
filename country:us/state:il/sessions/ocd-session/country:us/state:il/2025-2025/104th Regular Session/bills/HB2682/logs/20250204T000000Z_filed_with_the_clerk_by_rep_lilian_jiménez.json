@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Filed with the Clerk by Rep. Lilian Jim\u00e9nez",
+    "date": "2025-02-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2682"
+}

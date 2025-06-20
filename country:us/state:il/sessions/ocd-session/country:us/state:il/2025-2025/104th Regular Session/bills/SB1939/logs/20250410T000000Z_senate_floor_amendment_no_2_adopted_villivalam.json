@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 2 Adopted; Villivalam",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1939"
+}

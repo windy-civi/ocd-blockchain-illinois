@@ -1,0 +1,102 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4069",
+  "title": "SUPREME COURT ETHICS ACT",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Creates the Supreme Court Ethics Act. Directs a Supreme Court Judge to disqualify himself or herself in any proceeding in which the Supreme Court Judge's impartiality might reasonably be questioned. Specifies circumstances in which a Supreme Court Judge's impartiality might be reasonably questioned. Requires a Supreme Court Judge to keep informed about the Supreme Court Judge's personal and fiduciary economic interests and to make a reasonable effort to keep informed about the personal economic interests of the Supreme Court Judge's spouse or domestic partner and the Supreme Court Judge's children. Authorizes a Supreme Court Judge to disclose on the record the basis of the Supreme Court Judge's disqualification and to ask the parties and their lawyers to consider, outside the presence of the Supreme Court Judge and court personnel, whether to waive disqualification. Requires a Supreme Court Judge to disclose on the record information that the Supreme Court Judge believes the parties or their lawyers might reasonably consider relevant to a possible motion for disqualification, even if the Supreme Court Judge believes there is no basis for disqualification. Prohibits a Supreme Court Judge, a Supreme Court Judge's spouse, a Supreme Court Judge's domestic partner, or a Supreme Court Judge's children from accepting any gifts, loans, bequests, benefits, favors, or other things of value, except as specified in the Act. Requires a Supreme Court Judge to file annually with the Clerk of the Illinois Supreme Court a verified written statement of economic interests on an Illinois Judicial Statement of Economic Interests Form. Specifies the contents of the Illinois Judicial Statement of Economic Interests Form. Authorizes the Judicial Inquiry Board to investigate any alleged violation of the Act. Provides that, if after an investigation and upon determination by the Judicial Inquiry Board that there is a reasonable basis to publicly charge a Supreme Court Judge with a violation of the Act, the Judicial Inquiry Board may file and prosecute a complaint before the Illinois Courts Commission. Defines terms. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Ryan Spain",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ryan Spain",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ryan Spain\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB4069.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=205100&DocName=10400HB4069&DocNum=4069&DocTypeID=HB&LegID=163902&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4069&DocTypeID=HB&LegId=163902&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=4069&GAID=18&DocTypeID=HB&LegId=163902&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:37:53+00:00",
+  "_id": "4b5b01c0-4dfd-11f0-8990-0a5235f7ee10"
+}

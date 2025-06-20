@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Recommends Be Adopted Transportation: Regulation, Roads & Bridges;  018-000-000",
+    "date": "2025-04-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR9"
+}

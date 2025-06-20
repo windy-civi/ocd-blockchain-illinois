@@ -1,0 +1,93 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HR213",
+  "title": "NAKBA/PALESTINIAN REFUGEES",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Recognizes the \"Nakba\" or the uprooting, dispossession, and refugeedom of Palestinian refugees. Expresses rejection of efforts to enlist, engage, or otherwise associate the United States Government with denial of the Nakba. Encourages education and public understanding of the facts of the Nakba, including the United States' role in the humanitarian relief effort and the relevance of the Nakba to modern-day refugee crises. Expresses support for the provision of social service to Palestinian refugees through the United Nations Relief and Works Agency for Palestine Refugees in the Near East. Expresses support for the implementation of Palestinian refugees' rights as enshrined in United Nations General Assembly Resolution 194 and the Universal Declaration of Human Rights."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Abdelnasser Rashid",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Abdelnasser Rashid",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Abdelnasser Rashid\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HR/PDF/10400HR0213.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=203708&DocName=10400HR0213&DocNum=213&DocTypeID=HR&LegID=163295&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=213&DocTypeID=HR&LegId=163295&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=213&GAID=18&DocTypeID=HR&LegId=163295&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:38:00+00:00",
+  "_id": "4f50bbee-4dfd-11f0-8990-0a5235f7ee10"
+}

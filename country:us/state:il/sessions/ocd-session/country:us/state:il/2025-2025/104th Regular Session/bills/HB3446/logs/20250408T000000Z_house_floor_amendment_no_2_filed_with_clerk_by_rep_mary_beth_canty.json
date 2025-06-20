@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 2 Filed with Clerk by Rep. Mary Beth Canty",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB3446"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion Prevailed to Suspend Rule 074-038-000",
+    "date": "2025-06-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB742"
+}

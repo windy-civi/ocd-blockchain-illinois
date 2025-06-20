@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Be Adopted Pensions;  006-000-000",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR112"
+}

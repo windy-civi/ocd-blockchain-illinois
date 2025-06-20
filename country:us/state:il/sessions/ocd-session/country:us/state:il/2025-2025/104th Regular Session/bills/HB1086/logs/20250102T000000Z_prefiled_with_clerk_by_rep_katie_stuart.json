@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Prefiled with Clerk by Rep. Katie Stuart",
+    "date": "2025-01-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1086"
+}

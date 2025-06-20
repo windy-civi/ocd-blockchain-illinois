@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third Reading - Standard Debate - Passed 114-001-000",
+    "date": "2025-05-31",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2156"
+}

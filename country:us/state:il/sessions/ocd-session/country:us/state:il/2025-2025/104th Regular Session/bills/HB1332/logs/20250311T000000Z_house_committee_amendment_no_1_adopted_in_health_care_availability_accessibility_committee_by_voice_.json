@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Committee Amendment No. 1 Adopted in Health Care Availability & Accessibility Committee;  by Voice Vote",
+    "date": "2025-03-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1332"
+}

@@ -1,0 +1,102 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SB2669",
+  "title": "RISE COMMISSION",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Illinois African-American Family Commission Act. Changes the short title of the Act to the RISE Commission Act. Creates the Commission on Reform and Investment for Systemic Equity (RISE Commission) as an independent commission housed for administrative purposes within the Department of Human Services or another agency as determined by the Governor. Dissolves the Illinois African-American Family Commission. Provides that the RISE Commission shall: oversee, track, and coordinate statewide investment strategies aligned with the Illinois Legislative Black Caucus pillars; administer grant programs and provide funding to community-based organizations, units of government, educational institutions, and health care providers focused on systemic equity; monitor and evaluate outcomes; advise the Governor and the General Assembly on best practices and gaps in equity investment; publish an annual equity investment report; and maintain a public data dashboard. Sets forth the members, terms, structure, Executive Director appointment, and staffing of the RISE Commission. Provides that the General Assembly shall appropriate at least $2,000,000 annually to support the operations and grantmaking functions of the RISE Commission. Allows the RISE Commission to receive and expend funds from federal and private sources. Requires the RISE Commission to: maintain a publicly accessible database of all projects and grants funded under its purview; submit an annual report to the General Assembly and the Governor on the allocation, use, and impact of funds; conduct an equity audit every 2 years; and develop an annual community investment scorecard rating agency performance. Repeals a provision regarding oversight of the RISE Commission. Makes conforming changes in the Violence Prevention Task Force Act, the Commission on Children and Youth Act, the Commission to Study Disproportionate Justice Impact Act, the Racial and Ethnic Impact Research Task Force Act, and the Commission on Equity and Inclusion Act. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary by Sen. Willie Preston",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Willie Preston",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Willie Preston\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/SB/PDF/10400SB2669.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=205055&DocName=10400SB2669&DocNum=2669&DocTypeID=SB&LegID=163881&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=2669&DocTypeID=SB&LegId=163881&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=2669&GAID=18&DocTypeID=SB&LegId=163881&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:40:01+00:00",
+  "_id": "97f0df6e-4dfd-11f0-8990-0a5235f7ee10"
+}

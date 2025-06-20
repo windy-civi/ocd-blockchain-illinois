@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Assigned to Counties & Townships Committee",
+    "date": "2025-04-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1241"
+}

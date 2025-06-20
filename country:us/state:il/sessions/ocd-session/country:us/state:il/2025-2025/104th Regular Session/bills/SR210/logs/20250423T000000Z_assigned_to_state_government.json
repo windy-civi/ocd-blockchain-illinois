@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Assigned to State Government",
+    "date": "2025-04-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR210"
+}

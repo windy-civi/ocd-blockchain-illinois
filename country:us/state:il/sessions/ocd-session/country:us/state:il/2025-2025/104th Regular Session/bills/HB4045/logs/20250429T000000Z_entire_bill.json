@@ -1,0 +1,102 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4045",
+  "title": "CONVERTIBLE PISTOLS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Provides that the Act may be referred to as the Responsible Gun Manufacturing Act. Amends the Criminal Code of 2012. Provides that a person commits the offense of unlawful possession of weapons when the person knowingly manufactures, sells, or offers to sell, purchases, receives, manufactures, imports, or transfers a convertible pistol. Establishes penalties. Provides exemptions. Provides that a machine gun also includes any convertible pistol equipped with a switch. Defines \"convertible pistol\", \"switch\", and \"common household tool\". Amends the Consumer Fraud and Deceptive Business Practices Act. Provides that reasonable controls by firearm industry members include reasonable procedures, safeguards, and business practices that are designed to prevent the installation and use of a switch with a firearm. Contains a severability provision."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Justin Slaughter",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Justin Slaughter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Justin Slaughter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB4045.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=204506&DocName=10400HB4045&DocNum=4045&DocTypeID=HB&LegID=163602&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4045&DocTypeID=HB&LegId=163602&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=4045&GAID=18&DocTypeID=HB&LegId=163602&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:37:52+00:00",
+  "_id": "4ae989b4-4dfd-11f0-8990-0a5235f7ee10"
+}

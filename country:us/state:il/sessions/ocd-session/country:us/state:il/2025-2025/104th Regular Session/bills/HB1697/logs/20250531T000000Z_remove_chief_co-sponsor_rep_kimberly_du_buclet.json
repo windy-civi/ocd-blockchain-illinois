@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove Chief Co-Sponsor Rep. Kimberly Du Buclet",
+    "date": "2025-05-31",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1697"
+}

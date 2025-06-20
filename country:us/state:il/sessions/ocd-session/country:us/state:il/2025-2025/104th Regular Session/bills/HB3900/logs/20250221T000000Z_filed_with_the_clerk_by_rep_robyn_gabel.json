@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Filed with the Clerk by Rep. Robyn Gabel",
+    "date": "2025-02-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB3900"
+}

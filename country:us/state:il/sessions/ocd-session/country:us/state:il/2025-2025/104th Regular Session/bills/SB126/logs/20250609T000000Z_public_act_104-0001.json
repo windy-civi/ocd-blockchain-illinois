@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Public Act . . . . . . . . . 104-0001",
+    "date": "2025-06-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB126"
+}

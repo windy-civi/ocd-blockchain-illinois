@@ -1,0 +1,103 @@
+{
+  "identifier": "",
+  "motion_text": "Approp-Elementary & Secondary Educ, Amendment 1",
+  "motion_classification": [],
+  "start_date": "2025-03-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "1278a2cc-4dfd-11f0-8990-0a5235f7ee10",
+  "bill_action": null,
+  "bill_identifier": "HB1861",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Faver Dias, Laura",
+      "voter_id": "~{\"name\": \"Faver Dias, Laura\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis, William \"Will\"",
+      "voter_id": "~{\"name\": \"Davis, William \\\"Will\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hirschauer, Maura",
+      "voter_id": "~{\"name\": \"Hirschauer, Maura\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wilhour, Blaine",
+      "voter_id": "~{\"name\": \"Wilhour, Blaine\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ort\u00edz, Aar\u00f3n M",
+      "voter_id": "~{\"name\": \"Ort\\u00edz, Aar\\u00f3n M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yang Rohr, Janet",
+      "voter_id": "~{\"name\": \"Yang Rohr, Janet\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Hernandez, Elizabeth \"Lisa\"",
+      "voter_id": "~{\"name\": \"Hernandez, Elizabeth \\\"Lisa\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Friess, David",
+      "voter_id": "~{\"name\": \"Friess, David\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "McLaughlin, Martin",
+      "voter_id": "~{\"name\": \"McLaughlin, Martin\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1861HFA1_42978.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1861HFA1_42978.pdf",
+  "_id": "1284b986-4dfd-11f0-8990-0a5235f7ee10"
+}

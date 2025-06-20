@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third Reading - Unlimited Debate - Passed 070-040-001",
+    "date": "2025-05-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB3247"
+}

@@ -1,0 +1,102 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4061",
+  "title": "FOID-CLEAR AND PRESENT DANGER",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Firearm Owners Identification Card Act. Provides that the Illinois State Police must deny the application or suspend or revoke a person's Firearm Owner's Identification Card upon receipt of a report from the Department of Human Services that an applicant or owner poses a clear and present danger. Requires the Department of Human Services to provide by rule for such a report. Makes similar changes if a law enforcement or school administrator notifies the Illinois State Police that a person poses a clear and present danger. Requires any information disclosed under the Act to be confidential. Prohibits the information from being redisclosed or used for any other purpose except as otherwise allowed by law. Provides that the identity of the reporting person may be disclosed only to the subject of the report if required by the Firearm Owner's Identification Card Review Board or a court as authorized under the Act. Requires that no later than January 1, 2026, the Firearm Owner's Identification Card Review Board must establish a process by which any person who is subject to the provisions of the Act can request expedited review from the Board. Requires that the Illinois State Police must provide the Board or any court with jurisdiction all records relevant to the request for relief. Allows the Illinois State Police and the individual seeking expedited relief to seek judicial review upon receipt of a final administrative decision under the Act. Provides that the Board, Illinois State Police, or employees and agents of the Board and Illinois State Police participating in the process under the Act may not be held liable for damages in any civil action arising from the alleged wrongful or improper granting, denying, renewing, revoking, suspending, or failing to grant, deny, renew, revoke, or suspend a Firearm Owner's Identification Card."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Bob Morgan",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bob Morgan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bob Morgan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB4061.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=204962&DocName=10400HB4061&DocNum=4061&DocTypeID=HB&LegID=163839&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4061&DocTypeID=HB&LegId=163839&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=4061&GAID=18&DocTypeID=HB&LegId=163839&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:37:53+00:00",
+  "_id": "4b33dce4-4dfd-11f0-8990-0a5235f7ee10"
+}

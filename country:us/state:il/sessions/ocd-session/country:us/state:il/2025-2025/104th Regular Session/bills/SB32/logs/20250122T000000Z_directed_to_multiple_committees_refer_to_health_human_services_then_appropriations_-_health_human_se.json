@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Directed to Multiple Committees Refer to Health & Human Services, then Appropriations - Health & Human Services Committee.",
+    "date": "2025-01-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB32"
+}

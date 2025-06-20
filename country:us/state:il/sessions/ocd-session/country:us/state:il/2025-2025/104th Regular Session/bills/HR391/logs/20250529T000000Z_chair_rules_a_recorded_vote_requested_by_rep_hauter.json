@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Chair Rules a recorded vote requested by Rep. Hauter.",
+    "date": "2025-05-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR391"
+}

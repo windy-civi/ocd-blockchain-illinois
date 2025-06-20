@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Prefiled with Clerk by Rep. La Shawn K. Ford",
+    "date": "2024-12-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB7"
+}

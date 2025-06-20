@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Rule 19(a) / Re-referred to Rules Committee",
+    "date": "2025-05-31",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB938"
+}

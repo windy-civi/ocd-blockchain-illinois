@@ -1,0 +1,103 @@
+{
+  "identifier": "",
+  "motion_text": "Licensed Activities, Amendment 3",
+  "motion_classification": [],
+  "start_date": "2025-04-03",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "94fd0fda-4dfd-11f0-8990-0a5235f7ee10",
+  "bill_action": null,
+  "bill_identifier": "SB2503",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Cervantes, Javier L",
+      "voter_id": "~{\"name\": \"Cervantes, Javier L\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Belt, Christopher",
+      "voter_id": "~{\"name\": \"Belt, Christopher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harriss, Erica",
+      "voter_id": "~{\"name\": \"Harriss, Erica\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Glowiak Hilton, Suzy",
+      "voter_id": "~{\"name\": \"Glowiak Hilton, Suzy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hastings, Michael E",
+      "voter_id": "~{\"name\": \"Hastings, Michael E\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Syverson, Dave",
+      "voter_id": "~{\"name\": \"Syverson, Dave\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McClure, Steve",
+      "voter_id": "~{\"name\": \"McClure, Steve\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Villivalam, Ram",
+      "voter_id": "~{\"name\": \"Villivalam, Ram\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Jones III, Emil",
+      "voter_id": "~{\"name\": \"Jones III, Emil\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2503SFA3_43076.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2503SFA3_43076.pdf",
+  "_id": "951b5b84-4dfd-11f0-8990-0a5235f7ee10"
+}

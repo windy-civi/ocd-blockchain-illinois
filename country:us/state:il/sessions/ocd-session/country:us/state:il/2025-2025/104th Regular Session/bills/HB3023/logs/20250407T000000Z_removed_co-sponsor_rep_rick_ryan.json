@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Removed Co-Sponsor Rep. Rick Ryan",
+    "date": "2025-04-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB3023"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 2 Filed with Clerk by Rep. La Shawn K. Ford",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2727"
+}

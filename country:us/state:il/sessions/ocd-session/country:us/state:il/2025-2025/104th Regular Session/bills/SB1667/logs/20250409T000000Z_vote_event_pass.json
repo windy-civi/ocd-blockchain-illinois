@@ -1,0 +1,103 @@
+{
+  "identifier": "",
+  "motion_text": "Judiciary, Amendment 5",
+  "motion_classification": [],
+  "start_date": "2025-04-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "7eb085cc-4dfd-11f0-8990-0a5235f7ee10",
+  "bill_action": null,
+  "bill_identifier": "SB1667",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Curran, John F",
+      "voter_id": "~{\"name\": \"Curran, John F\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harmon, Don",
+      "voter_id": "~{\"name\": \"Harmon, Don\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Halpin, Michael W",
+      "voter_id": "~{\"name\": \"Halpin, Michael W\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hills, Darby A",
+      "voter_id": "~{\"name\": \"Hills, Darby A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hastings, Michael E",
+      "voter_id": "~{\"name\": \"Hastings, Michael E\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sims Jr., Elgie R",
+      "voter_id": "~{\"name\": \"Sims Jr., Elgie R\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Martwick, Robert F",
+      "voter_id": "~{\"name\": \"Martwick, Robert F\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tracy, Jil",
+      "voter_id": "~{\"name\": \"Tracy, Jil\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Fine, Laura",
+      "voter_id": "~{\"name\": \"Fine, Laura\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1667SFA5_43475.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1667SFA5_43475.pdf",
+  "_id": "7ec0444e-4dfd-11f0-8990-0a5235f7ee10"
+}

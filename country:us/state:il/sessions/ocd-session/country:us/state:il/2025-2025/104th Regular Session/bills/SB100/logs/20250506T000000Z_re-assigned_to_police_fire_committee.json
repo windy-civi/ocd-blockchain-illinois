@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Re-assigned to Police & Fire Committee",
+    "date": "2025-05-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB100"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Added Co-Sponsor Rep. Patrick Windhorst",
+    "date": "2025-06-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB3127"
+}

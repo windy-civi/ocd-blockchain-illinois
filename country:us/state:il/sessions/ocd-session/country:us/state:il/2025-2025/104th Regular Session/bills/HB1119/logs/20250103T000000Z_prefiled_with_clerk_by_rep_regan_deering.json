@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Prefiled with Clerk by Rep. Regan Deering",
+    "date": "2025-01-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1119"
+}

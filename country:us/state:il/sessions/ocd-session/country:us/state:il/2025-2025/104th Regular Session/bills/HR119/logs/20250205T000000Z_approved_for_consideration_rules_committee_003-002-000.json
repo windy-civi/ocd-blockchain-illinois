@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Approved for Consideration Rules Committee;  003-002-000",
+    "date": "2025-02-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR119"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion Prevailed to Suspend Rule 000-000-000;  15d Prevailed",
+    "date": "2025-05-31",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2156"
+}

@@ -1,0 +1,86 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4075",
+  "title": "CIVIL PROCEDURE-NAME CHANGE",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Name Change Article of the Code of Civil Procedure. Provides that for a petition for name change by a person who is required to register under Sex Offender Registration Act, the Murderer and Violent Offender Against Youth Registration Act, or the Arsonist Registration Act and not yet pardoned, if the petition alleges that it is sought because of marriage, religious beliefs, status as a victim of trafficking or gender-related identity, the court may grant or deny the petition after making a determination based on certain factors. Provides that any denial of a name change to these individuals must be in writing demonstrating the reasons for the denial. Provides that a person who has been convicted as an adult of a felony offense and whose sentence has not been completed, terminated, or discharged is not permitted to file a petition for a name change unless pardoned for the offense. Provides that the State's Attorney may file an objection to the petition within 30 days of being served if the petitioner has been convicted of and not been pardoned or has a pending case for any of the these enumerated charges: identity theft, aggravated identity theft, felony or misdemeanor criminal sexual abuse if the victim of the offense at the time of its commission is under 18 years of age, felony or misdemeanor sexual exploitation of a child, felony or misdemeanor indecent solicitation of a child, or felony or misdemeanor indecent solicitation of an adult. Provides the same opportunity to object if the petitioner has any pending charge that would require compliance, if convicted, with the Sex Offender Registration Act, the Murderer and Violent Offender Against Youth Registration Act, or the Arsonist Registry Act. Provides those objections must be in writing, filed with the circuit court clerk, served upon the petitioner, and state with specificity the basis of the objection, including, but not limited to, any evidence of specific intent for requesting the name change and any specific and detailed facts demonstrating that any potential risk to another individual or group would outweigh any potential harm or negative impact to the individual making the request for the name change. Makes other changes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Kelly M. Cassidy",
+      "date": "2025-06-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kelly M. Cassidy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kelly M. Cassidy\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB4075.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=205231&DocName=10400HB4075&DocNum=4075&DocTypeID=HB&LegID=163944&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4075&DocTypeID=HB&LegId=163944&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=4075&GAID=18&DocTypeID=HB&LegId=163944&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:37:53+00:00",
+  "_id": "4b78cb56-4dfd-11f0-8990-0a5235f7ee10"
+}

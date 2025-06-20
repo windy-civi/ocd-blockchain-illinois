@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Recommends Be Adopted Health Care Licenses Committee;  014-000-000",
+    "date": "2025-05-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR193"
+}

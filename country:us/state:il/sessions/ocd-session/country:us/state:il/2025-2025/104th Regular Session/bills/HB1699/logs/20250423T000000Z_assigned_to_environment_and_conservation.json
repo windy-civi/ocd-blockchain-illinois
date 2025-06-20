@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Assigned to Environment and Conservation",
+    "date": "2025-04-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1699"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 3 Adopted; Murphy",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB71"
+}

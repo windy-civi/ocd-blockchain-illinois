@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Second Reading - Short Debate",
+    "date": "2025-03-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB276"
+}

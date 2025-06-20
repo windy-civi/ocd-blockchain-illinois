@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Removed Co-Sponsor Rep. Dan Swanson",
+    "date": "2025-03-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB22"
+}

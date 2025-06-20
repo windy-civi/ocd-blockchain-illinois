@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Resolution Adopted 073-000-000",
+    "date": "2025-02-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR118"
+}

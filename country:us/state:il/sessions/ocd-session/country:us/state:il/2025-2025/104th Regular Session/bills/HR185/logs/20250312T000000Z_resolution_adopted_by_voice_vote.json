@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Resolution Adopted by Voice Vote",
+    "date": "2025-03-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR185"
+}

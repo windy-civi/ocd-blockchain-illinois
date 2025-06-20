@@ -1,0 +1,100 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HJRCA17",
+  "title": "CONAMEND-JUDICIAL DISTRICTING",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "constitutional amendment"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Proposes to amend the Judicial Article of the Illinois Constitution. Provides that, beginning with the 2032 general election, the State shall be divided by law into 7 Judicial Districts for the selection of Supreme Court Judges and five Judicial Districts for the selection of Appellate Court Judges. Requires each Judicial District to be compact, contiguous, and substantially equal in population. Provides that, in the year of each federal decennial census, the General Assembly by law shall redistrict the Judicial Districts. Specifies that, if no redistricting plan becomes effective by June 30 of that year, a Judicial Redistricting Commission shall be constituted as provided by law. Effective upon being declared adopted in accordance with Section 7 of the Illinois Constitutional Amendment Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Ryan Spain",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Read in Full a First Time",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ryan Spain",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ryan Spain\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HJRCA/PDF/10400HC0017.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=205101&DocName=10400HC0017&DocNum=17&DocTypeID=HJRCA&LegID=163903&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=17&DocTypeID=HJRCA&LegId=163903&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=17&GAID=18&DocTypeID=HJRCA&LegId=163903&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:38:08+00:00",
+  "_id": "54194f60-4dfd-11f0-8990-0a5235f7ee10"
+}

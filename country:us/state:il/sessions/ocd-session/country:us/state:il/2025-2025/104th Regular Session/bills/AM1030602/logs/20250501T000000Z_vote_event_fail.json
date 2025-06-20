@@ -1,0 +1,48 @@
+{
+  "identifier": "",
+  "motion_text": "Executive Appointments",
+  "motion_classification": [],
+  "start_date": "2025-05-01",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "a3a316ce-4dfd-11f0-8990-0a5235f7ee10",
+  "bill_action": null,
+  "bill_identifier": "AM1030602",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400AM1030602_43875.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400AM1030602_43875.pdf",
+  "_id": "a3a70b08-4dfd-11f0-8990-0a5235f7ee10"
+}

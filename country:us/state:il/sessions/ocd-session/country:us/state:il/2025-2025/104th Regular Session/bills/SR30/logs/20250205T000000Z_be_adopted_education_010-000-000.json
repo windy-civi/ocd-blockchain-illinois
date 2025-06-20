@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Be Adopted Education;  010-000-000",
+    "date": "2025-02-05",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR30"
+}

@@ -1,0 +1,109 @@
+{
+  "identifier": "",
+  "motion_text": "Pensions, Amendment 1",
+  "motion_classification": [],
+  "start_date": "2025-04-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "7913ea6e-4dfd-11f0-8990-0a5235f7ee10",
+  "bill_action": null,
+  "bill_identifier": "SB1456",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Arellano Jr., Li",
+      "voter_id": "~{\"name\": \"Arellano Jr., Li\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anderson, Neil",
+      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cervantes, Javier L",
+      "voter_id": "~{\"name\": \"Cervantes, Javier L\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Balkema, Chris",
+      "voter_id": "~{\"name\": \"Balkema, Chris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harris III, Napoleon",
+      "voter_id": "~{\"name\": \"Harris III, Napoleon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Feigenholtz, Sara",
+      "voter_id": "~{\"name\": \"Feigenholtz, Sara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Holmes, Linda",
+      "voter_id": "~{\"name\": \"Holmes, Linda\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Walker, Mark L",
+      "voter_id": "~{\"name\": \"Walker, Mark L\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Martwick, Robert F",
+      "voter_id": "~{\"name\": \"Martwick, Robert F\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Hunter, Mattie",
+      "voter_id": "~{\"name\": \"Hunter, Mattie\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1456SFA1_43389.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1456SFA1_43389.pdf",
+  "_id": "7918a2f2-4dfd-11f0-8990-0a5235f7ee10"
+}

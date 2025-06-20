@@ -1,0 +1,109 @@
+{
+  "identifier": "",
+  "motion_text": "Public Health, Amendment 2",
+  "motion_classification": [],
+  "start_date": "2025-04-02",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "86385f40-4dfd-11f0-8990-0a5235f7ee10",
+  "bill_action": null,
+  "bill_identifier": "SB1950",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Chesney, Andrew S",
+      "voter_id": "~{\"name\": \"Chesney, Andrew S\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Arellano Jr., Li",
+      "voter_id": "~{\"name\": \"Arellano Jr., Li\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fine, Laura",
+      "voter_id": "~{\"name\": \"Fine, Laura\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Feigenholtz, Sara",
+      "voter_id": "~{\"name\": \"Feigenholtz, Sara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hastings, Michael E",
+      "voter_id": "~{\"name\": \"Hastings, Michael E\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Guzm\u00e1n, Graciela",
+      "voter_id": "~{\"name\": \"Guzm\\u00e1n, Graciela\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Simmons, Mike",
+      "voter_id": "~{\"name\": \"Simmons, Mike\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Koehler, David",
+      "voter_id": "~{\"name\": \"Koehler, David\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ventura, Rachel",
+      "voter_id": "~{\"name\": \"Ventura, Rachel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Syverson, Dave",
+      "voter_id": "~{\"name\": \"Syverson, Dave\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1950SFA2_43021.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1950SFA2_43021.pdf",
+  "_id": "8648ea4a-4dfd-11f0-8990-0a5235f7ee10"
+}

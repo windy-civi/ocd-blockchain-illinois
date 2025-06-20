@@ -1,0 +1,108 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SR300",
+  "title": "SUPPORT-TAIWAN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Reaffirms the commitment to the strengthening and deepening of the sister ties between the State of Illinois and Taiwan, the Republic of China (ROC). Reaffirms support for the Taiwan Relations Act (TRA) and supports Illinois businesses referring to Taiwan, ROC, as Taiwan. Endorses Taiwan's efforts to secure the signing of a Bilateral Trade Agreement (BTA), the Avoidance of Double Taxation Agreement (ADTA), and the Indo-Pacific Economic Framework for Prosperity (IPEF) with the United States. Supports the further strengthening of a closer economic and trade partnership between the State of Illinois and Taiwan with multiple possible approaches, including signing an economic and trade memorandum of understanding, exploring the possibility of establishing an Illinois Office in Taiwan, and sending Illinois high-level officials to visit Taiwan. Supports Taiwan's meaningful participation in international organizations, which impact the health, safety, and well-being of the peoples of Taiwan, the State of Illinois, the United States, and the world. Opposes any distortion or misuse of United Nations General Assembly (UNGA) Resolution 2758 to attempt to deny Taiwan's aspiration to make more contributions in international societies."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary",
+      "date": "2025-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Rachel Ventura",
+      "date": "2025-05-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Willie Preston",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Willie Preston\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rachel Ventura",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rachel Ventura\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/SR/PDF/10400SR0300.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=204707&DocName=10400SR0300&DocNum=300&DocTypeID=SR&LegID=163710&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=300&DocTypeID=SR&LegId=163710&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=300&GAID=18&DocTypeID=SR&LegId=163710&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:40:09+00:00",
+  "_id": "9c9a4910-4dfd-11f0-8990-0a5235f7ee10"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Assigned to Appropriations- Public Safety and Infrastructure",
+    "date": "2025-02-04",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1388"
+}

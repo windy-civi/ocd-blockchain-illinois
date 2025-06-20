@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Third Reading Deadline Extended-Rule May 31, 2025",
+    "date": "2025-04-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2238"
+}

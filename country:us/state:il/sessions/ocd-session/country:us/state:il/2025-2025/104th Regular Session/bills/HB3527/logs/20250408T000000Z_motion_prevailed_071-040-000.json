@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion Prevailed 071-040-000",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB3527"
+}

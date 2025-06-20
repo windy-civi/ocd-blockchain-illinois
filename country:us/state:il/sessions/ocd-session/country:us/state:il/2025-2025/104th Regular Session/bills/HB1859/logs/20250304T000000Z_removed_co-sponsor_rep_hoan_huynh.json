@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Removed Co-Sponsor Rep. Hoan Huynh",
+    "date": "2025-03-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1859"
+}

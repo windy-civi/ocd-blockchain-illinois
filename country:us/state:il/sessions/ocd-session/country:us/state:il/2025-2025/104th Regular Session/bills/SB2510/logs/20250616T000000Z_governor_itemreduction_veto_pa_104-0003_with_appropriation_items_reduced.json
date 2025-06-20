@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Governor Item/Reduction Veto PA 104-0003;  With Appropriation Items Reduced",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-veto-line-item"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2510"
+}

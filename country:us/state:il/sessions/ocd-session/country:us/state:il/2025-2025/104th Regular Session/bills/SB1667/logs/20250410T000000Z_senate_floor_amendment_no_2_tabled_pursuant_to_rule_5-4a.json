@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 2 Tabled Pursuant to Rule 5-4(a)",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1667"
+}

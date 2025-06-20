@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third Reading - Short Debate - Lost 049-051-002",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB3332"
+}

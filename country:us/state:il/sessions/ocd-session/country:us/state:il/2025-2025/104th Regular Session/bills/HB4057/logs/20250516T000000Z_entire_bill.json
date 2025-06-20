@@ -1,0 +1,102 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4057",
+  "title": "UNIFORM UNCLAIMED PROPERTY ACT",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "If and only if Senate Bill 1667 of the 104th General Assembly becomes law in the form in which it passed the Senate, amends the Revised Uniform Unclaimed Property Act. Excludes from the definition of \"finder\": (A) a person holding a durable power of attorney of a person who is medically incapacitated; (B) a bankruptcy trustee, bankruptcy estate representative, or other person or business association authorized pursuant to the Bankruptcy Title of the U.S. Code or an order of a bankruptcy court to act on behalf of or for the benefit of the reported owner's creditors and bankruptcy estate, or the successor or assignee thereof; (C) an assignee for the benefit of a business association's creditors pursuant to applicable state or federal law, or the successor or assignee thereof; (D) a court-ordered receiver for a business association, or the successor or assignee thereof; (E) a survivor, corporate designee, assignee, successor, governor, or delegate of a business association pursuant to a merger, conversion, acquisition, divestiture, joint venture, assignment, wind-down, resolution, or corporate reorganization, or the successor or assignee thereof; (F) an employee of an owner; and (G) any other person that is entitled to receive the property under other law, court order, or policy."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Dan Ugaste",
+      "date": "2025-05-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-05-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-05-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Dan Ugaste",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dan Ugaste\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB4057.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=204882&DocName=10400HB4057&DocNum=4057&DocTypeID=HB&LegID=163786&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4057&DocTypeID=HB&LegId=163786&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=4057&GAID=18&DocTypeID=HB&LegId=163786&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:37:53+00:00",
+  "_id": "4b1f3faa-4dfd-11f0-8990-0a5235f7ee10"
+}

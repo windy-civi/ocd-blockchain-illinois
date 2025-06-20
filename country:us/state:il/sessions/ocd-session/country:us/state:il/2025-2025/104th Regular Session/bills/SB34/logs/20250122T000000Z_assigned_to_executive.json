@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Assigned to Executive",
+    "date": "2025-01-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB34"
+}

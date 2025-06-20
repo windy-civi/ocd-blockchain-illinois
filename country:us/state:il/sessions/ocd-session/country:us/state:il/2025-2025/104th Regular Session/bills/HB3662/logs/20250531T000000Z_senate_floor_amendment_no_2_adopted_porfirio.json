@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 2 Adopted; Porfirio",
+    "date": "2025-05-31",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB3662"
+}

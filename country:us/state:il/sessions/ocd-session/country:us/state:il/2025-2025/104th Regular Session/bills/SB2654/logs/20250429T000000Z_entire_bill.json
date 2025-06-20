@@ -1,0 +1,102 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SB2654",
+  "title": "CANNABIS MERGER",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Department of Professional Regulation Law of the Civil Administrative Code of Illinois. Makes changes to provisions regarding disclosures. Amends the Use Tax Act, the Service Use Tax Act, the Service Occupation Tax Act, and the Retailers' Occupation Tax Act. Changes the definition of \"prescription and nonprescription medicines and drugs\" and \"adult use cannabis\", beginning on January 1, 2026. Amends the Compassionate Use of Medical Cannabis Program Act. Adds provisional patients and Opioid Alternative Patient Program participants to certain provisions that include qualified patients. Adds and changes definitions. Adds references to the Cannabis Regulation and Tax Act. Provides that, beginning January 1, 2026, designated caregivers, qualifying patients, Opioid Alternative Patient Program participants, or provisional patients may purchase an adequate medical supply at any dispensing organization licensed by the Department of Financial and Professional Regulation under the Cannabis Regulation and Tax Act. Provides that, beginning January 1, 2026, the issuance or renewal of any medical cannabis cultivation permits will cease at the next renewal period. Makes conforming changes for transitions from the Compassionate Use of Medical Cannabis Program Act to the Cannabis Regulation and Tax Act. Sunsets or repeals certain provisions on certain dates. Makes other changes. Amends the Compassionate Use of Medical Cannabis Program Act. Adds and changes definitions. Makes changes to provisions concerning the Department of Agriculture and the Department of Financial and Professional Regulation. In provisions regarding the Cannabis Business Development Fund, adds references to Social Equity Criteria Lottery Licensees. Makes changes to provisions concerning loans and grants to Social Equity Applicants. Provides for certain license mergers. Makes other changes. Amends the Illinois Vehicle Code to make conforming changes. Amends the Tobacco Accessories and Smoking Herbs Control Act to repeal certain references to marijuana and hashish. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary by Sen. Kimberly A. Lightford",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kimberly A. Lightford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kimberly A. Lightford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/SB/PDF/10400SB2654.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=204448&DocName=10400SB2654&DocNum=2654&DocTypeID=SB&LegID=163566&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=2654&DocTypeID=SB&LegId=163566&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=2654&GAID=18&DocTypeID=SB&LegId=163566&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:40:01+00:00",
+  "_id": "97b39e42-4dfd-11f0-8990-0a5235f7ee10"
+}

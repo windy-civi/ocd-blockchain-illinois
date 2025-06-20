@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate Committee Amendment No. 2 Adopted",
+    "date": "2025-03-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1274"
+}

@@ -1,0 +1,117 @@
+{
+  "legislative_session": "104th",
+  "identifier": "SB2648",
+  "title": "TITLE INSURANCE TRANSFER",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Title Insurance Act. Provides for the enforcement of the Act by the Department of Insurance (rather than the Department of Financial and Professional Regulation). Provides that all powers, duties, rights, and responsibilities of the Department of Financial and Professional Regulation and the Secretary of Financial and Professional Regulation under the Act are transferred to the Department of Insurance and Director of Insurance, respectively. Provides for the transfer of books, records, papers, documents, property, contracts, causes of action, pending business, and certain funds from the Department of Financial and Professional Regulation to the Department of Insurance. Provides that rules and proposed rules by the Department of Financial and Professional Regulation under the Act shall become rules and proposed rules of the Department of Insurance. Provides that all moneys received by the Department of Insurance under the Act shall be deposited into the Insurance Financial Regulation Fund (rather than the Financial Institution Fund). Makes conforming and grammatical changes throughout the Act. Amends the State Finance Act and the Financial Institutions Act to make conforming changes. Amends the Residential Real Property Disclosure Act to transfer authority over the predatory lending database from the Department of Financial and Professional Regulation to the Department of Insurance."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with Secretary by Sen. Bill Cunningham",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Assignments",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Paul Faraci",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bill Cunningham",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bill Cunningham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul Faraci",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Paul Faraci\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/SB/PDF/10400SB2648.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=204337&DocName=10400SB2648&DocNum=2648&DocTypeID=SB&LegID=163488&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=2648&DocTypeID=SB&LegId=163488&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=2648&GAID=18&DocTypeID=SB&LegId=163488&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:40:01+00:00",
+  "_id": "9791b05c-4dfd-11f0-8990-0a5235f7ee10"
+}

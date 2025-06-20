@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third Reading - Passed; 039-016-002",
+    "date": "2025-05-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2726"
+}

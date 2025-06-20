@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "To Wage Policy Study Subcommittee",
+    "date": "2025-03-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2565"
+}

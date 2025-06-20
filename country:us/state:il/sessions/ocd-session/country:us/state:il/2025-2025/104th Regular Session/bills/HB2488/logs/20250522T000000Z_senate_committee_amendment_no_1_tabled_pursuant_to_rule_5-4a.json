@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate Committee Amendment No. 1 Tabled Pursuant to Rule 5-4(a)",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2488"
+}

@@ -1,0 +1,116 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HR360",
+  "title": "TEACHER LEADERSHIP-ISBE",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Affirms the importance of adopting a statewide strategy to develop teachers as leaders and to leverage teacher leadership to recruit and retain excellent educators of diverse identities and backgrounds, strengthen school leadership, and support continuous school improvement to improve educational outcomes. Urges the Illinois State Board of Education to (1) prioritize teacher leadership investments in future fiscal years in order to build greater capacity to conduct research and collect data, highlight and share best practices for distributed leadership, offer technical assistance to schools and districts, and provide strategic leadership to support the expansion of teacher leadership across Illinois, (2) to collaborate with educators, districts, educator preparation programs, and other state agencies to build a strategy for the development of a statewide ecosystem that grows, recognizes, supports, and sustains teacher leadership in diverse contexts throughout the State, (3) to include in its strategy multiple pathways to recognize, support, and sustain diverse teacher leadership throughout the State, including through collaborative partnerships, expanded inclusion of teacher voice in educational decision-making, and classroom teacher leadership development programs, and (4) to embed teacher leadership as a fundamental component of the school improvement process. Urges each school district in Illinois to develop systems that provide teachers equitable access to ongoing leadership development and encourage them to take teacher leadership roles."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Laura Faver Dias",
+      "date": "2025-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Assigned to Elementary & Secondary Education: Administration, Licensing & Charter Schools",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Motion Filed to Suspend Rule 21 Elementary & Secondary Education: Administration, Licensing & Charter Schools;  Rep. Bob Morgan",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Motion to Suspend Rule 21 - Prevailed 075-039-000",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Laura Faver Dias",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Laura Faver Dias\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HR/PDF/10400HR0360.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=204932&DocName=10400HR0360&DocNum=360&DocTypeID=HR&LegID=163818&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=360&DocTypeID=HR&LegId=163818&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=360&GAID=18&DocTypeID=HR&LegId=163818&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:38:04+00:00",
+  "_id": "51d35642-4dfd-11f0-8990-0a5235f7ee10"
+}

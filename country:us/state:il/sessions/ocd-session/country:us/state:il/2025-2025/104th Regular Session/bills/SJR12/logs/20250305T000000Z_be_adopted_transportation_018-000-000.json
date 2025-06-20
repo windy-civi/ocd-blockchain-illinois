@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Be Adopted Transportation;  018-000-000",
+    "date": "2025-03-05",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR12"
+}

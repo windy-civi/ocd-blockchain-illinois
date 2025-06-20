@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Correctional Note Requested by Rep. La Shawn K. Ford",
+    "date": "2025-03-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB3998"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Be Adopted Public Health;  008-000-000",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR176"
+}

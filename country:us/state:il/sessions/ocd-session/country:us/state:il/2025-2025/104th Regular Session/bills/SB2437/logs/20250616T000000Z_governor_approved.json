@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Governor Approved",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2437"
+}

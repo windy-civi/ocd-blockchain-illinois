@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Recommends Be Adopted Child Care Accessibility & Early Childhood Education;  010-000-000",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR145"
+}

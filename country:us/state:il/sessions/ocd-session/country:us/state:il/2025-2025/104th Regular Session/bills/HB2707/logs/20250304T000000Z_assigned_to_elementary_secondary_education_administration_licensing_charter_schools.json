@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Assigned to Elementary & Secondary Education: Administration, Licensing & Charter Schools",
+    "date": "2025-03-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2707"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "3/5 Vote Required",
+    "date": "2025-06-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1823"
+}

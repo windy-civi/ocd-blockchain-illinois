@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Do Pass Veterans Affairs;  007-000-000",
+    "date": "2025-05-07",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2547"
+}

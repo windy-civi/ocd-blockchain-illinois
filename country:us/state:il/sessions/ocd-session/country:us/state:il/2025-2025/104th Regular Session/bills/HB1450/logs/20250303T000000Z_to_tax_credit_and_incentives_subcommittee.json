@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "To Tax Credit and Incentives Subcommittee",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1450"
+}

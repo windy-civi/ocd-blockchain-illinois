@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 2 House Concurs 103-012-001",
+    "date": "2025-05-31",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB3193"
+}

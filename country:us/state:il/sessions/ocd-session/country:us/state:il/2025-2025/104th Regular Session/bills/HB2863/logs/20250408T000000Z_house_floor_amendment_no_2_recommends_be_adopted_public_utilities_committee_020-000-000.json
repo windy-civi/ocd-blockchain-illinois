@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 2 Recommends Be Adopted Public Utilities Committee;  020-000-000",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2863"
+}

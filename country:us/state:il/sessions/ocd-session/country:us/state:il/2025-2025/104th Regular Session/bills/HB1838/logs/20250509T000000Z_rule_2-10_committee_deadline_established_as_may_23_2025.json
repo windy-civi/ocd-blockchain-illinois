@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Rule 2-10 Committee Deadline Established As May 23, 2025",
+    "date": "2025-05-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1838"
+}

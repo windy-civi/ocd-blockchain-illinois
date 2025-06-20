@@ -1,0 +1,103 @@
+{
+  "identifier": "",
+  "motion_text": "Human Rights",
+  "motion_classification": [],
+  "start_date": "2025-04-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "99e2faa0-4dfd-11f0-8990-0a5235f7ee10",
+  "bill_action": null,
+  "bill_identifier": "SR118",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Ellman, Laura",
+      "voter_id": "~{\"name\": \"Ellman, Laura\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Collins, Lakesia",
+      "voter_id": "~{\"name\": \"Collins, Lakesia\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Guzm\u00e1n, Graciela",
+      "voter_id": "~{\"name\": \"Guzm\\u00e1n, Graciela\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rezin, Sue",
+      "voter_id": "~{\"name\": \"Rezin, Sue\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ventura, Rachel",
+      "voter_id": "~{\"name\": \"Ventura, Rachel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Walker, Mark L",
+      "voter_id": "~{\"name\": \"Walker, Mark L\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Jones III, Emil",
+      "voter_id": "~{\"name\": \"Jones III, Emil\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Lewis, Seth",
+      "voter_id": "~{\"name\": \"Lewis, Seth\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Syverson, Dave",
+      "voter_id": "~{\"name\": \"Syverson, Dave\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SR0118_43110.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SR0118_43110.pdf",
+  "_id": "99e74f7e-4dfd-11f0-8990-0a5235f7ee10"
+}

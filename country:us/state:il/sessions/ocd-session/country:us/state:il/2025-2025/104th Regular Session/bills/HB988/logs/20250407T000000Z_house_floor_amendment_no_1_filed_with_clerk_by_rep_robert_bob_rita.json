@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 1 Filed with Clerk by Rep. Robert \"Bob\" Rita",
+    "date": "2025-04-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB988"
+}

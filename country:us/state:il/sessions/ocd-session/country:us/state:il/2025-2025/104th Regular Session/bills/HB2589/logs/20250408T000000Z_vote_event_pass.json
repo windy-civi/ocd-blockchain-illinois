@@ -1,0 +1,103 @@
+{
+  "identifier": "",
+  "motion_text": "Public Health, Amendment 1",
+  "motion_classification": [],
+  "start_date": "2025-04-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "258c5228-4dfd-11f0-8990-0a5235f7ee10",
+  "bill_action": null,
+  "bill_identifier": "HB2589",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Evans Jr., Marcus C",
+      "voter_id": "~{\"name\": \"Evans Jr., Marcus C\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hauter, William E",
+      "voter_id": "~{\"name\": \"Hauter, William E\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grasse, Nicolle",
+      "voter_id": "~{\"name\": \"Grasse, Nicolle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Miller, Chris",
+      "voter_id": "~{\"name\": \"Miller, Chris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mah, Theresa",
+      "voter_id": "~{\"name\": \"Mah, Theresa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schmidt, Kevin",
+      "voter_id": "~{\"name\": \"Schmidt, Kevin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mussman, Michelle",
+      "voter_id": "~{\"name\": \"Mussman, Michelle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stava-Murray, Anne",
+      "voter_id": "~{\"name\": \"Stava-Murray, Anne\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Gordon-Booth, Jehan",
+      "voter_id": "~{\"name\": \"Gordon-Booth, Jehan\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2589HFA1_43244.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2589HFA1_43244.pdf",
+  "_id": "2597d3dc-4dfd-11f0-8990-0a5235f7ee10"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read in Full a First Time",
+    "date": "2025-01-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HJRCA6"
+}

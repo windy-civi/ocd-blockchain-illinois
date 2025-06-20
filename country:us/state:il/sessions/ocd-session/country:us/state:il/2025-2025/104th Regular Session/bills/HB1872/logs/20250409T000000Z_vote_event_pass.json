@@ -1,0 +1,121 @@
+{
+  "identifier": "",
+  "motion_text": "Adoption & Child Welfare, Amendment 2",
+  "motion_classification": [],
+  "start_date": "2025-04-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "1310cf16-4dfd-11f0-8990-0a5235f7ee10",
+  "bill_action": null,
+  "bill_identifier": "HB1872",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Crawford, Michael",
+      "voter_id": "~{\"name\": \"Crawford, Michael\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Costa Howard, Terra",
+      "voter_id": "~{\"name\": \"Costa Howard, Terra\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis, Lisa",
+      "voter_id": "~{\"name\": \"Davis, Lisa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gong-Gershowitz, Jennifer",
+      "voter_id": "~{\"name\": \"Gong-Gershowitz, Jennifer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hernandez, Norma",
+      "voter_id": "~{\"name\": \"Hernandez, Norma\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mussman, Michelle",
+      "voter_id": "~{\"name\": \"Mussman, Michelle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "LaPointe, Lindsey",
+      "voter_id": "~{\"name\": \"LaPointe, Lindsey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ness, Suzanne M",
+      "voter_id": "~{\"name\": \"Ness, Suzanne M\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Davis, Jed",
+      "voter_id": "~{\"name\": \"Davis, Jed\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Deering, Regan",
+      "voter_id": "~{\"name\": \"Deering, Regan\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "La Ha, Nicole",
+      "voter_id": "~{\"name\": \"La Ha, Nicole\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Reick, Steven",
+      "voter_id": "~{\"name\": \"Reick, Steven\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1872HFA2_43453.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1872HFA2_43453.pdf",
+  "_id": "1318adee-4dfd-11f0-8990-0a5235f7ee10"
+}

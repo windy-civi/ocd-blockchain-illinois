@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Placed on Calendar Order of First Reading",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB3214"
+}

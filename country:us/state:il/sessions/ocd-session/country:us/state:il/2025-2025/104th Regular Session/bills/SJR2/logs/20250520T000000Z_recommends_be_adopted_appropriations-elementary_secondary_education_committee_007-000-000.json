@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Recommends Be Adopted Appropriations-Elementary & Secondary Education Committee;  007-000-000",
+    "date": "2025-05-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR2"
+}

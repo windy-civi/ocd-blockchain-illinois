@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Committee Amendment No. 1 Filed with Clerk by Rep. Michelle Mussman",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2427"
+}

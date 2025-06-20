@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Appointment Message Tabled Pursuant Rule 10-2e - Superseded by AM 104-178 of the 104th General Assembly",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AM1040087"
+}

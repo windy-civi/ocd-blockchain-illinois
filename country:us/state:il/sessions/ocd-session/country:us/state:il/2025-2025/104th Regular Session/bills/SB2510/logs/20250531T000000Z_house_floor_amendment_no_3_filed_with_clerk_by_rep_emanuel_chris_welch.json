@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 3 Filed with Clerk by Rep. Emanuel \"Chris\" Welch",
+    "date": "2025-05-31",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2510"
+}

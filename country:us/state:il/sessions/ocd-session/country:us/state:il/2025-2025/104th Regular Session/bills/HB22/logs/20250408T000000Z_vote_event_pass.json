@@ -1,0 +1,115 @@
+{
+  "identifier": "",
+  "motion_text": "Cities & Villages, Amendment 1",
+  "motion_classification": [],
+  "start_date": "2025-04-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "e6284a4c-4dfc-11f0-8990-0a5235f7ee10",
+  "bill_action": null,
+  "bill_identifier": "HB22",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Deuter, Martha",
+      "voter_id": "~{\"name\": \"Deuter, Martha\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DeLuca, Anthony",
+      "voter_id": "~{\"name\": \"DeLuca, Anthony\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hernandez, Barbara",
+      "voter_id": "~{\"name\": \"Hernandez, Barbara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hanson, Matt",
+      "voter_id": "~{\"name\": \"Hanson, Matt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moylan, Martin J",
+      "voter_id": "~{\"name\": \"Moylan, Martin J\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Severin, Dave",
+      "voter_id": "~{\"name\": \"Severin, Dave\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reick, Steven",
+      "voter_id": "~{\"name\": \"Reick, Steven\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith, Nicholas K",
+      "voter_id": "~{\"name\": \"Smith, Nicholas K\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West II, Maurice A",
+      "voter_id": "~{\"name\": \"West II, Maurice A\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "McLaughlin, Martin",
+      "voter_id": "~{\"name\": \"McLaughlin, Martin\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Sosnowski, Joe C",
+      "voter_id": "~{\"name\": \"Sosnowski, Joe C\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0022HFA1_43340.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0022HFA1_43340.pdf",
+  "_id": "e639810e-4dfc-11f0-8990-0a5235f7ee10"
+}

@@ -1,0 +1,102 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4068",
+  "title": "SCH CD-ACCOMODATIONS-TIMELINE",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Children with Disabilities Article of the School Code. Provides that within 14 school days after receiving a written request for a federal Section 504 plan from a child's parent or guardian, a school district shall determine whether the clinical information provided by the parent or guardian is sufficient to support the need for a Section 504 plan, whether further evaluation is warranted to make that determination, or whether there is no basis for an evaluation or plan based on available information. Provides that if the district decides not to confer eligibility based on existing information or to conduct an evaluation, the district shall provide written notice to the parent or guardian explaining the rationale for the decision. Provides that if the district agrees to an evaluation, a meeting with the parent or guardian shall be held no later than 14 school days after receiving the written request. Requires the district to convene a team that shall identify the assessments necessary to complete the evaluation. Provides that for a student with documentation from a licensed health care provider indicating the need for an individualized health care plan to address a likely medical threat to the student's health or safety, the school's Section 504 plan team shall meet with the parent or guardian to consider creation of an interim Section 504 plan consistent with the health care provider's recommendations within 5 school days after receipt of the documentation, and if the Section 504 plan team agrees with the health care provider's recommendation, implementation of the requisite accommodations shall commence no later than 5 school days after the planning meeting. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Michael Crawford",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michael Crawford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Michael Crawford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB4068.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=205088&DocName=10400HB4068&DocNum=4068&DocTypeID=HB&LegID=163899&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4068&DocTypeID=HB&LegId=163899&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=4068&GAID=18&DocTypeID=HB&LegId=163899&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:37:53+00:00",
+  "_id": "4b5744f4-4dfd-11f0-8990-0a5235f7ee10"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third Reading - Standard Debate - Passed 091-019-000",
+    "date": "2025-05-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1723"
+}

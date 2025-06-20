@@ -1,0 +1,102 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4064",
+  "title": "EXTENDED PRODUCER RESPONSE",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Creates the Extended Producer Responsibility and Recycling Refund Act. Defines terms. Provides for the registration of producer responsibility organizations and service providers. Provides for the duties of a packaging producer responsibility organization and a recycling refund producer responsibility organization. Establishes advisory boards. Provides for responsibilities of packaging producers. Provides for restrictions on introduction and sales of covered materials and covered beverage containers. Provides for requirements for service providers. Provides for responsibilities for the Environmental Protection Agency. Provides for requirements for packaging program needs assessments; a packaging producer program plan; and a recycling refund program plan. Provides for procedures for plan and amendment review and approval. Provides for requirements for a coordination plan; performance targets; producer fees; a website; an applicable refund value for covered beverage containers; a convenience standard for redemption of containers; and a redemption system. Provides that any deposits that are not returned to the consumer must only be used by the recycling refund producer organization for specified purposes. Provides for requirements for a refund value to drop-off facilities and material recovery facilities. Requires reporting, including by a packaging producer responsibility organization, a recycling refund producer responsibility organization, the Environmental Protection Agency, and materials recovery facilities and drop-off facilities. Provides for immunity from liability for antitrust, restraint of trade, and unfair trade practices. Requires rulemaking by the Agency. Provides for enforcement by the Agency and penalties. Creates the Packaging Producer Responsibility Program Fund with a continuing appropriation to the Agency and the Recycling Refund Program Fund with a continuing appropriation to the Agency. Makes conforming changes to the State Finance Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Maurice A. West, II",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Rules Committee",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Maurice A. West, II",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Maurice A. West, II\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/documents/legislation/104/HB/PDF/10400HB4064.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?LegDocId=204987&DocName=10400HB4064&DocNum=4064&DocTypeID=HB&LegID=163849&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://beta.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4064&DocTypeID=HB&LegId=163849&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Legislation/BillStatus?DocNum=4064&GAID=18&DocTypeID=HB&LegId=163849&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "scraped_at": "2025-06-20T17:37:53+00:00",
+  "_id": "4b40916e-4dfd-11f0-8990-0a5235f7ee10"
+}

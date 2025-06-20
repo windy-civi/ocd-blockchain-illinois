@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Recommends Be Adopted Human Services Committee;  012-000-000",
+    "date": "2025-05-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR277"
+}

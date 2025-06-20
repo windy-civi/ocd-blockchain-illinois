@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove Chief Co-Sponsor Rep. Kam Buckner",
+    "date": "2025-03-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2755"
+}

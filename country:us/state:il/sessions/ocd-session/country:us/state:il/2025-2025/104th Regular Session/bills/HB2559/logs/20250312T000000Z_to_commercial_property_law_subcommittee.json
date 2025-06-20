@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "To Commercial & Property Law Subcommittee",
+    "date": "2025-03-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2559"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 1 Filed with Clerk by Rep. Mary Gill",
+    "date": "2025-05-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1605"
+}

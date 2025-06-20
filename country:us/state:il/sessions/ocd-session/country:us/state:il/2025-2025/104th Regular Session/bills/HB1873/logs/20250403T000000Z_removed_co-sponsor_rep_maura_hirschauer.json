@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Removed Co-Sponsor Rep. Maura Hirschauer",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1873"
+}

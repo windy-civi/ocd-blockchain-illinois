@@ -1,0 +1,139 @@
+{
+  "identifier": "",
+  "motion_text": "Third Reading, Amendment 4",
+  "motion_classification": [],
+  "start_date": "2025-04-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "2567e8ca-4dfd-11f0-8990-0a5235f7ee10",
+  "bill_action": null,
+  "bill_identifier": "HB2586",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Cassidy, Kelly M",
+      "voter_id": "~{\"name\": \"Cassidy, Kelly M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cabello, John M",
+      "voter_id": "~{\"name\": \"Cabello, John M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Friess, David",
+      "voter_id": "~{\"name\": \"Friess, David\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis, Lisa",
+      "voter_id": "~{\"name\": \"Davis, Lisa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Guerrero-Cuellar, Angelica",
+      "voter_id": "~{\"name\": \"Guerrero-Cuellar, Angelica\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Guzzardi, Will",
+      "voter_id": "~{\"name\": \"Guzzardi, Will\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ryan, Rick",
+      "voter_id": "~{\"name\": \"Ryan, Rick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olickal, Kevin John",
+      "voter_id": "~{\"name\": \"Olickal, Kevin John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Slaughter, Justin",
+      "voter_id": "~{\"name\": \"Slaughter, Justin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sheehan, Patrick",
+      "voter_id": "~{\"name\": \"Sheehan, Patrick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Vella, Dave",
+      "voter_id": "~{\"name\": \"Vella, Dave\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tipsword, Dennis",
+      "voter_id": "~{\"name\": \"Tipsword, Dennis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Windhorst, Patrick",
+      "voter_id": "~{\"name\": \"Windhorst, Patrick\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Gonz\u00e1lez Jr., Edgar",
+      "voter_id": "~{\"name\": \"Gonz\\u00e1lez Jr., Edgar\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Morgan, Bob",
+      "voter_id": "~{\"name\": \"Morgan, Bob\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2586HFA4_43322.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2586HFA4_43322.pdf",
+  "_id": "25771c5a-4dfd-11f0-8990-0a5235f7ee10"
+}

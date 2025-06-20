@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Assigned to Appropriations- Education",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2007"
+}

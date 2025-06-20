@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Committee Amendment No. 1 Adopted in State Government Administration Committee;  008-000-000",
+    "date": "2025-05-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1343"
+}

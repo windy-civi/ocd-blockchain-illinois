@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Committee Amendment No. 1 Filed with Clerk by Rep. Jay Hoffman",
+    "date": "2025-03-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2785"
+}

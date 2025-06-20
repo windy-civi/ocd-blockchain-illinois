@@ -1,0 +1,121 @@
+{
+  "identifier": "",
+  "motion_text": "Financial Institutions & Licensing, Amendment 2",
+  "motion_classification": [],
+  "start_date": "2025-04-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "3f9a61f0-4dfd-11f0-8990-0a5235f7ee10",
+  "bill_action": null,
+  "bill_identifier": "HB3554",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Coffey Jr., Michael J",
+      "voter_id": "~{\"name\": \"Coffey Jr., Michael J\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andrade Jr., Jaime M",
+      "voter_id": "~{\"name\": \"Andrade Jr., Jaime M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davidsmeyer, Christopher",
+      "voter_id": "~{\"name\": \"Davidsmeyer, Christopher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Croke, Margaret",
+      "voter_id": "~{\"name\": \"Croke, Margaret\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Didech, Daniel",
+      "voter_id": "~{\"name\": \"Didech, Daniel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Delgado, Eva-Dina",
+      "voter_id": "~{\"name\": \"Delgado, Eva-Dina\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gonz\u00e1lez Jr., Edgar",
+      "voter_id": "~{\"name\": \"Gonz\\u00e1lez Jr., Edgar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gong-Gershowitz, Jennifer",
+      "voter_id": "~{\"name\": \"Gong-Gershowitz, Jennifer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manley, Natalie A",
+      "voter_id": "~{\"name\": \"Manley, Natalie A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ugaste, Dan",
+      "voter_id": "~{\"name\": \"Ugaste, Dan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Spain, Ryan",
+      "voter_id": "~{\"name\": \"Spain, Ryan\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Mayfield, Rita",
+      "voter_id": "~{\"name\": \"Mayfield, Rita\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3554HFA2_43316.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3554HFA2_43316.pdf",
+  "_id": "3fa1e0ce-4dfd-11f0-8990-0a5235f7ee10"
+}

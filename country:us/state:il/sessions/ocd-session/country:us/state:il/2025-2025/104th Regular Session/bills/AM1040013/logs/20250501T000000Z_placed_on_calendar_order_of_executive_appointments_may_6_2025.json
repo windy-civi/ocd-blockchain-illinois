@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Placed on Calendar Order of Executive Appointments May 6, 2025",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "AM1040013"
+}

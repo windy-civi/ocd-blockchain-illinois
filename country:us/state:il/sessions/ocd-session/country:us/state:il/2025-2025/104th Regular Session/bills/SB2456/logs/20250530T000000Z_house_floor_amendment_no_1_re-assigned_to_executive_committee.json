@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 1 Re-assigned to Executive Committee",
+    "date": "2025-05-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2456"
+}

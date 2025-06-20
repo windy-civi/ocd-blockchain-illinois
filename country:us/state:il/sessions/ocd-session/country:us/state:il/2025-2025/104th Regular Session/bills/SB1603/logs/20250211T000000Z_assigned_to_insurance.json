@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Assigned to Insurance",
+    "date": "2025-02-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1603"
+}
