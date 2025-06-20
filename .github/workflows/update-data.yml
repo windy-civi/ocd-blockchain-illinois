@@ -51,12 +51,10 @@ jobs:
               openstates/scrapers:28675b011eef5bb35a758d05d1b7313d515c28ea \
               il bills --scrape --fastmode
       # The scraper adds _id and scraped_at to the data, which are non deterministic and mess with the immutable nature of our goals.
-      # - name: Sanitize Data (removes _id and scraped_at)
-      #   working-directory: ./main
-      #   env:
-      #     FORMATTER_INPUT_FOLDER: ${RUNNER_TEMP}/_working/_data/il
-      #   run: |
-      #     find $FORMATTER_INPUT_FOLDER -type f -name "*.json" -exec sh -c 'jq "del(..|._id?, .scraped_at?)" "{}" > "{}.tmp" && mv "{}.tmp" "{}"' \;
+      - name: Sanitize Data (removes _id and scraped_at)
+        working-directory: ./main
+        run: |
+          find ${RUNNER_TEMP}/_working/_data -type f -name "*.json" -exec bash -c 'jq "del(..|._id?, .scraped_at?)" "{}" > "{}.tmp" && mv "{}.tmp" "{}"' \;
       - name: Format Data
         working-directory: ./windy-civi/openstates_scraped_data_formatter
         env:
